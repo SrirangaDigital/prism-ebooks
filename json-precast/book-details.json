@@ -1,0 +1,214 @@
+{
+    "books": {
+        "001": {
+            "language": "en",
+            "identifier": "prism-ebooks/001",
+            "title": "50 Soul Stories",
+            "category": "",
+            "description": "",
+            "author": "",
+            "publisher": "",
+            "page": "133"
+        },
+        "002": {
+            "language": "en",
+            "identifier": "prism-ebooks/002",
+            "title": "Albert Einstein",
+            "category": "",
+            "description": "",
+            "author": "",
+            "publisher": "",
+            "page": "184"
+        },
+        "003": {
+            "language": "en",
+            "identifier": "prism-ebooks/003",
+            "title": "Aryans",
+            "category": "",
+            "description": "",
+            "author": "",
+            "publisher": "",
+            "page": "265"
+        },
+        "004": {
+            "language": "en",
+            "identifier": "prism-ebooks/004",
+            "title": "Faith For Life",
+            "category": "",
+            "description": "",
+            "author": "",
+            "publisher": "",
+            "page": "112"
+        },
+        "005": {
+            "language": "en",
+            "identifier": "prism-ebooks/005",
+            "title": "My Experiments with Truth",
+            "category": "",
+            "description": "",
+            "author": "",
+            "publisher": "",
+            "page": "552"
+        },
+        "006": {
+            "language": "en",
+            "identifier": "prism-ebooks/006",
+            "title": "Gitanjali",
+            "category": "",
+            "description": "",
+            "author": "",
+            "publisher": "",
+            "page": "144"
+        },
+        "007": {
+            "language": "en",
+            "identifier": "prism-ebooks/007",
+            "title": "Hanuman",
+            "category": "",
+            "description": "",
+            "author": "",
+            "publisher": "",
+            "page": "124"
+        },
+        "008": {
+            "language": "en",
+            "identifier": "prism-ebooks/008",
+            "title": "Isaac Newton",
+            "category": "",
+            "description": "",
+            "author": "",
+            "publisher": "",
+            "page": "192"
+        },
+        "009": {
+            "language": "en",
+            "identifier": "prism-ebooks/009",
+            "title": "Legacy of the Lotus",
+            "category": "",
+            "description": "",
+            "author": "",
+            "publisher": "",
+            "page": "107"
+        },
+        "010": {
+            "language": "en",
+            "identifier": "prism-ebooks/010",
+            "title": "Mein Kamf",
+            "category": "",
+            "description": "",
+            "author": "",
+            "publisher": "",
+            "page": "636"
+        },
+        "011": {
+            "language": "te",
+            "identifier": "prism-ebooks/011",
+            "title": "Otamini Angikarinchanu",
+            "category": "",
+            "description": "",
+            "author": "",
+            "publisher": "",
+            "page": "415"
+        },
+        "012": {
+            "language": "en",
+            "identifier": "prism-ebooks/012",
+            "title": "Our Earth and our Quest",
+            "category": "",
+            "description": "",
+            "author": "",
+            "publisher": "",
+            "page": "120"
+        },
+        "013": {
+            "language": "en",
+            "identifier": "prism-ebooks/013",
+            "title": "Ramayana",
+            "category": "",
+            "description": "",
+            "author": "",
+            "publisher": "",
+            "page": "172"
+        },
+        "014": {
+            "language": "en",
+            "identifier": "prism-ebooks/014",
+            "title": "Ramayana For Children",
+            "category": "",
+            "description": "",
+            "author": "",
+            "publisher": "",
+            "page": "64"
+        },
+        "015": {
+            "language": "en",
+            "identifier": "prism-ebooks/015",
+            "title": "Samskrithi",
+            "category": "",
+            "description": "",
+            "author": "",
+            "publisher": "",
+            "page": "136"
+        },
+        "016": {
+            "language": "kn",
+            "identifier": "prism-ebooks/016",
+            "title": "Soloppalare",
+            "category": "",
+            "description": "",
+            "author": "",
+            "publisher": "",
+            "page": "411"
+        },
+        "017": {
+            "language": "en",
+            "identifier": "prism-ebooks/017",
+            "title": "Srinivas Ramanujan",
+            "category": "",
+            "description": "",
+            "author": "",
+            "publisher": "",
+            "page": "176"
+        },
+        "018": {
+            "language": "en",
+            "identifier": "prism-ebooks/018",
+            "title": "Suryanamaskara",
+            "category": "",
+            "description": "",
+            "author": "",
+            "publisher": "",
+            "page": "136"
+        },
+        "019": {
+            "language": "en",
+            "identifier": "prism-ebooks/019",
+            "title": "The Prophet",
+            "category": "",
+            "description": "",
+            "author": "",
+            "publisher": "",
+            "page": "96"
+        },
+        "020": {
+            "language": "en",
+            "identifier": "prism-ebooks/020",
+            "title": "Vainubappu",
+            "category": "",
+            "description": "",
+            "author": "",
+            "publisher": "",
+            "page": "164"
+        },
+        "021": {
+            "language": "en",
+            "identifier": "prism-ebooks/021",
+            "title": "Yummy Cakes",
+            "category": "",
+            "description": "",
+            "author": "",
+            "publisher": "",
+            "page": "89"
+        }
+    }
+}
