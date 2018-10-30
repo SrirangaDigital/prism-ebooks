@@ -64,7 +64,7 @@
 </navPoint>
 </navPoint>
 <navPoint id="navPoint-17" playOrder="17">
-<navLabel><text>ಅಧ್ಯಾಯ 7 –  ಮೈತ್ರಿಕೂಟದ ಗಂಟುಗಳು</text></navLabel><content src="007-chapter007.xhtml#id-007"/>
+<navLabel><text>ಅಧ್ಯಾಯ - 7 –  ಮೈತ್ರಿಕೂಟದ ಗಂಟುಗಳು</text></navLabel><content src="007-chapter007.xhtml#id-007"/>
 </navPoint>
 <navPoint id="navPoint-18" playOrder="18">
 <navLabel><text>ಅಧ್ಯಾಯ - 8 –  ಶಕ್ತಿಯಿಂದ ಶಾಂತಿಯವರೆಗೆ</text></navLabel><content src="008-chapter008.xhtml#id-008"/>
@@ -79,22 +79,22 @@
 </navPoint>
 </navPoint>
 <navPoint id="navPoint-22" playOrder="22">
-<navLabel><text>ಅಧ್ಯಾಯ 9 –  ಪಾಕೀಸ್ತಾನದೊಂದಿಗೆ ನಂಟು</text></navLabel><content src="009-chapter009.xhtml#id-009"/>
+<navLabel><text>ಅಧ್ಯಾಯ - 9 –  ಪಾಕೀಸ್ತಾನದೊಂದಿಗೆ ನಂಟು</text></navLabel><content src="009-chapter009.xhtml#id-009"/>
 <navPoint id="navPoint-23" playOrder="23">
 <navLabel><text>ಲಾಹೋರ್ ಘೋಷಣಾ ಪತ್ರ</text></navLabel><content src="009-chapter009.xhtml#id-009.01"/>
 </navPoint>
 </navPoint>
 <navPoint id="navPoint-24" playOrder="24">
-<navLabel><text>ಅಧ್ಯಾಯ 10 –  ಮಹಾನಾಯಕನ ಮುಖವಾಡ</text></navLabel><content src="010-chapter010.xhtml#id-010"/>
+<navLabel><text>ಅಧ್ಯಾಯ - 10 –  ಮಹಾನಾಯಕನ ಮುಖವಾಡ</text></navLabel><content src="010-chapter010.xhtml#id-010"/>
 </navPoint>
 <navPoint id="navPoint-25" playOrder="25">
-<navLabel><text>ಅಧ್ಯಾಯ 11 –  ಚಿರಕಾಲವಿರಲಿ ನಮ್ಮ ಸ್ನೇಹ</text></navLabel><content src="011-chapter011.xhtml#id-011"/>
+<navLabel><text>ಅಧ್ಯಾಯ - 11 –  ಚಿರಕಾಲವಿರಲಿ ನಮ್ಮ ಸ್ನೇಹ</text></navLabel><content src="011-chapter011.xhtml#id-011"/>
 </navPoint>
 <navPoint id="navPoint-26" playOrder="26">
 <navLabel><text>ಅಧ್ಯಾಯ - 12 –  ರಾಜಧರ್ಮದ ರಾಜಕಾರಣ</text></navLabel><content src="012-chapter012.xhtml#id-012"/>
 </navPoint>
 <navPoint id="navPoint-27" playOrder="27">
-<navLabel><text>ಅಧ್ಯಾಯ 13 –  ಇದೂ ಸರಿಯೆ, ಅದೂ ಸರಿಯೆ</text></navLabel><content src="013-chapter013.xhtml#id-013"/>
+<navLabel><text>ಅಧ್ಯಾಯ - 13 –  ಇದೂ ಸರಿಯೆ, ಅದೂ ಸರಿಯೆ</text></navLabel><content src="013-chapter013.xhtml#id-013"/>
 <navPoint id="navPoint-28" playOrder="28">
 <navLabel><text>ಬಬಲಿಯ ದೀಪಾವಳಿ</text></navLabel><content src="013-chapter013.xhtml#id-013.01"/>
 </navPoint>
