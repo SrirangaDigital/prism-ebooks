@@ -1,8 +1,9 @@
 {
     "books": {
-        "001": {
+        "185": {
             "language": "en",
-            "identifier": "prism-ebooks/001",
+            "identifier": "prism-ebooks/185",
+            "isbn": "tbd",
             "title": "50 Soul Stories",
             "category": "",
             "description": "",

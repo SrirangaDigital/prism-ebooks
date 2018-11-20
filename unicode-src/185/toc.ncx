@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns:ncx="http://www.daisy.org/z3986/2005/ncx/" xmlns="http://www.daisy.org/z3986/2005/ncx/"
+    version="2005-1" xml:lang="en">
+
+   <head>
+      <meta name="dtb:uid" content="urn:isbn:tbd"/>
+      <meta name="dtb:depth" content="1"/>
+      <meta name="dtb:totalPageCount" content="0"/>
+      <meta name="dtb:maxPageNumber" content="0"/>
+   </head>
+
+   <docTitle>
+      <text>50 Soul Stories</text>
+   </docTitle>
+
+   <navMap>
+		
+<navPoint id="navPoint-1" playOrder="1">
+<navLabel><text>50 Soul Stories</text></navLabel><content src="000a-title.xhtml#id-000a"/>
+</navPoint>
+<navPoint id="navPoint-2" playOrder="2">
+<navLabel><text>Copyright</text></navLabel><content src="000b-copyright.xhtml#id-000b"/>
+</navPoint>
+<navPoint id="navPoint-3" playOrder="3">
+<navLabel><text>Dedication</text></navLabel><content src="000c-Dedication.xhtml#id-000c"/>
+</navPoint>
+<navPoint id="navPoint-4" playOrder="4">
+<navLabel><text>About Author</text></navLabel><content src="000d-about-author.xhtml#id-000d"/>
+</navPoint>
+<navPoint id="navPoint-5" playOrder="5">
+<navLabel><text>Foreword</text></navLabel><content src="000e-foreword.xhtml#id-000e"/>
+</navPoint>
+<navPoint id="navPoint-6" playOrder="6">
+<navLabel><text>Preface</text></navLabel><content src="000f-preface.xhtml#id-000f"/>
+</navPoint>
+<navPoint id="navPoint-7" playOrder="7">
+<navLabel><text>Be Transparent</text></navLabel><content src="001-chapter001.xhtml#id-001"/>
+</navPoint>
+<navPoint id="navPoint-8" playOrder="8">
+<navLabel><text>Sacred Cheating</text></navLabel><content src="002-chapter002.xhtml#id-002"/>
+</navPoint>
+<navPoint id="navPoint-9" playOrder="9">
+<navLabel><text>Holy Disciplinary Proceedings</text></navLabel><content src="003-chapter003.xhtml#id-003"/>
+</navPoint>
+<navPoint id="navPoint-10" playOrder="10">
+<navLabel><text>‘Discipline’ Is not Management’s Franchise</text></navLabel><content src="004-chapter004.xhtml#id-004"/>
+</navPoint>
+<navPoint id="navPoint-11" playOrder="11">
+<navLabel><text>Judicious Discriminating Treatment</text></navLabel><content src="005-chapter005.xhtml#id-005"/>
+</navPoint>
+<navPoint id="navPoint-12" playOrder="12">
+<navLabel><text>Those who live in glasshouses...</text></navLabel><content src="006-chapter006.xhtml#id-006"/>
+</navPoint>
+<navPoint id="navPoint-13" playOrder="13">
+<navLabel><text>Get back to Basics</text></navLabel><content src="007-chapter007.xhtml#id-007"/>
+</navPoint>
+<navPoint id="navPoint-14" playOrder="14">
+<navLabel><text>Angling a Whale</text></navLabel><content src="008-chapter008.xhtml#id-008"/>
+</navPoint>
+<navPoint id="navPoint-15" playOrder="15">
+<navLabel><text>Learn Soul Searching</text></navLabel><content src="009-chapter009.xhtml#id-009"/>
+</navPoint>
+<navPoint id="navPoint-16" playOrder="16">
+<navLabel><text>A Pygmy Noble Gesture</text></navLabel><content src="010-chapter010.xhtml#id-010"/>
+</navPoint>
+<navPoint id="navPoint-17" playOrder="17">
+<navLabel><text>Practise – Don’t Preach</text></navLabel><content src="011-chapter011.xhtml#id-011"/>
+</navPoint>
+<navPoint id="navPoint-18" playOrder="18">
+<navLabel><text>Ma’ Pays</text></navLabel><content src="012-chapter012.xhtml#id-012"/>
+</navPoint>
+<navPoint id="navPoint-19" playOrder="19">
+<navLabel><text>How Do I look?</text></navLabel><content src="013-chapter013.xhtml#id-013"/>
+</navPoint>
+<navPoint id="navPoint-20" playOrder="20">
+<navLabel><text>Unforgiving of the Giver</text></navLabel><content src="014-chapter014.xhtml#id-014"/>
+</navPoint>
+<navPoint id="navPoint-21" playOrder="21">
+<navLabel><text>Never Say ‘Under’ Again</text></navLabel><content src="015-chapter015.xhtml#id-015"/>
+</navPoint>
+<navPoint id="navPoint-22" playOrder="22">
+<navLabel><text>Backseat Driving</text></navLabel><content src="016-chapter016.xhtml#id-016"/>
+</navPoint>
+<navPoint id="navPoint-23" playOrder="23">
+<navLabel><text>Clarity in Ambiguity</text></navLabel><content src="017-chapter017.xhtml#id-017"/>
+</navPoint>
+<navPoint id="navPoint-24" playOrder="24">
+<navLabel><text>‘Trust’ and ‘Suspicion’ Don’t Jell</text></navLabel><content src="018-chapter018.xhtml#id-018"/>
+</navPoint>
+<navPoint id="navPoint-25" playOrder="25">
+<navLabel><text>The Secret of Excellence</text></navLabel><content src="019-chapter019.xhtml#id-019"/>
+</navPoint>
+<navPoint id="navPoint-26" playOrder="26">
+<navLabel><text>Water Logic</text></navLabel><content src="020-chapter020.xhtml#id-020"/>
+</navPoint>
+<navPoint id="navPoint-27" playOrder="27">
+<navLabel><text>How Forcible are Right Words?</text></navLabel><content src="021-chapter021.xhtml#id-021"/>
+</navPoint>
+<navPoint id="navPoint-28" playOrder="28">
+<navLabel><text>Create a Problem</text></navLabel><content src="022-chapter022.xhtml#id-022"/>
+</navPoint>
+<navPoint id="navPoint-29" playOrder="29">
+<navLabel><text>Intellectual Integrity</text></navLabel><content src="023-chapter023.xhtml#id-023"/>
+</navPoint>
+<navPoint id="navPoint-30" playOrder="30">
+<navLabel><text>A Moment of Truth</text></navLabel><content src="024-chapter024.xhtml#id-024"/>
+</navPoint>
+<navPoint id="navPoint-31" playOrder="31">
+<navLabel><text>Execute ‘Love-bonds’</text></navLabel><content src="025-chapter025.xhtml#id-025"/>
+</navPoint>
+<navPoint id="navPoint-32" playOrder="32">
+<navLabel><text>Mein Hoon Na...</text></navLabel><content src="026-chapter026.xhtml#id-026"/>
+</navPoint>
+<navPoint id="navPoint-33" playOrder="33">
+<navLabel><text>Create out of Mud</text></navLabel><content src="027-chapter027.xhtml#id-026"/>
+</navPoint>
+<navPoint id="navPoint-34" playOrder="34">
+<navLabel><text>Desiderata</text></navLabel><content src="028-chapter028.xhtml#id-028"/>
+</navPoint>
+<navPoint id="navPoint-35" playOrder="35">
+<navLabel><text>Mother Wit</text></navLabel><content src="029-chapter029.xhtml#id-029"/>
+</navPoint>
+<navPoint id="navPoint-36" playOrder="36">
+<navLabel><text>‘Honesty Jar’</text></navLabel><content src="030-chapter030.xhtml#id-030"/>
+</navPoint>
+<navPoint id="navPoint-37" playOrder="37">
+<navLabel><text>Great Is One Who Imparts Knowledge</text></navLabel><content src="031-chapter031.xhtml#id-031"/>
+</navPoint>
+<navPoint id="navPoint-38" playOrder="38">
+<navLabel><text>Integration of Two Goals</text></navLabel><content src="032-chapter032.xhtml#id-032"/>
+</navPoint>
+<navPoint id="navPoint-39" playOrder="39">
+<navLabel><text>Survival into Future</text></navLabel><content src="033-chapter033.xhtml#id-033"/>
+</navPoint>
+<navPoint id="navPoint-40" playOrder="40">
+<navLabel><text>Delayering of a Towering Guru</text></navLabel><content src="034-chapter034.xhtml#id-034"/>
+</navPoint>
+<navPoint id="navPoint-41" playOrder="41">
+<navLabel><text>Humility is akin to Greatness</text></navLabel><content src="035-chapter035.xhtml#id-035"/>
+</navPoint>
+<navPoint id="navPoint-42" playOrder="42">
+<navLabel><text>The Quality Oath</text></navLabel><content src="036-chapter036.xhtml#id-036"/>
+</navPoint>
+<navPoint id="navPoint-43" playOrder="43">
+<navLabel><text>A Film Monk</text></navLabel><content src="037-chapter037.xhtml#id-037"/>
+</navPoint>
+<navPoint id="navPoint-44" playOrder="44">
+<navLabel><text>The Gordian knot</text></navLabel><content src="038-chapter038.xhtml#id-038"/>
+</navPoint>
+<navPoint id="navPoint-45" playOrder="45">
+<navLabel><text>The Clarion Call</text></navLabel><content src="039-chapter039.xhtml#id-039"/>
+</navPoint>
+<navPoint id="navPoint-46" playOrder="46">
+<navLabel><text>From ‘Brave New Manager’ to a ‘Management Monk’</text></navLabel><content src="040-chapter040.xhtml#id-040"/>
+</navPoint>
+<navPoint id="navPoint-47" playOrder="47">
+<navLabel><text>Preserve Indian Heritage and Asian Vista</text></navLabel><content src="041-chapter041.xhtml#id-041"/>
+</navPoint>
+<navPoint id="navPoint-48" playOrder="48">
+<navLabel><text>Listen to Your Heart</text></navLabel><content src="042-chapter042.xhtml#id-042"/>
+</navPoint>
+<navPoint id="navPoint-49" playOrder="49">
+<navLabel><text>Internal Clarity Leads to External Solutions</text></navLabel><content src="043-chapter043.xhtml#id-043"/>
+</navPoint>
+<navPoint id="navPoint-50" playOrder="50">
+<navLabel><text>Nurture thy Morality</text></navLabel><content src="044-chapter044.xhtml#id-044"/>
+</navPoint>
+<navPoint id="navPoint-51" playOrder="51">
+<navLabel><text>Hug Your Enemies</text></navLabel><content src="045-chapter045.xhtml#id-045"/>
+</navPoint>
+<navPoint id="navPoint-52" playOrder="52">
+<navLabel><text>I met a dragon !</text></navLabel><content src="046-chapter046.xhtml#id-046"/>
+</navPoint>
+<navPoint id="navPoint-53" playOrder="53">
+<navLabel><text>The Great Pied Piper</text></navLabel><content src="047-chapter047.xhtml#id-047"/>
+</navPoint>
+<navPoint id="navPoint-54" playOrder="54">
+<navLabel><text>Mr. Heartware !</text></navLabel><content src="048-chapter048.xhtml#id-048"/>
+</navPoint>
+<navPoint id="navPoint-55" playOrder="55">
+<navLabel><text>Incredible Credibility</text></navLabel><content src="049-chapter049.xhtml#id-049"/>
+</navPoint>
+<navPoint id="navPoint-56" playOrder="56">
+<navLabel><text>Follow Your Moral Compass</text></navLabel><content src="050-chapter050.xhtml#id-050"/>
+</navPoint>
+   </navMap>
+</ncx>

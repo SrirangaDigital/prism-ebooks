@@ -168,6 +168,21 @@ body {
 	width: 33%;
 	max-width: 100px;
 }
+.maintext img{
+	display: block;
+	margin: 0 auto;
+	text-align: center;
+}
+.maintext figure{
+	display: block;
+	margin: 0 auto;
+	text-align: center;
+}
+.maintext .img-center{
+	display: block;
+	margin: 0 auto;
+	text-align: center;
+}
 .maintext .vertical-delimiter {
 	margin: 1em 0;
 	text-align: center;	
