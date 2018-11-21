@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns:ncx="http://www.daisy.org/z3986/2005/ncx/" xmlns="http://www.daisy.org/z3986/2005/ncx/"
+    version="2005-1" xml:lang="en">
+
+   <head>
+      <meta name="dtb:uid" content="urn:isbn:Whatever"/>
+      <meta name="dtb:depth" content="1"/>
+      <meta name="dtb:totalPageCount" content="0"/>
+      <meta name="dtb:maxPageNumber" content="0"/>
+   </head>
+
+   <docTitle>
+      <text>Whatever</text>
+   </docTitle>
+
+   <navMap>
+		
+<navPoint id="navPoint-1" playOrder="1">
+<navLabel><text>Title Page</text></navLabel><content src="000a-title.xhtml#id-000a"/>
+</navPoint>
+<navPoint id="navPoint-2" playOrder="2">
+<navLabel><text>Copyright</text></navLabel><content src="000b-copyright.xhtml#id-000b"/>
+</navPoint>
+<navPoint id="navPoint-3" playOrder="3">
+<navLabel><text>Introduction</text></navLabel><content src="000c-introduction.xhtml#id-000c.1"/>
+</navPoint>
+<navPoint id="navPoint-4" playOrder="4">
+<navLabel><text>Farewell</text></navLabel><content src="000d-farewell.xhtml#id-000d.1"/>
+</navPoint>
+<navPoint id="navPoint-5" playOrder="5">
+<navLabel><text>Part I - My Experiments with Truth</text></navLabel><content src="001-chapter001.xhtml#id-p1"/>
+</navPoint>
+<navPoint id="navPoint-6" playOrder="6">
+<navLabel><text>1.  – Birth And Parentage</text></navLabel><content src="001-chapter001.xhtml#id-p1-001.01"/>
+</navPoint>
+<navPoint id="navPoint-7" playOrder="7">
+<navLabel><text>2.  Childhood</text></navLabel><content src="001-chapter001.xhtml#id-p1-001.02"/>
+</navPoint>
+<navPoint id="navPoint-8" playOrder="8">
+<navLabel><text>3.  Child Marriage</text></navLabel><content src="001-chapter001.xhtml#id-p1-001.03"/>
+</navPoint>
+<navPoint id="navPoint-9" playOrder="9">
+<navLabel><text>4.  Playing The Husband</text></navLabel><content src="001-chapter001.xhtml#id-p1-001.04"/>
+</navPoint>
+<navPoint id="navPoint-10" playOrder="10">
+<navLabel><text>5.  – At The High School</text></navLabel><content src="001-chapter001.xhtml#id-p1-001.05"/>
+</navPoint>
+<navPoint id="navPoint-11" playOrder="11">
+<navLabel><text>6.  – A Tragedy</text></navLabel><content src="001-chapter001.xhtml#id-p1-001.06"/>
+</navPoint>
+<navPoint id="navPoint-12" playOrder="12">
+<navLabel><text>7.  – A Tragedy (Contd.)</text></navLabel><content src="001-chapter001.xhtml#id-p1-001.07"/>
+</navPoint>
+<navPoint id="navPoint-13" playOrder="13">
+<navLabel><text>8.  – Stealing And Atonement</text></navLabel><content src="001-chapter001.xhtml#id-p1-001.08"/>
+</navPoint>
+<navPoint id="navPoint-14" playOrder="14">
+<navLabel><text>9.  – My Father's Death And My Double Shame</text></navLabel><content src="001-chapter001.xhtml#id-p1-001.09"/>
+</navPoint>
+<navPoint id="navPoint-15" playOrder="15">
+<navLabel><text>10.  – Glimpses of Religion</text></navLabel><content src="001-chapter001.xhtml#id-p1-001.10"/>
+</navPoint>
+<navPoint id="navPoint-16" playOrder="16">
+<navLabel><text>11.  – Preparation For England</text></navLabel><content src="001-chapter001.xhtml#id-p1-001.11"/>
+</navPoint>
+<navPoint id="navPoint-17" playOrder="17">
+<navLabel><text>12.  – Outcaste</text></navLabel><content src="001-chapter001.xhtml#id-p1-001.12"/>
+</navPoint>
+<navPoint id="navPoint-18" playOrder="18">
+<navLabel><text>13.  – In London At last</text></navLabel><content src="001-chapter001.xhtml#id-p1-001.13"/>
+</navPoint>
+<navPoint id="navPoint-19" playOrder="19">
+<navLabel><text>14.  – My Choice</text></navLabel><content src="001-chapter001.xhtml#id-p1-001.14"/>
+</navPoint>
+<navPoint id="navPoint-20" playOrder="20">
+<navLabel><text>15.  – Playing The English Gentleman</text></navLabel><content src="001-chapter001.xhtml#id-p1-001.15"/>
+</navPoint>
+<navPoint id="navPoint-21" playOrder="21">
+<navLabel><text>16.  – Changes</text></navLabel><content src="001-chapter001.xhtml#id-p1-001.16"/>
+</navPoint>
+<navPoint id="navPoint-22" playOrder="22">
+<navLabel><text>17.  – Experiments In Dietetics</text></navLabel><content src="001-chapter001.xhtml#id-p1-001.17"/>
+</navPoint>
+<navPoint id="navPoint-23" playOrder="23">
+<navLabel><text>18.  – Shyness My Shield</text></navLabel><content src="001-chapter001.xhtml#id-p1-001.18"/>
+</navPoint>
+<navPoint id="navPoint-24" playOrder="24">
+<navLabel><text>19.  – The Canker of Untruth</text></navLabel><content src="001-chapter001.xhtml#id-p1-001.19"/>
+</navPoint>
+<navPoint id="navPoint-25" playOrder="25">
+<navLabel><text>20.  – Acquaintance With Religions</text></navLabel><content src="001-chapter001.xhtml#id-p1-001.20"/>
+</navPoint>
+<navPoint id="navPoint-26" playOrder="26">
+<navLabel><text>21.  – निर्बल के बल राम</text></navLabel><content src="001-chapter001.xhtml#id-p1-001.21"/>
+</navPoint>
+<navPoint id="navPoint-27" playOrder="27">
+<navLabel><text>22.  – Narayan Hemchandra</text></navLabel><content src="001-chapter001.xhtml#id-p1-001.22"/>
+</navPoint>
+<navPoint id="navPoint-28" playOrder="28">
+<navLabel><text>23.  – The Great Exhibition</text></navLabel><content src="001-chapter001.xhtml#id-p1-001.23"/>
+</navPoint>
+<navPoint id="navPoint-29" playOrder="29">
+<navLabel><text>24.  – ‘Called’ - But Then?</text></navLabel><content src="001-chapter001.xhtml#id-p1-001.24"/>
+</navPoint>
+<navPoint id="navPoint-30" playOrder="30">
+<navLabel><text>25.  – My Helplessness</text></navLabel><content src="001-chapter001.xhtml#id-p1-001.25"/>
+</navPoint>
+<navPoint id="navPoint-31" playOrder="31">
+<navLabel><text>Part II - My Experiments with Truth</text></navLabel><content src="002-chapter002.xhtml#id-p2"/>
+</navPoint>
+<navPoint id="navPoint-32" playOrder="32">
+<navLabel><text>1.  – Raychandbhai</text></navLabel><content src="002-chapter002.xhtml#id-p2-002.01"/>
+</navPoint>
+<navPoint id="navPoint-33" playOrder="33">
+<navLabel><text>2.  – How I Began Life</text></navLabel><content src="002-chapter002.xhtml#id-p2-002.02"/>
+</navPoint>
+<navPoint id="navPoint-34" playOrder="34">
+<navLabel><text>3.  – The First Case</text></navLabel><content src="002-chapter002.xhtml#id-p2-002.03"/>
+</navPoint>
+<navPoint id="navPoint-35" playOrder="35">
+<navLabel><text>4.  – The First Shock</text></navLabel><content src="002-chapter002.xhtml#id-p2-002.04"/>
+</navPoint>
+<navPoint id="navPoint-36" playOrder="36">
+<navLabel><text>5.  – Preparing For South Africa</text></navLabel><content src="002-chapter002.xhtml#id-p2-002.05"/>
+</navPoint>
+<navPoint id="navPoint-37" playOrder="37">
+<navLabel><text>6.  – Arrival In Natal</text></navLabel><content src="002-chapter002.xhtml#id-p2-002.06"/>
+</navPoint>
+<navPoint id="navPoint-38" playOrder="38">
+<navLabel><text>7.  – Some Experiences</text></navLabel><content src="002-chapter002.xhtml#id-p2-002.07"/>
+</navPoint>
+<navPoint id="navPoint-39" playOrder="39">
+<navLabel><text>8.  – On The Way to Pretoria</text></navLabel><content src="002-chapter002.xhtml#id-p2-002.08"/>
+</navPoint>
+<navPoint id="navPoint-40" playOrder="40">
+<navLabel><text>9.  – More Hardships</text></navLabel><content src="002-chapter002.xhtml#id-p2-002.09"/>
+</navPoint>
+<navPoint id="navPoint-41" playOrder="41">
+<navLabel><text>10.  – First Day In Pretoria</text></navLabel><content src="002-chapter002.xhtml#id-p2-002.10"/>
+</navPoint>
+<navPoint id="navPoint-42" playOrder="42">
+<navLabel><text>11.  – Christian Contacts</text></navLabel><content src="002-chapter002.xhtml#id-p2-002.11"/>
+</navPoint>
+<navPoint id="navPoint-43" playOrder="43">
+<navLabel><text>12.  – Seeking Touch With Indians</text></navLabel><content src="002-chapter002.xhtml#id-p2-002.12"/>
+</navPoint>
+<navPoint id="navPoint-44" playOrder="44">
+<navLabel><text>13.  – What It Is To Be A ‘Coolie’</text></navLabel><content src="002-chapter002.xhtml#id-p2-002.13"/>
+</navPoint>
+<navPoint id="navPoint-45" playOrder="45">
+<navLabel><text>14.  – Preparation For The Case</text></navLabel><content src="002-chapter002.xhtml#id-p2-002.14"/>
+</navPoint>
+<navPoint id="navPoint-46" playOrder="46">
+<navLabel><text>15.  – Religious Ferment</text></navLabel><content src="002-chapter002.xhtml#id-p2-002.15"/>
+</navPoint>
+<navPoint id="navPoint-47" playOrder="47">
+<navLabel><text>16.  – Man Proposes, God Disposes</text></navLabel><content src="002-chapter002.xhtml#id-p2-002.16"/>
+</navPoint>
+<navPoint id="navPoint-48" playOrder="48">
+<navLabel><text>17.  – Settled In Natal</text></navLabel><content src="002-chapter002.xhtml#id-p2-002.17"/>
+</navPoint>
+<navPoint id="navPoint-49" playOrder="49">
+<navLabel><text>18.  – Colour Bar</text></navLabel><content src="002-chapter002.xhtml#id-p2-002.18"/>
+</navPoint>
+<navPoint id="navPoint-50" playOrder="50">
+<navLabel><text>19.  – Natal Indian Congress</text></navLabel><content src="002-chapter002.xhtml#id-p2-002.19"/>
+</navPoint>
+<navPoint id="navPoint-51" playOrder="51">
+<navLabel><text>20.  – Balasundaram</text></navLabel><content src="002-chapter002.xhtml#id-p2-002.20"/>
+</navPoint>
+<navPoint id="navPoint-52" playOrder="52">
+<navLabel><text>21.  – The £3 Tax</text></navLabel><content src="002-chapter002.xhtml#id-p2-002.21"/>
+</navPoint>
+<navPoint id="navPoint-53" playOrder="53">
+<navLabel><text>22.  – Comparative Study Of Religions</text></navLabel><content src="002-chapter002.xhtml#id-p2-002.22"/>
+</navPoint>
+<navPoint id="navPoint-54" playOrder="54">
+<navLabel><text>23.  – As a Householder</text></navLabel><content src="002-chapter002.xhtml#id-p2-002.23"/>
+</navPoint>
+<navPoint id="navPoint-55" playOrder="55">
+<navLabel><text>24.  – Homeward</text></navLabel><content src="002-chapter002.xhtml#id-p2-002.24"/>
+</navPoint>
+<navPoint id="navPoint-56" playOrder="56">
+<navLabel><text>25.  – In India</text></navLabel><content src="002-chapter002.xhtml#id-p2-002.25"/>
+</navPoint>
+<navPoint id="navPoint-57" playOrder="57">
+<navLabel><text>26.  – Two Passions</text></navLabel><content src="002-chapter002.xhtml#id-p2-002.26"/>
+</navPoint>
+<navPoint id="navPoint-58" playOrder="58">
+<navLabel><text>27.  – The Bombay Meeting</text></navLabel><content src="002-chapter002.xhtml#id-p2-002.27"/>
+</navPoint>
+<navPoint id="navPoint-59" playOrder="59">
+<navLabel><text>28.  – Poona And Madras</text></navLabel><content src="002-chapter002.xhtml#id-p2-002.28"/>
+</navPoint>
+<navPoint id="navPoint-60" playOrder="60">
+<navLabel><text>29.  – ‘Return Soon’</text></navLabel><content src="002-chapter002.xhtml#id-p2-002.29"/>
+</navPoint>
+<navPoint id="navPoint-61" playOrder="61">
+<navLabel><text>Part III - My Experiments with Truth</text></navLabel><content src="003-chapter003.xhtml#id-p3"/>
+</navPoint>
+<navPoint id="navPoint-62" playOrder="62">
+<navLabel><text>1.  – Rumblings Of The Storm</text></navLabel><content src="003-chapter003.xhtml#id-p3-003.01"/>
+</navPoint>
+<navPoint id="navPoint-63" playOrder="63">
+<navLabel><text>2.  – The Storm</text></navLabel><content src="003-chapter003.xhtml#id-p3-003.02"/>
+</navPoint>
+<navPoint id="navPoint-64" playOrder="64">
+<navLabel><text>3.  – The Test</text></navLabel><content src="003-chapter003.xhtml#id-p3-003.03"/>
+</navPoint>
+<navPoint id="navPoint-65" playOrder="65">
+<navLabel><text>4.  – The Calm After The Storm</text></navLabel><content src="003-chapter003.xhtml#id-p3-003.04"/>
+</navPoint>
+<navPoint id="navPoint-66" playOrder="66">
+<navLabel><text>5.  – Education Of Children</text></navLabel><content src="003-chapter003.xhtml#id-p3-003.05"/>
+</navPoint>
+<navPoint id="navPoint-67" playOrder="67">
+<navLabel><text>6.  – Sprit Of Service</text></navLabel><content src="003-chapter003.xhtml#id-p3-003.06"/>
+</navPoint>
+<navPoint id="navPoint-68" playOrder="68">
+<navLabel><text>7.  – Brahmacharya - I</text></navLabel><content src="003-chapter003.xhtml#id-p3-003.07"/>
+</navPoint>
+<navPoint id="navPoint-69" playOrder="69">
+<navLabel><text>8.  – Brahmacharya - II</text></navLabel><content src="003-chapter003.xhtml#id-p3-003.08"/>
+</navPoint>
+<navPoint id="navPoint-70" playOrder="70">
+<navLabel><text>9.  – Simpe Life</text></navLabel><content src="003-chapter003.xhtml#id-p3-003.09"/>
+</navPoint>
+<navPoint id="navPoint-71" playOrder="71">
+<navLabel><text>10.  – The Boer War</text></navLabel><content src="003-chapter003.xhtml#id-p3-003.10"/>
+</navPoint>
+<navPoint id="navPoint-72" playOrder="72">
+<navLabel><text>11.  – Saniary Reform And Famine Relief</text></navLabel><content src="003-chapter003.xhtml#id-p3-003.11"/>
+</navPoint>
+<navPoint id="navPoint-73" playOrder="73">
+<navLabel><text>12.  – Return To India</text></navLabel><content src="003-chapter003.xhtml#id-p3-003.12"/>
+</navPoint>
+<navPoint id="navPoint-74" playOrder="74">
+<navLabel><text>13.  – In India Again</text></navLabel><content src="003-chapter003.xhtml#id-p3-003.13"/>
+</navPoint>
+<navPoint id="navPoint-75" playOrder="75">
+<navLabel><text>14.  – Clerk And Bearer</text></navLabel><content src="003-chapter003.xhtml#id-p3-003.14"/>
+</navPoint>
+<navPoint id="navPoint-76" playOrder="76">
+<navLabel><text>15.  – In The Congress</text></navLabel><content src="003-chapter003.xhtml#id-p3-003.15"/>
+</navPoint>
+<navPoint id="navPoint-77" playOrder="77">
+<navLabel><text>16.  – Lord Curzon's Darbar</text></navLabel><content src="003-chapter003.xhtml#id-p3-003.16"/>
+</navPoint>
+<navPoint id="navPoint-78" playOrder="78">
+<navLabel><text>17.  – A Month With Gokhale - I</text></navLabel><content src="003-chapter003.xhtml#id-p3-003.17"/>
+</navPoint>
+<navPoint id="navPoint-79" playOrder="79">
+<navLabel><text>18.  – A Month With Gokhale - II</text></navLabel><content src="003-chapter003.xhtml#id-p3-003.18"/>
+</navPoint>
+<navPoint id="navPoint-80" playOrder="80">
+<navLabel><text>19.  – A Month With Gokhale - III</text></navLabel><content src="003-chapter003.xhtml#id-p3-003.19"/>
+</navPoint>
+<navPoint id="navPoint-81" playOrder="81">
+<navLabel><text>20.  – In Benares</text></navLabel><content src="003-chapter003.xhtml#id-p3-003.20"/>
+</navPoint>
+<navPoint id="navPoint-82" playOrder="82">
+<navLabel><text>21.  – Settled In Bombay?</text></navLabel><content src="003-chapter003.xhtml#id-p3-003.21"/>
+</navPoint>
+<navPoint id="navPoint-83" playOrder="83">
+<navLabel><text>22.  – Faith On Its Trial</text></navLabel><content src="003-chapter003.xhtml#id-p3-003.22"/>
+</navPoint>
+<navPoint id="navPoint-84" playOrder="84">
+<navLabel><text>23.  – To South Africa Again</text></navLabel><content src="003-chapter003.xhtml#id-p3-003.23"/>
+</navPoint>
+<navPoint id="navPoint-85" playOrder="85">
+<navLabel><text>Part IV - My Experiments with Truth</text></navLabel><content src="004-chapter004.xhtml#id-p4"/>
+</navPoint>
+<navPoint id="navPoint-86" playOrder="86">
+<navLabel><text>1.  – ‘Loves Labour’s Lost’</text></navLabel><content src="004-chapter004.xhtml#id-p4-004.01"/>
+</navPoint>
+<navPoint id="navPoint-87" playOrder="87">
+<navLabel><text>2.  – Autocrats From Asia</text></navLabel><content src="004-chapter004.xhtml#id-p4-004.02"/>
+</navPoint>
+<navPoint id="navPoint-88" playOrder="88">
+<navLabel><text>3.  – Pocketed The Insult</text></navLabel><content src="004-chapter004.xhtml#id-p4-004.03"/>
+</navPoint>
+<navPoint id="navPoint-89" playOrder="89">
+<navLabel><text>4.  – Quickened Spirit of Sacrifice</text></navLabel><content src="004-chapter004.xhtml#id-p4-004.04"/>
+</navPoint>
+<navPoint id="navPoint-90" playOrder="90">
+<navLabel><text>5.  – Result of Introspection</text></navLabel><content src="004-chapter004.xhtml#id-p4-004.05"/>
+</navPoint>
+<navPoint id="navPoint-91" playOrder="91">
+<navLabel><text>6.  – A Sacrifice to Vegetarianism</text></navLabel><content src="004-chapter004.xhtml#id-p4-004.06"/>
+</navPoint>
+<navPoint id="navPoint-92" playOrder="92">
+<navLabel><text>7.  – Experiments in Earth and Water Treatment</text></navLabel><content src="004-chapter004.xhtml#id-p4-004.07"/>
+</navPoint>
+<navPoint id="navPoint-93" playOrder="93">
+<navLabel><text>8.  – A Warning</text></navLabel><content src="004-chapter004.xhtml#id-p4-004.08"/>
+</navPoint>
+<navPoint id="navPoint-94" playOrder="94">
+<navLabel><text>9.  – A Tussle With Power</text></navLabel><content src="004-chapter004.xhtml#id-p4-004.09"/>
+</navPoint>
+<navPoint id="navPoint-95" playOrder="95">
+<navLabel><text>10.  – A Sacred Recllection and Penance</text></navLabel><content src="004-chapter004.xhtml#id-p4-004.10"/>
+</navPoint>
+<navPoint id="navPoint-96" playOrder="96">
+<navLabel><text>11.  – Intimate European Coontacts</text></navLabel><content src="004-chapter004.xhtml#id-p4-004.11"/>
+</navPoint>
+<navPoint id="navPoint-97" playOrder="97">
+<navLabel><text>12.  – European Contacts (Contd.)</text></navLabel><content src="004-chapter004.xhtml#id-p4-004.12"/>
+</navPoint>
+<navPoint id="navPoint-98" playOrder="98">
+<navLabel><text>13.  – ‘Indian Opinion’</text></navLabel><content src="004-chapter004.xhtml#id-p4-004.13"/>
+</navPoint>
+<navPoint id="navPoint-99" playOrder="99">
+<navLabel><text>14.  – Coolie Locations or Ghettoes?</text></navLabel><content src="004-chapter004.xhtml#id-p4-004.14"/>
+</navPoint>
+<navPoint id="navPoint-100" playOrder="100">
+<navLabel><text>15.  – The Black Plague - I</text></navLabel><content src="004-chapter004.xhtml#id-p4-004.15"/>
+</navPoint>
+<navPoint id="navPoint-101" playOrder="101">
+<navLabel><text>16.  – The Black Plague - II</text></navLabel><content src="004-chapter004.xhtml#id-p4-004.16"/>
+</navPoint>
+<navPoint id="navPoint-102" playOrder="102">
+<navLabel><text>17.  – Location in Flames</text></navLabel><content src="004-chapter004.xhtml#id-p4-004.17"/>
+</navPoint>
+<navPoint id="navPoint-103" playOrder="103">
+<navLabel><text>18.  – The Magic Spell of a Book</text></navLabel><content src="004-chapter004.xhtml#id-p4-004.18"/>
+</navPoint>
+<navPoint id="navPoint-104" playOrder="104">
+<navLabel><text>19.  – The Phoenix Settlement</text></navLabel><content src="004-chapter004.xhtml#id-p4-004.19"/>
+</navPoint>
+<navPoint id="navPoint-105" playOrder="105">
+<navLabel><text>20.  – The First Night</text></navLabel><content src="004-chapter004.xhtml#id-p4-004.20"/>
+</navPoint>
+<navPoint id="navPoint-106" playOrder="106">
+<navLabel><text>21.  – Polak Takes the Plunge</text></navLabel><content src="004-chapter004.xhtml#id-p4-004.21"/>
+</navPoint>
+<navPoint id="navPoint-107" playOrder="107">
+<navLabel><text>22.  – Whom God Protects</text></navLabel><content src="004-chapter004.xhtml#id-p4-004.22"/>
+</navPoint>
+<navPoint id="navPoint-108" playOrder="108">
+<navLabel><text>23.  – A Peep into the Household</text></navLabel><content src="004-chapter004.xhtml#id-p4-004.23"/>
+</navPoint>
+<navPoint id="navPoint-109" playOrder="109">
+<navLabel><text>24.  – The Zulu ‘Rebellion’</text></navLabel><content src="004-chapter004.xhtml#id-p4-004.24"/>
+</navPoint>
+<navPoint id="navPoint-110" playOrder="110">
+<navLabel><text>25.  – Heart Searchings</text></navLabel><content src="004-chapter004.xhtml#id-p4-004.25"/>
+</navPoint>
+<navPoint id="navPoint-111" playOrder="111">
+<navLabel><text>26.  – The Birth of Satyagraha</text></navLabel><content src="004-chapter004.xhtml#id-p4-004.26"/>
+</navPoint>
+<navPoint id="navPoint-112" playOrder="112">
+<navLabel><text>27.  – More Experiments in Dietetics</text></navLabel><content src="004-chapter004.xhtml#id-p4-004.27"/>
+</navPoint>
+<navPoint id="navPoint-113" playOrder="113">
+<navLabel><text>28.  – Kasturbai’s</text></navLabel><content src="004-chapter004.xhtml#id-p4-004.28"/>
+</navPoint>
+<navPoint id="navPoint-114" playOrder="114">
+<navLabel><text>29.  – Domestic Satyagraha</text></navLabel><content src="004-chapter004.xhtml#id-p4-004.29"/>
+</navPoint>
+<navPoint id="navPoint-115" playOrder="115">
+<navLabel><text>30.  – Towards Self-Restraint</text></navLabel><content src="004-chapter004.xhtml#id-p4-004.30"/>
+</navPoint>
+<navPoint id="navPoint-116" playOrder="116">
+<navLabel><text>31.  – Fasting</text></navLabel><content src="004-chapter004.xhtml#id-p4-004.31"/>
+</navPoint>
+<navPoint id="navPoint-117" playOrder="117">
+<navLabel><text>32.  – As School Master</text></navLabel><content src="004-chapter004.xhtml#id-p4-004.32"/>
+</navPoint>
+<navPoint id="navPoint-118" playOrder="118">
+<navLabel><text>33.  – Literary Training</text></navLabel><content src="004-chapter004.xhtml#id-p4-004.33"/>
+</navPoint>
+<navPoint id="navPoint-119" playOrder="119">
+<navLabel><text>34.  – Training of the Spirit</text></navLabel><content src="004-chapter004.xhtml#id-p4-004.34"/>
+</navPoint>
+<navPoint id="navPoint-120" playOrder="120">
+<navLabel><text>35.  – Tares Among the Wheat</text></navLabel><content src="004-chapter004.xhtml#id-p4-004.35"/>
+</navPoint>
+<navPoint id="navPoint-121" playOrder="121">
+<navLabel><text>36.  – Fasting as Penance</text></navLabel><content src="004-chapter004.xhtml#id-p4-004.36"/>
+</navPoint>
+<navPoint id="navPoint-122" playOrder="122">
+<navLabel><text>37.  – To Meet Gokhale</text></navLabel><content src="004-chapter004.xhtml#id-p4-004.37"/>
+</navPoint>
+<navPoint id="navPoint-123" playOrder="123">
+<navLabel><text>38.  – My Part in the War</text></navLabel><content src="004-chapter004.xhtml#id-p4-004.38"/>
+</navPoint>
+<navPoint id="navPoint-124" playOrder="124">
+<navLabel><text>39.  – A spiritual Dilemma</text></navLabel><content src="004-chapter004.xhtml#id-p4-004.39"/>
+</navPoint>
+<navPoint id="navPoint-125" playOrder="125">
+<navLabel><text>40.  – Miniature Satyagraha</text></navLabel><content src="004-chapter004.xhtml#id-p4-004.40"/>
+</navPoint>
+<navPoint id="navPoint-126" playOrder="126">
+<navLabel><text>41.  – Gokhale’s Charity</text></navLabel><content src="004-chapter004.xhtml#id-p4-004.41"/>
+</navPoint>
+<navPoint id="navPoint-127" playOrder="127">
+<navLabel><text>42.  – Treatment of Pleurisy</text></navLabel><content src="004-chapter004.xhtml#id-p4-004.42"/>
+</navPoint>
+<navPoint id="navPoint-128" playOrder="128">
+<navLabel><text>43.  – Homeward</text></navLabel><content src="004-chapter004.xhtml#id-p4-004.43"/>
+</navPoint>
+<navPoint id="navPoint-129" playOrder="129">
+<navLabel><text>44.  – Some Reminiscenes of the Bar</text></navLabel><content src="004-chapter004.xhtml#id-p4-004.44"/>
+</navPoint>
+<navPoint id="navPoint-130" playOrder="130">
+<navLabel><text>45.  – Sharp Practice?</text></navLabel><content src="004-chapter004.xhtml#id-p4-004.45"/>
+</navPoint>
+<navPoint id="navPoint-131" playOrder="131">
+<navLabel><text>46.  – Clients Turned Co-Workers</text></navLabel><content src="004-chapter004.xhtml#id-p4-004.46"/>
+</navPoint>
+<navPoint id="navPoint-132" playOrder="132">
+<navLabel><text>47.  – How a Client was Saved</text></navLabel><content src="004-chapter004.xhtml#id-p4-004.47"/>
+</navPoint>
+<navPoint id="navPoint-133" playOrder="133">
+<navLabel><text>Part V - My Experiments with Truth</text></navLabel><content src="005-chapter005.xhtml#id-p5"/>
+</navPoint>
+<navPoint id="navPoint-134" playOrder="134">
+<navLabel><text>1.  – The First Experience</text></navLabel><content src="005-chapter005.xhtml#id-p5-005.01"/>
+</navPoint>
+<navPoint id="navPoint-135" playOrder="135">
+<navLabel><text>2.  – With Gokhale in Poona</text></navLabel><content src="005-chapter005.xhtml#id-p5-005.02"/>
+</navPoint>
+<navPoint id="navPoint-136" playOrder="136">
+<navLabel><text>3.  – Was it a Threat?</text></navLabel><content src="005-chapter005.xhtml#id-p5-005.03"/>
+</navPoint>
+<navPoint id="navPoint-137" playOrder="137">
+<navLabel><text>4.  – Shantiniketan</text></navLabel><content src="005-chapter005.xhtml#id-p5-005.04"/>
+</navPoint>
+<navPoint id="navPoint-138" playOrder="138">
+<navLabel><text>5.  – Woes of Third Class Passengers</text></navLabel><content src="005-chapter005.xhtml#id-p5-005.05"/>
+</navPoint>
+<navPoint id="navPoint-139" playOrder="139">
+<navLabel><text>6.  – Wooing</text></navLabel><content src="005-chapter005.xhtml#id-p5-005.06"/>
+</navPoint>
+<navPoint id="navPoint-140" playOrder="140">
+<navLabel><text>7.  – Kumbha Mela</text></navLabel><content src="005-chapter005.xhtml#id-p5-005.07"/>
+</navPoint>
+<navPoint id="navPoint-141" playOrder="141">
+<navLabel><text>8.  – Lakshman Jhula</text></navLabel><content src="005-chapter005.xhtml#id-p5-005.08"/>
+</navPoint>
+<navPoint id="navPoint-142" playOrder="142">
+<navLabel><text>9.  – Founding of the Ashram</text></navLabel><content src="005-chapter005.xhtml#id-p5-005.09"/>
+</navPoint>
+<navPoint id="navPoint-143" playOrder="143">
+<navLabel><text>10.  – On the Anvil</text></navLabel><content src="005-chapter005.xhtml#id-p5-005.10"/>
+</navPoint>
+<navPoint id="navPoint-144" playOrder="144">
+<navLabel><text>11.  – Abolition of Indentured Emigration</text></navLabel><content src="005-chapter005.xhtml#id-p5-005.11"/>
+</navPoint>
+<navPoint id="navPoint-145" playOrder="145">
+<navLabel><text>12.  – The Stain of Indigo</text></navLabel><content src="005-chapter005.xhtml#id-p5-005.12"/>
+</navPoint>
+<navPoint id="navPoint-146" playOrder="146">
+<navLabel><text>13.  – The Gentle Bihari</text></navLabel><content src="005-chapter005.xhtml#id-p5-005.13"/>
+</navPoint>
+<navPoint id="navPoint-147" playOrder="147">
+<navLabel><text>14.  – Face-to-Face with Ahimsa</text></navLabel><content src="005-chapter005.xhtml#id-p5-005.14"/>
+</navPoint>
+<navPoint id="navPoint-148" playOrder="148">
+<navLabel><text>15.  – Case Withdrawn</text></navLabel><content src="005-chapter005.xhtml#id-p5-005.15"/>
+</navPoint>
+<navPoint id="navPoint-149" playOrder="149">
+<navLabel><text>16.  – Methods of Work</text></navLabel><content src="005-chapter005.xhtml#id-p5-005.16"/>
+</navPoint>
+<navPoint id="navPoint-150" playOrder="150">
+<navLabel><text>17.  – Companions</text></navLabel><content src="005-chapter005.xhtml#id-p5-005.17"/>
+</navPoint>
+<navPoint id="navPoint-151" playOrder="151">
+<navLabel><text>18.  – Penetrating the Villages</text></navLabel><content src="005-chapter005.xhtml#id-p5-005.18"/>
+</navPoint>
+<navPoint id="navPoint-152" playOrder="152">
+<navLabel><text>19.  – When a Governor is Good</text></navLabel><content src="005-chapter005.xhtml#id-p5-005.19"/>
+</navPoint>
+<navPoint id="navPoint-153" playOrder="153">
+<navLabel><text>20.  – In Touch With Labour</text></navLabel><content src="005-chapter005.xhtml#id-p5-005.20"/>
+</navPoint>
+<navPoint id="navPoint-154" playOrder="154">
+<navLabel><text>21.  – A Peep into the Ashram</text></navLabel><content src="005-chapter005.xhtml#id-p5-005.21"/>
+</navPoint>
+<navPoint id="navPoint-155" playOrder="155">
+<navLabel><text>22.  – The Fast</text></navLabel><content src="005-chapter005.xhtml#id-p5-005.22"/>
+</navPoint>
+<navPoint id="navPoint-156" playOrder="156">
+<navLabel><text>23.  – The Kheda Satyagraha</text></navLabel><content src="005-chapter005.xhtml#id-p5-005.23"/>
+</navPoint>
+<navPoint id="navPoint-157" playOrder="157">
+<navLabel><text>24.  – ‘The Onion Thief’</text></navLabel><content src="005-chapter005.xhtml#id-p5-005.24"/>
+</navPoint>
+<navPoint id="navPoint-158" playOrder="158">
+<navLabel><text>25.  – End of Kheda Satyagraha</text></navLabel><content src="005-chapter005.xhtml#id-p5-005.25"/>
+</navPoint>
+<navPoint id="navPoint-159" playOrder="159">
+<navLabel><text>26.  – Passion for Unity</text></navLabel><content src="005-chapter005.xhtml#id-p5-005.26"/>
+</navPoint>
+<navPoint id="navPoint-160" playOrder="160">
+<navLabel><text>27.  – Recruiting Campaign</text></navLabel><content src="005-chapter005.xhtml#id-p5-005.27"/>
+</navPoint>
+<navPoint id="navPoint-161" playOrder="161">
+<navLabel><text>28.  – Near Death’s Door</text></navLabel><content src="005-chapter005.xhtml#id-p5-005.28"/>
+</navPoint>
+<navPoint id="navPoint-162" playOrder="162">
+<navLabel><text>29.  – The Rowlatt Bills and My Dilemma</text></navLabel><content src="005-chapter005.xhtml#id-p5-005.29"/>
+</navPoint>
+<navPoint id="navPoint-163" playOrder="163">
+<navLabel><text>30.  – That Wonderful Spectacle!</text></navLabel><content src="005-chapter005.xhtml#id-p5-005.30"/>
+</navPoint>
+<navPoint id="navPoint-164" playOrder="164">
+<navLabel><text>31.  – That Memorable Week! - I</text></navLabel><content src="005-chapter005.xhtml#id-p5-005.31"/>
+</navPoint>
+<navPoint id="navPoint-165" playOrder="165">
+<navLabel><text>32.  – That Memorable Week! - II</text></navLabel><content src="005-chapter005.xhtml#id-p5-005.32"/>
+</navPoint>
+<navPoint id="navPoint-166" playOrder="166">
+<navLabel><text>33.  – ‘A Himalayan Miscalculation’</text></navLabel><content src="005-chapter005.xhtml#id-p5-005.33"/>
+</navPoint>
+<navPoint id="navPoint-167" playOrder="167">
+<navLabel><text>34.  – ‘Navajivan’ and ‘Young India’</text></navLabel><content src="005-chapter005.xhtml#id-p5-005.34"/>
+</navPoint>
+<navPoint id="navPoint-168" playOrder="168">
+<navLabel><text>35.  – In the Punjab</text></navLabel><content src="005-chapter005.xhtml#id-p5-005.35"/>
+</navPoint>
+<navPoint id="navPoint-169" playOrder="169">
+<navLabel><text>36.  – The Khilafat Against Cow Protection?</text></navLabel><content src="005-chapter005.xhtml#id-p5-005.36"/>
+</navPoint>
+<navPoint id="navPoint-170" playOrder="170">
+<navLabel><text>37.  – The Amritsar Congress</text></navLabel><content src="005-chapter005.xhtml#id-p5-005.37"/>
+</navPoint>
+<navPoint id="navPoint-171" playOrder="171">
+<navLabel><text>38.  – Congress Initiation</text></navLabel><content src="005-chapter005.xhtml#id-p5-005.38"/>
+</navPoint>
+<navPoint id="navPoint-172" playOrder="172">
+<navLabel><text>39.  – The Birth of Khadi</text></navLabel><content src="005-chapter005.xhtml#id-p5-005.39"/>
+</navPoint>
+<navPoint id="navPoint-173" playOrder="173">
+<navLabel><text>40.  – Found at Last!</text></navLabel><content src="005-chapter005.xhtml#id-p5-005.40"/>
+</navPoint>
+<navPoint id="navPoint-174" playOrder="174">
+<navLabel><text>41.  – An Instructive Dialogue</text></navLabel><content src="005-chapter005.xhtml#id-p5-005.41"/>
+</navPoint>
+<navPoint id="navPoint-175" playOrder="175">
+<navLabel><text>42.  – Its Rising Tide</text></navLabel><content src="005-chapter005.xhtml#id-p5-005.42"/>
+</navPoint>
+<navPoint id="navPoint-176" playOrder="176">
+<navLabel><text>43.  – At Nagpur</text></navLabel><content src="005-chapter005.xhtml#id-p5-005.43"/>
+</navPoint>
+   </navMap>
+</ncx>
