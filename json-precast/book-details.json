@@ -1,227 +1,4180 @@
 {
     "books": {
-        "185": {
-            "language": "en",
-            "identifier": "prism-ebooks/185",
-            "isbn": "tbd185",
-            "title": "50 Soul Stories",
-            "category": "",
-            "description": "",
-            "author": "",
-            "publisher": "",
-            "page": "133"
-        },
-        "194": {
-            "language": "en",
-            "identifier": "prism-ebooks/020",
-            "isbn": "tbd185",
-            "title": "Vainubappu",
-            "category": "",
-            "description": "",
-            "author": "",
-            "publisher": "",
-            "page": "164"
+        "001": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/001",
+            "isbn": "TBD-001",
+            "title": "Adbhuta Jeevajagattu",
+            "creators": {
+                "author": "Fernandez Louis M"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
         },
         "002": {
-            "language": "en",
+            "language": "Kannada",
             "identifier": "prism-ebooks/002",
-            "title": "Albert Einstein",
-            "category": "",
-            "description": "",
-            "author": "",
-            "publisher": "",
-            "page": "184"
+            "isbn": "TBD-002",
+            "title": "Kannugalu",
+            "creators": {
+                "author": "Balurgi D.R."
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
         },
         "003": {
-            "language": "en",
+            "language": "Kannada",
             "identifier": "prism-ebooks/003",
-            "title": "Aryans",
-            "category": "",
-            "description": "",
-            "author": "",
-            "publisher": "",
-            "page": "265"
+            "isbn": "TBD-003",
+            "title": "Akasha Rathnagalu",
+            "creators": {
+                "author": "Patnayak Binay Krishna Dr."
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
         },
         "004": {
-            "language": "en",
+            "language": "Kannada",
             "identifier": "prism-ebooks/004",
-            "title": "Faith For Life",
-            "category": "",
-            "description": "",
-            "author": "",
-            "publisher": "",
-            "page": "112"
+            "isbn": "TBD-004",
+            "title": "Neevoo Vijnana Pradarshana Aerpadisi Bhaga 1",
+            "creators": {
+                "author": "Balurgi D.R."
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
         },
         "005": {
-            "language": "en",
+            "language": "Kannada",
             "identifier": "prism-ebooks/005",
-            "title": "My Experiments with Truth",
-            "category": "",
-            "description": "",
-            "author": "",
-            "publisher": "",
-            "page": "552"
+            "isbn": "TBD-005",
+            "title": "Neevoo Vijnana Pradarshana Aerpadisi Bhaga 2",
+            "creators": {
+                "author": "Balurgi D.R."
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
         },
         "006": {
-            "language": "en",
+            "language": "Kannada",
             "identifier": "prism-ebooks/006",
-            "title": "Gitanjali",
-            "category": "",
-            "description": "",
-            "author": "",
-            "publisher": "",
-            "page": "144"
+            "isbn": "TBD-006",
+            "title": "Bahyakashakkondu Setubandha",
+            "creators": {
+                "author": "G. RAGHAVENDRA HATHWAR"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
         },
         "007": {
-            "language": "en",
+            "language": "Kannada",
             "identifier": "prism-ebooks/007",
-            "title": "Hanuman",
-            "category": "",
-            "description": "",
-            "author": "",
-            "publisher": "",
-            "page": "124"
+            "isbn": "TBD-007",
+            "title": "Shatamaanada Sanna Kathegalu",
+            "creators": {
+                "author": "Diwakar S. (Ed.)"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
         },
         "008": {
-            "language": "en",
+            "language": "Kannada",
             "identifier": "prism-ebooks/008",
-            "title": "Isaac Newton",
-            "category": "",
-            "description": "",
-            "author": "",
-            "publisher": "",
-            "page": "192"
+            "isbn": "TBD-008",
+            "title": "Iduvaregina Kathegalu",
+            "creators": {
+                "author": "Sadashiva G.S."
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
         },
         "009": {
-            "language": "en",
+            "language": "Kannada",
             "identifier": "prism-ebooks/009",
-            "title": "Legacy of the Lotus",
-            "category": "",
-            "description": "",
-            "author": "",
-            "publisher": "",
-            "page": "107"
+            "isbn": "TBD-009",
+            "title": "Avala Kathegalu",
+            "creators": {
+                "author": "Amur G.S. (Ed)"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
         },
         "010": {
-            "language": "en",
+            "language": "Kannada",
             "identifier": "prism-ebooks/010",
-            "title": "Mein Kamf",
-            "category": "",
-            "description": "",
-            "author": "",
-            "publisher": "",
-            "page": "636"
+            "isbn": "TBD-010",
+            "title": "Mareyabarada Haleya Kathegalu",
+            "creators": {
+                "author": "Giraddi  Govindaraj  Dr."
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
         },
         "011": {
-            "language": "te",
+            "language": "Kannada",
             "identifier": "prism-ebooks/011",
-            "title": "Otamini Angikarinchanu",
-            "category": "",
-            "description": "",
-            "author": "",
-            "publisher": "",
-            "page": "415"
+            "isbn": "TBD-011",
+            "title": "Mangalanalli Jeevashodha",
+            "creators": {
+                "author": "NAGESH HEGDE"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
         },
         "012": {
-            "language": "en",
+            "language": "Kannada",
             "identifier": "prism-ebooks/012",
-            "title": "Our Earth and our Quest",
-            "category": "",
-            "description": "",
-            "author": "",
-            "publisher": "",
-            "page": "120"
+            "isbn": "TBD-012",
+            "title": "KANNADA VYJNANIKA KATHEGALU",
+            "creators": {
+                "author": "SUBHASHINI"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
         },
         "013": {
-            "language": "en",
+            "language": "Kannada",
             "identifier": "prism-ebooks/013",
-            "title": "Ramayana",
-            "category": "",
-            "description": "",
-            "author": "",
-            "publisher": "",
-            "page": "172"
+            "isbn": "TBD-013",
+            "title": "Sahithya Mattu Shikshana",
+            "creators": {
+                "author": "Venkatasubbiah G. Prof"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
         },
         "014": {
-            "language": "en",
+            "language": "Kannada",
             "identifier": "prism-ebooks/014",
-            "title": "Ramayana For Children",
-            "category": "",
-            "description": "",
-            "author": "",
-            "publisher": "",
-            "page": "64"
+            "isbn": "TBD-014",
+            "title": "Shodha",
+            "creators": {
+                "author": "Prabhu .S.K"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
         },
         "015": {
-            "language": "en",
+            "language": "Kannada",
             "identifier": "prism-ebooks/015",
-            "title": "Samskrithi",
-            "category": "",
-            "description": "",
-            "author": "",
-            "publisher": "",
-            "page": "136"
+            "isbn": "TBD-015",
+            "title": "Jagattina Ati Sanna Kathegalu",
+            "creators": {
+                "author": "Diwakar S. (Ed.)"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
         },
         "016": {
-            "language": "kn",
+            "language": "Kannada",
             "identifier": "prism-ebooks/016",
-            "title": "Soloppalare",
-            "category": "",
-            "description": "",
-            "author": "",
-            "publisher": "",
-            "page": "411"
+            "isbn": "TBD-016",
+            "title": "Udupi Aduge",
+            "creators": {
+                "author": "Rajalakshmi U.B."
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
         },
         "017": {
-            "language": "en",
+            "language": "Kannada",
             "identifier": "prism-ebooks/017",
-            "title": "Srinivas Ramanujan",
-            "category": "",
-            "description": "",
-            "author": "",
-            "publisher": "",
-            "page": "176"
+            "isbn": "TBD-017",
+            "title": "Kailasam Mattu Naanu",
+            "creators": {
+                "author": "Ranganatha Rao G.N."
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
         },
         "018": {
-            "language": "en",
+            "language": "Kannada",
             "identifier": "prism-ebooks/018",
-            "title": "Suryanamaskara",
-            "category": "",
-            "description": "",
-            "author": "",
-            "publisher": "",
-            "page": "136"
+            "isbn": "TBD-018",
+            "title": "Namma Kailasam - Nenapina Samputa",
+            "creators": {
+                "author": "Sreenivasa Raju.Chi. Prof"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
         },
         "019": {
-            "language": "en",
+            "language": "Kannada",
             "identifier": "prism-ebooks/019",
-            "title": "The Prophet",
-            "category": "",
-            "description": "",
-            "author": "",
-            "publisher": "",
-            "page": "96"
+            "isbn": "TBD-019",
+            "title": "Gandhijiya Kadeya Dinagalu",
+            "creators": {
+                "author": "K S NARAYANA SWAMY"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "020": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/020",
+            "isbn": "TBD-020",
+            "title": "Nam Bengaluru",
+            "creators": {
+                "author": "Chandramouli M"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
         },
         "021": {
-            "language": "en",
+            "language": "Kannada",
             "identifier": "prism-ebooks/021",
-            "title": "Yummy Cakes",
-            "category": "",
-            "description": "",
-            "author": "",
-            "publisher": "",
-            "page": "89"
+            "isbn": "TBD-021",
+            "title": "Vaidyanallada Dactaru",
+            "creators": {
+                "author": "Ranganath H.K. Dr."
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "022": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/022",
+            "isbn": "TBD-022",
+            "title": "Pa.vem.acharya-aayada Haretagalu Selected Essays Of Sri Pa Vem Acharya",
+            "creators": {
+                "author": "Mitra A.R. Prof"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "023": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/023",
+            "isbn": "TBD-023",
+            "title": "Pa Vem Acharya-aayda Nagebarahagalu Selected Humurous Writings Of Sri Pa Vem Acharya",
+            "creators": {
+                "author": "Havanur Srinivasa Dr."
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "024": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/024",
+            "isbn": "TBD-024",
+            "title": "Shri Tyagaraja Yoga Vybhavam *samputa 1",
+            "creators": {
+                "author": "BBSSP"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "025": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/025",
+            "isbn": "TBD-025",
+            "title": "Adbuta Lokagalu",
+            "creators": {
+                "author": "Guruprasad B.R."
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "026": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/026",
+            "isbn": "TBD-026",
+            "title": "Niraathanka Aahaara",
+            "creators": {
+                "author": "GOWRI K"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "027": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/027",
+            "isbn": "TBD-027",
+            "title": "Baduka Needuva Badali Jodane",
+            "creators": {
+                "author": "Someswara N. Dr."
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "028": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/028",
+            "isbn": "TBD-028",
+            "title": "Oodi Hoda Mutti Banda",
+            "creators": {
+                "author": "Chittala Yeshwant"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "029": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/029",
+            "isbn": "TBD-029",
+            "title": "Shri Tyagaraja Yoga Vybhavam * Samputa 2",
+            "creators": {
+                "author": "BBSSP"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "030": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/030",
+            "isbn": "TBD-030",
+            "title": "Yarmunja Ramachandra:samagra Kathe-kavya",
+            "creators": {
+                "author": "Ramachandra Yarmunja"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "031": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/031",
+            "isbn": "TBD-031",
+            "title": "Eppatteradu Kavitegalu Hagu Vimarshakara Spandana",
+            "creators": {
+                "author": "Chittala Gangadhara"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "032": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/032",
+            "isbn": "TBD-032",
+            "title": "Bengaloorina Notagalu ( Andu -indu )",
+            "creators": {
+                "author": "Chandramouli M"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "033": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/033",
+            "isbn": "TBD-033",
+            "title": "Souravyooha",
+            "creators": {
+                "author": "B S SHYLAJA"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "034": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/034",
+            "isbn": "TBD-034",
+            "title": "Samvahana Kale",
+            "creators": {
+                "author": "H G SOMASEKHARA RAO"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "035": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/035",
+            "isbn": "TBD-035",
+            "title": "Shri Tyagaraja Yoga Vybhavam *samputa 3",
+            "creators": {
+                "author": "BBSSP"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "036": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/036",
+            "isbn": "TBD-036",
+            "title": "Chandra",
+            "creators": {
+                "author": "Guruprasad B.R."
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "037": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/037",
+            "isbn": "TBD-037",
+            "title": "Illiralare Allige Hogalare Sri B V Karanth.",
+            "creators": {
+                "author": "SMT VAIDEHI"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "038": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/038",
+            "isbn": "TBD-038",
+            "title": "Elusuttina Koteyalli Entukoti Bhantaru",
+            "creators": {
+                "author": "Someswara N. Dr."
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "039": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/039",
+            "isbn": "TBD-039",
+            "title": "Kalakke Kannadi Photographerana Kelavu Nenapugalu",
+            "creators": {
+                "author": "Satyan T.S."
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "040": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/040",
+            "isbn": "TBD-040",
+            "title": "Nittoor Sreenivasarau Noorara Nenapu",
+            "creators": {
+                "author": "Krishnaiah M.H.(Ed)"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "041": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/041",
+            "isbn": "TBD-041",
+            "title": "Shri Tyagaraja Yoga Vybhavam  * samputa 4",
+            "creators": {
+                "author": "BBSSP"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "042": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/042",
+            "isbn": "TBD-042",
+            "title": "Not Out Winning The Game Of Cancer (kan)",
+            "creators": {
+                "author": "Brinda Sitaram Dr."
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "043": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/043",
+            "isbn": "TBD-043",
+            "title": "Shri Tyagaraja Yoga Vybhavam *samputa 5",
+            "creators": {
+                "author": "BBSSP"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "044": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/044",
+            "isbn": "TBD-044",
+            "title": "Raghavendra Khasanisara Samagra Kathegalu",
+            "creators": {
+                "author": "Khasanisa Raghavendra"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "045": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/045",
+            "isbn": "TBD-045",
+            "title": "Chinnada Ili * Collection Of Stories For Children",
+            "creators": {
+                "author": "Sanjeeva Rao T.S."
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "88",
+            "description": ""
+        },
+        "046": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/046",
+            "isbn": "TBD-046",
+            "title": "Kannada Klistapada Kosha",
+            "creators": {
+                "author": "Venkatasubbiah G. Prof"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "047": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/047",
+            "isbn": "TBD-047",
+            "title": "Kanyamanigalige Kanthupithana Daye",
+            "creators": {
+                "author": "Sunandamma T"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "048": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/048",
+            "isbn": "TBD-048",
+            "title": "Vijnanave Jeevanada Marga Prof C.n.r Raos Biography",
+            "creators": {
+                "author": "Sundararajan Mohan"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "049": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/049",
+            "isbn": "TBD-049",
+            "title": "Kannada Ati Sannakathegalu * A Collection Of Kannada Short Shorts",
+            "creators": {
+                "author": "Diwakar S. (Ed.)"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "050": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/050",
+            "isbn": "TBD-050",
+            "title": "Harika Thamrutha Saara * Kannada Bhaminishatpadi",
+            "creators": {
+                "author": "RANGANATH H V"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "051": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/051",
+            "isbn": "TBD-051",
+            "title": "Satyajit Ray Kathegalu",
+            "creators": {
+                "author": "Udupa Srinivasa"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "052": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/052",
+            "isbn": "TBD-052",
+            "title": "Katheyadalu Hudugi * Short Stories text book -Karnataka univercity Dharwad",
+            "creators": {
+                "author": "Chittala Yeshwant"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "053": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/053",
+            "isbn": "TBD-053",
+            "title": "Shri Tyagaraja Yoga Vybhavam - Samputa 6",
+            "creators": {
+                "author": "BBSSP"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "054": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/054",
+            "isbn": "TBD-054",
+            "title": "Katheyadalu Hudugi (hb)",
+            "creators": {
+                "author": "Chittala Yeshwant"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "055": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/055",
+            "isbn": "TBD-055",
+            "title": "Danapeyaacheya Oni * A Collection Of Labasa",
+            "creators": {
+                "author": "Chittala Yeshwant"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "58",
+            "description": ""
+        },
+        "056": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/056",
+            "isbn": "TBD-056",
+            "title": "Mathoorji Jeevanagathe",
+            "creators": {
+                "author": "SUMANA VISHWANATH"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "057": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/057",
+            "isbn": "TBD-057",
+            "title": "Bangalada Drushyagalu",
+            "creators": {
+                "author": "Lakshmana Rao M.R."
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "058": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/058",
+            "isbn": "TBD-058",
+            "title": "S.diwakar Aydha Kathegalu",
+            "creators": {
+                "author": "Diwakar S. (Ed.)"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "059": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/059",
+            "isbn": "TBD-059",
+            "title": "Samagra Kathegalu Vol 1",
+            "creators": {
+                "author": "Chittala Yeshwant"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "060": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/060",
+            "isbn": "TBD-060",
+            "title": "Kodagu - Mungaru Maleya Vismayada Nadu",
+            "creators": {
+                "author": "Bopanna P.T."
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "061": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/061",
+            "isbn": "TBD-061",
+            "title": "Malgudi Dinagalu (ka)",
+            "creators": {
+                "author": "R K NARAYAN"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "062": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/062",
+            "isbn": "TBD-062",
+            "title": "Katheyadalu Hudugi Eight Short Stories",
+            "creators": {
+                "author": "Chittala Yeshwant"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "063": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/063",
+            "isbn": "TBD-063",
+            "title": "Muttayya Bhagavatara Shivashtottara Mattu Navagraha Keerthanegalu",
+            "creators": {
+                "author": "SUDHA V MURTHY"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "064": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/064",
+            "isbn": "TBD-064",
+            "title": "Samagra Kathegalu Vol 2",
+            "creators": {
+                "author": "Chittala Yeshwant"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "065": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/065",
+            "isbn": "TBD-065",
+            "title": "Shathamanada Negebarahagalu",
+            "creators": {
+                "author": "Chandrashekar B.S.(Ed)"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "066": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/066",
+            "isbn": "TBD-066",
+            "title": "Aalada Marada Kelage Matthu Ethara Kathegalu (Under the Banyan Tree & Other Stories)",
+            "creators": {
+                "author": "R K NARAYAN"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "244",
+            "description": ""
+        },
+        "067": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/067",
+            "isbn": "TBD-067",
+            "title": "Attenbaroli Gandhi",
+            "creators": {
+                "author": "Keshava Murthy (Kefha)"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "068": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/068",
+            "isbn": "TBD-068",
+            "title": "Shri Tyagaraja Yoga Vybhavam - Samputa 7",
+            "creators": {
+                "author": "BBSSP"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "069": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/069",
+            "isbn": "TBD-069",
+            "title": "DASA SAHITYA KOSHA",
+            "creators": {
+                "author": "VENAKATESH.G."
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "070": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/070",
+            "isbn": "TBD-070",
+            "title": "BHANANGALADINDA",
+            "creators": {
+                "author": "KHADHRI S.ACHUYTAN"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "071": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/071",
+            "isbn": "TBD-071",
+            "title": "KUMARAVYASANA ANTARANGA YOUDDHAPANCHAKADALLI",
+            "creators": {
+                "author": "Venkatasubbiah G. Prof"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "072": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/072",
+            "isbn": "TBD-072",
+            "title": "Chinnara Chitra Ramayana",
+            "creators": {
+                "author": "Venkatasubbiah G. Prof"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "073": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/073",
+            "isbn": "TBD-073",
+            "title": "Shri Hari Chintana",
+            "creators": {
+                "author": "Rajaram.S."
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "074": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/074",
+            "isbn": "TBD-074",
+            "title": "Shri Tyagaraja Yoga Vybhavam *samputa 8",
+            "creators": {
+                "author": "BBSSP"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "075": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/075",
+            "isbn": "TBD-075",
+            "title": "Manassakshiya Manushya",
+            "creators": {
+                "author": "Gangopadhyaya Suneel"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "076": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/076",
+            "isbn": "TBD-076",
+            "title": "Odyssey",
+            "creators": {
+                "author": "Seetharamaiah K.M. Prof"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "077": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/077",
+            "isbn": "TBD-077",
+            "title": "YASHAWANTHA CHITTALARA SAHITYALOKA",
+            "creators": {
+                "author": "Chenni Rajendra"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "078": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/078",
+            "isbn": "TBD-078",
+            "title": "SreeMadbhagavadgeete",
+            "creators": {
+                "author": "Kulakarni Raghunath Madhava"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "079": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/079",
+            "isbn": "TBD-079",
+            "title": "Naadada  Naveenatha",
+            "creators": {
+                "author": "Diwakar S. (Ed.)"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "080": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/080",
+            "isbn": "TBD-080",
+            "title": "Sri Sadashiva Bramhendraru",
+            "creators": {
+                "author": "Shankar S - Vidwan"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "081": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/081",
+            "isbn": "TBD-081",
+            "title": "Rocket",
+            "creators": {
+                "author": "DAS. S.K"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "082": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/082",
+            "isbn": "TBD-082",
+            "title": "PRAKAASHA MAARGA",
+            "creators": {
+                "author": "Pokale Chandrakantha"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "083": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/083",
+            "isbn": "TBD-083",
+            "title": "Vaggeya Ratnavali",
+            "creators": {
+                "author": "VIDUSHI VASANTHAMADHAVI"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "084": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/084",
+            "isbn": "TBD-084",
+            "title": "NALAPAKA",
+            "creators": {
+                "author": "Vijayalakshmi Reddy"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "085": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/085",
+            "isbn": "TBD-085",
+            "title": "Shri Tyagaraja Yoga Vybhavam *samputa 9",
+            "creators": {
+                "author": "BBSSP"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "086": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/086",
+            "isbn": "TBD-086",
+            "title": "Koli Kooguva Munna",
+            "creators": {
+                "author": "Chittala Yeshwant"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "087": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/087",
+            "isbn": "TBD-087",
+            "title": "Aata",
+            "creators": {
+                "author": "Chittala Yeshwant"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "088": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/088",
+            "isbn": "TBD-088",
+            "title": "Puttana Hejje Kaanodilla",
+            "creators": {
+                "author": "Chittala Yeshwant"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "089": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/089",
+            "isbn": "TBD-089",
+            "title": "Kumatege Banda Kindari Jogi",
+            "creators": {
+                "author": "Chittala Yeshwant"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "090": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/090",
+            "isbn": "TBD-090",
+            "title": "Baalyakaalya  Jeevana Smruti",
+            "creators": {
+                "author": "Geetha Vijaykumar"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "240",
+            "description": ""
+        },
+        "091": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/091",
+            "isbn": "TBD-091",
+            "title": "Kauthukada Chuchhumaddu  Sojigada Sujimaddu",
+            "creators": {
+                "author": "Narayana Babanagara"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "092": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/092",
+            "isbn": "TBD-092",
+            "title": "X  Kiranagala Adrushya Loka",
+            "creators": {
+                "author": "Murthy  Gayathri"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "093": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/093",
+            "isbn": "TBD-093",
+            "title": "Angangadana Jeevadana",
+            "creators": {
+                "author": "Murthy M S S Dr."
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "76",
+            "description": ""
+        },
+        "094": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/094",
+            "isbn": "TBD-094",
+            "title": "Agnata Aparichita Vivekananda",
+            "creators": {
+                "author": "Geetha Vijaykumar"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "095": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/095",
+            "isbn": "9789386506771",
+            "title": "Andhra Gumagumalu (Kannada)",
+            "creators": {
+                "author": "Vijayalakshmi Reddy"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "204",
+            "description": ""
+        },
+        "096": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/096",
+            "isbn": "TBD-096",
+            "title": "Kaggada  Kaanike",
+            "creators": {
+                "author": "SHANTAKUMARI L V"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "097": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/097",
+            "isbn": "TBD-097",
+            "title": "Vaggeya Rathnavali Part 2",
+            "creators": {
+                "author": "VIDUSHI VASANTHAMADHAVI"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "098": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/098",
+            "isbn": "TBD-098",
+            "title": "Ondishtu Bharatiya Kathegalu",
+            "creators": {
+                "author": "D N SRINATH"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "099": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/099",
+            "isbn": "TBD-099",
+            "title": "Charchita Vyangya Kathegalu",
+            "creators": {
+                "author": "D N SRINATH"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "100": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/100",
+            "isbn": "TBD-100",
+            "title": "Diabetes (Kannada)",
+            "creators": {
+                "author": "H M KRISHNAMURTHY"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "140",
+            "description": ""
+        },
+        "101": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/101",
+            "isbn": "TBD-101",
+            "title": "Naivedya",
+            "creators": {
+                "author": "Vijayalakshmi Reddy"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "102": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/102",
+            "isbn": "TBD-102",
+            "title": "Naadha Bindu",
+            "creators": {
+                "author": "Padmanabha R.K."
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "103": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/103",
+            "isbn": "TBD-103",
+            "title": "Tiffin Box",
+            "creators": {
+                "author": "Vijayalakshmi Reddy"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "104": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/104",
+            "isbn": "TBD-104",
+            "title": "Vaignanika Bharatiya",
+            "creators": {
+                "author": "Abdul Kalam, Y S Rajan and Gayathri Murthy"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "105": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/105",
+            "isbn": "TBD-105",
+            "title": "Nanchike",
+            "creators": {
+                "author": "Vijayalakshmi Reddy"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "106": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/106",
+            "isbn": "TBD-106",
+            "title": "Shri Tyagaraja Yoga Vybhavam * Samputa 10",
+            "creators": {
+                "author": "BBSSP"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "107": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/107",
+            "isbn": "TBD-107",
+            "title": "Makkaligagi Ramayana - Kannada",
+            "creators": {
+                "author": "Chitra Ramaswamy"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "108": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/108",
+            "isbn": "TBD-108",
+            "title": "Angayalli Arogya  - Gowriammana Aarogya Suthragalu",
+            "creators": {
+                "author": "Gowri Subramanya"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "109": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/109",
+            "isbn": "TBD-109",
+            "title": "7 Adbuthagala Odanatadalli  (Kannada) (7 Wonders in My Spice Box)",
+            "creators": {
+                "author": "VEENA BHAT SMT"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
         },
         "110": {
-            "language": "kn",
+            "language": "Kannada",
             "identifier": "prism-ebooks/110",
-             "isbn": "9789386506986",
-            "title": "Soloppalare - Achala Badukondara Kathe",
-            "category": "",
-            "description": "",
-            "author": "Vijay Trivedi",
-            "publisher": "",
-            "page": "411"
+            "isbn": "9789386506986",
+            "title": "Soloppalare - Achala Badukondara Kathe (Kannada)",
+            "creators": {
+                "author": "Vijay Trivedi"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "411",
+            "description": ""
+        },
+        "111": {
+            "language": "Kannada",
+            "identifier": "prism-ebooks/111",
+            "isbn": "TBD-111",
+            "title": "Uttarakarnatakada Adugeya Sogadu",
+            "creators": {
+                "author": "Vijayalakshmi Reddy"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "112": {
+            "language": "English",
+            "identifier": "prism-ebooks/112",
+            "isbn": "TBD-112",
+            "title": "Are You Leader Material A Guide To Managerial Leadership",
+            "creators": {
+                "author": "G. D. KUNDERS"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "113": {
+            "language": "English",
+            "identifier": "prism-ebooks/113",
+            "isbn": "TBD-113",
+            "title": "Designing For Total Quality In Health Care",
+            "creators": {
+                "author": "G. D. KUNDERS"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "114": {
+            "language": "English",
+            "identifier": "prism-ebooks/114",
+            "isbn": "TBD-114",
+            "title": "Earthworm Cinderella Of Organic Farming",
+            "creators": {
+                "author": "DR RADHA D KALE"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "115": {
+            "language": "English",
+            "identifier": "prism-ebooks/115",
+            "isbn": "TBD-115",
+            "title": "Eat Right - Live Well",
+            "creators": {
+                "author": "SHASHI RAGHUNATH"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "116": {
+            "language": "English",
+            "identifier": "prism-ebooks/116",
+            "isbn": "TBD-116",
+            "title": "Eating Without Fear Cookbook For Diabetics",
+            "creators": {
+                "author": "SHASHI RAGHUNATH"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "117": {
+            "language": "English",
+            "identifier": "prism-ebooks/117",
+            "isbn": "TBD-117",
+            "title": "Honk Learn From Animal Kingdom And Inspire",
+            "creators": {
+                "author": "MOID SIDDIQUI"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "118": {
+            "language": "English",
+            "identifier": "prism-ebooks/118",
+            "isbn": "TBD-118",
+            "title": "How To Market Your Hospital Without Selling Your Philosophy",
+            "creators": {
+                "author": "G. D. KUNDERS"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "119": {
+            "language": "English",
+            "identifier": "prism-ebooks/119",
+            "isbn": "TBD-119",
+            "title": "Intangibles The Obverse Phase Of Management",
+            "creators": {
+                "author": "MOID SIDDIQUI"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "120": {
+            "language": "English",
+            "identifier": "prism-ebooks/120",
+            "isbn": "TBD-120",
+            "title": "Laboratory Techniques In Surgical Pathology",
+            "creators": {
+                "author": "DR.SHAMEEM SHARIFF"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "121": {
+            "language": "English",
+            "identifier": "prism-ebooks/121",
+            "isbn": "TBD-121",
+            "title": "Lectures On Chemical Bonding And Quantum Chemistry",
+            "creators": {
+                "author": "S N DATTA"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "122": {
+            "language": "English",
+            "identifier": "prism-ebooks/122",
+            "isbn": "TBD-122",
+            "title": "Poetry: Colours And Cadences Poems From The Romantic Age",
+            "creators": {
+                "author": "BHARGAVI RAO"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "123": {
+            "language": "English",
+            "identifier": "prism-ebooks/123",
+            "isbn": "TBD-123",
+            "title": "Ramanujans Papers",
+            "creators": {
+                "author": "B J VENKATACHALA"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "124": {
+            "language": "English",
+            "identifier": "prism-ebooks/124",
+            "isbn": "TBD-124",
+            "title": "Management Parables",
+            "creators": {
+                "author": "MOID SIDDIQUI"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "125": {
+            "language": "English",
+            "identifier": "prism-ebooks/125",
+            "isbn": "TBD-125",
+            "title": "Neuroepidemiology In Developing Countries A Manual Of Descriptive Studies",
+            "creators": {
+                "author": "M. GOURIE-DEVI"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "126": {
+            "language": "English",
+            "identifier": "prism-ebooks/126",
+            "isbn": "TBD-126",
+            "title": "Sugarcane - In Agriculture And Industry",
+            "creators": {
+                "author": "DR GURURAJ HUNSIGI"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "127": {
+            "language": "English",
+            "identifier": "prism-ebooks/127",
+            "isbn": "TBD-127",
+            "title": "Tales From Panchatantra And Aesop",
+            "creators": {
+                "author": "KAMALA CHANDRAKANT"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "128": {
+            "language": "English",
+            "identifier": "prism-ebooks/128",
+            "isbn": "TBD-128",
+            "title": "The Adventures Of Odysseus",
+            "creators": {
+                "author": "KAMALA CHANDRAKANT (ED)"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "129": {
+            "language": "English",
+            "identifier": "prism-ebooks/129",
+            "isbn": "TBD-129",
+            "title": "The Amazing Living World",
+            "creators": {
+                "author": "LUIS M FERNANDES (ED)"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "130": {
+            "language": "English",
+            "identifier": "prism-ebooks/130",
+            "isbn": "TBD-130",
+            "title": "The Magic Umbrella And Other Stories",
+            "creators": {
+                "author": "SANTHINI GOVINDAN"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "131": {
+            "language": "English",
+            "identifier": "prism-ebooks/131",
+            "isbn": "TBD-131",
+            "title": "Udupi Cuisine",
+            "creators": {
+                "author": "Rajalakshmi U.B."
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "132": {
+            "language": "English",
+            "identifier": "prism-ebooks/132",
+            "isbn": "TBD-132",
+            "title": "Your Child Parents Guide To Child Health",
+            "creators": {
+                "author": "DR NANDINI MUNDKAR"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "133": {
+            "language": "English",
+            "identifier": "prism-ebooks/133",
+            "isbn": "TBD-133",
+            "title": "Musings On Arithmetical Numbers 2e",
+            "creators": {
+                "author": "JAGANNATH V BADAMI"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "134": {
+            "language": "English",
+            "identifier": "prism-ebooks/134",
+            "isbn": "TBD-134",
+            "title": "The Solar System",
+            "creators": {
+                "author": "B S SHYLAJA"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "135": {
+            "language": "English",
+            "identifier": "prism-ebooks/135",
+            "isbn": "TBD-135",
+            "title": "Andhra Gumagumalu",
+            "creators": {
+                "author": "Vijayalakshmi Reddy"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "204",
+            "description": ""
+        },
+        "136": {
+            "language": "English",
+            "identifier": "prism-ebooks/136",
+            "isbn": "TBD-136",
+            "title": "Growing Up Great & Healthy Cookbook For Children",
+            "creators": {
+                "author": "SHASHI RAGHUNATH"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "137": {
+            "language": "English",
+            "identifier": "prism-ebooks/137",
+            "isbn": "TBD-137",
+            "title": "Not Out Winning The Game Of Cancer",
+            "creators": {
+                "author": "Brinda Sitaram Dr."
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "138": {
+            "language": "English",
+            "identifier": "prism-ebooks/138",
+            "isbn": "TBD-138",
+            "title": "Vegetarian Varieties South Meets North",
+            "creators": {
+                "author": "SHASHI RAGHUNATH"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "139": {
+            "language": "English",
+            "identifier": "prism-ebooks/139",
+            "isbn": "TBD-139",
+            "title": "Diabetes Prevention & Management Patient Guide",
+            "creators": {
+                "author": "H M KRISHNAMURTHY"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "140": {
+            "language": "English",
+            "identifier": "prism-ebooks/140",
+            "isbn": "TBD-140",
+            "title": "Search For The Historical Krishna",
+            "creators": {
+                "author": "RAJARAM N S"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "141": {
+            "language": "English",
+            "identifier": "prism-ebooks/141",
+            "isbn": "TBD-141",
+            "title": "Theory Of Music",
+            "creators": {
+                "author": "VIDUSHI VASANTHAMADHAVI"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "142": {
+            "language": "English",
+            "identifier": "prism-ebooks/142",
+            "isbn": "TBD-142",
+            "title": "Healthy Vegetarian Eating Habits For Children",
+            "creators": {
+                "author": "SUCHITRA GURURAJ"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "143": {
+            "language": "English",
+            "identifier": "prism-ebooks/143",
+            "isbn": "TBD-143",
+            "title": "Musings On Arithmetical Numbers 3e",
+            "creators": {
+                "author": "JAGANNATH V BADAMI"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "144": {
+            "language": "English",
+            "identifier": "prism-ebooks/144",
+            "isbn": "TBD-144",
+            "title": "Cooking The South Indian Way Over 200 Vegetarian Recipes For Meals",
+            "creators": {
+                "author": "VASANTHA MOORTHY"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "145": {
+            "language": "English",
+            "identifier": "prism-ebooks/145",
+            "isbn": "TBD-145",
+            "title": "Growing Rocket Systems And The Team",
+            "creators": {
+                "author": "S C GUPTA"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "146": {
+            "language": "English",
+            "identifier": "prism-ebooks/146",
+            "isbn": "TBD-146",
+            "title": "Discover Coorg",
+            "creators": {
+                "author": "Bopanna P.T."
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "147": {
+            "language": "English",
+            "identifier": "prism-ebooks/147",
+            "isbn": "TBD-147",
+            "title": "Healthy Vegetarian Eating Habits 2e For Children (3-12 Years)",
+            "creators": {
+                "author": "SUCHITRA GURURAJ"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "148": {
+            "language": "English",
+            "identifier": "prism-ebooks/148",
+            "isbn": "TBD-148",
+            "title": "In Quest Of The Buddha",
+            "creators": {
+                "author": "MOLAKALMURU SREENIVASAMURTHY"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "149": {
+            "language": "English",
+            "identifier": "prism-ebooks/149",
+            "isbn": "TBD-149",
+            "title": "Highlights Of The Space Age",
+            "creators": {
+                "author": "P N PATHAK"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "150": {
+            "language": "English",
+            "identifier": "prism-ebooks/150",
+            "isbn": "9789386506993",
+            "title": "English Kannada Dictionary 2E  Prof G Vs",
+            "creators": {
+                "author": "Venkatasubbiah G. Prof"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "668",
+            "description": ""
+        },
+        "151": {
+            "language": "English",
+            "identifier": "prism-ebooks/151",
+            "isbn": "TBD-151",
+            "title": "Nala Paaka * Working Womens Cookbook",
+            "creators": {
+                "author": "Vijayalakshmi Reddy"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "152": {
+            "language": "English",
+            "identifier": "prism-ebooks/152",
+            "isbn": "TBD-152",
+            "title": "Genetics For Clinicians",
+            "creators": {
+                "author": "SHUBHA R PHADKE"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "153": {
+            "language": "English",
+            "identifier": "prism-ebooks/153",
+            "isbn": "TBD-153",
+            "title": "Andhra Gumagumalu 2e",
+            "creators": {
+                "author": "Vijayalakshmi Reddy"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "154": {
+            "language": "English",
+            "identifier": "prism-ebooks/154",
+            "isbn": "TBD-154",
+            "title": "The South Indian Tiffin Over 300 Vegetarian Recipes",
+            "creators": {
+                "author": "VASANTHA MOORTHY"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "155": {
+            "language": "English",
+            "identifier": "prism-ebooks/155",
+            "isbn": "TBD-155",
+            "title": "Discover Coorg 2e",
+            "creators": {
+                "author": "Bopanna P.T."
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "156": {
+            "language": "English",
+            "identifier": "prism-ebooks/156",
+            "isbn": "TBD-156",
+            "title": "Think Globally Act Individually Eco Friendly Actions To Save The Planet",
+            "creators": {
+                "author": "PADMA NANDYAL"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "157": {
+            "language": "English",
+            "identifier": "prism-ebooks/157",
+            "isbn": "TBD-157",
+            "title": "The Pygmalion Manager * A Perfect Leadership Model For All Times",
+            "creators": {
+                "author": "MOID SIDDIQUI"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "158": {
+            "language": "English",
+            "identifier": "prism-ebooks/158",
+            "isbn": "9789388478021",
+            "title": "Discover Coorg 3e",
+            "creators": {
+                "author": "Bopanna P.T."
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "100",
+            "description": ""
+        },
+        "159": {
+            "language": "English",
+            "identifier": "prism-ebooks/159",
+            "isbn": "TBD-159",
+            "title": "Vindu A Vegetarian Feast",
+            "creators": {
+                "author": "MANI BHUSHANAM"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "160": {
+            "language": "English",
+            "identifier": "prism-ebooks/160",
+            "isbn": "TBD-160",
+            "title": "The Most Memorable Films Of The World From The Diaries Of The Film Societies 2/ed With 160 Films",
+            "creators": {
+                "author": "NARAHARI RAO"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "161": {
+            "language": "English",
+            "identifier": "prism-ebooks/161",
+            "isbn": "TBD-161",
+            "title": "Gandhi , Roy And Other Essays",
+            "creators": {
+                "author": "K.SRINIVASAN"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "162": {
+            "language": "English",
+            "identifier": "prism-ebooks/162",
+            "isbn": "TBD-162",
+            "title": "Hospitals Designing For Healing",
+            "creators": {
+                "author": "G. D. KUNDERS"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "163": {
+            "language": "English",
+            "identifier": "prism-ebooks/163",
+            "isbn": "TBD-163",
+            "title": "Ocean And Other Stories",
+            "creators": {
+                "author": "SALEEM"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "164": {
+            "language": "English",
+            "identifier": "prism-ebooks/164",
+            "isbn": "TBD-164",
+            "title": "Footprints Learning In Quest",
+            "creators": {
+                "author": "B.L.MAHESHWARI"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "165": {
+            "language": "English",
+            "identifier": "prism-ebooks/165",
+            "isbn": "TBD-165",
+            "title": "English For Business Communication",
+            "creators": {
+                "author": "DR T M FARHATHULLAH"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "166": {
+            "language": "English",
+            "identifier": "prism-ebooks/166",
+            "isbn": "TBD-166",
+            "title": "CHOCOLATES",
+            "creators": {
+                "author": "Vijayalakshmi Reddy"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "167": {
+            "language": "English",
+            "identifier": "prism-ebooks/167",
+            "isbn": "9789388478038",
+            "title": "ECO QUIZZING",
+            "creators": {
+                "author": "PADMA NANDYAL"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "144",
+            "description": ""
+        },
+        "168": {
+            "language": "English",
+            "identifier": "prism-ebooks/168",
+            "isbn": "TBD-168",
+            "title": "GREAT THOUGHTS",
+            "creators": {
+                "author": "U S MOINUDDIN"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "169": {
+            "language": "English",
+            "identifier": "prism-ebooks/169",
+            "isbn": "TBD-169",
+            "title": "Lets Learn",
+            "creators": {
+                "author": "Leadbeater Jacqueline.Dr"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "170": {
+            "language": "English",
+            "identifier": "prism-ebooks/170",
+            "isbn": "TBD-170",
+            "title": "DSP Algorithm and Architecture 2nd ed VTU",
+            "creators": {
+                "author": "R NARENDRA"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "171": {
+            "language": "English",
+            "identifier": "prism-ebooks/171",
+            "isbn": "TBD-171",
+            "title": "Conversational Tamil",
+            "creators": {
+                "author": "N D KRISHNAMURTHY"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "172": {
+            "language": "English",
+            "identifier": "prism-ebooks/172",
+            "isbn": "TBD-172",
+            "title": "Conversational Kannada (With CD)  by NDK",
+            "creators": {
+                "author": "N D KRISHNAMURTHY"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "173": {
+            "language": "English",
+            "identifier": "prism-ebooks/173",
+            "isbn": "TBD-173",
+            "title": "Coorg Land Of Beauty and Valour",
+            "creators": {
+                "author": "Bopanna P.T."
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "174": {
+            "language": "English",
+            "identifier": "prism-ebooks/174",
+            "isbn": "TBD-174",
+            "title": "Theory Of Music 2ed",
+            "creators": {
+                "author": "VIDUSHI VASANTHAMADHAVI"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "175": {
+            "language": "English",
+            "identifier": "prism-ebooks/175",
+            "isbn": "TBD-175",
+            "title": "The Cosmic Waters A Study on the Hidden Significance of the Waters of Space in the Vedas",
+            "creators": {
+                "author": "MILLER JEANINE"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "176": {
+            "language": "English",
+            "identifier": "prism-ebooks/176",
+            "isbn": "9789388478168",
+            "title": "Bharatanatyam",
+            "creators": {
+                "author": "Kutty Thankamani"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "52",
+            "description": ""
+        },
+        "177": {
+            "language": "English",
+            "identifier": "prism-ebooks/177",
+            "isbn": "TBD-177",
+            "title": "Dreams, Action and Success",
+            "creators": {
+                "author": "U S MOINUDDIN"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "178": {
+            "language": "English",
+            "identifier": "prism-ebooks/178",
+            "isbn": "9789388478045",
+            "title": "SHOONYA - AN ABYSS OF ABSOLUTE TIMELESSNESS",
+            "creators": {
+                "author": "SREESHA BELAKVAADI"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "158",
+            "description": ""
+        },
+        "179": {
+            "language": "English",
+            "identifier": "prism-ebooks/179",
+            "isbn": "TBD-179",
+            "title": "Sugarcane Alternatives  :   Sugar, Bio-fuels and Environment",
+            "creators": {
+                "author": "DR GURURAJ HUNSIGI"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "180": {
+            "language": "English",
+            "identifier": "prism-ebooks/180",
+            "isbn": "TBD-180",
+            "title": "IN SEARCH OF MEANING",
+            "creators": {
+                "author": "MOID SIDDIQUI"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "181": {
+            "language": "English",
+            "identifier": "prism-ebooks/181",
+            "isbn": "9789388478052",
+            "title": "THE ROMANCE OF INDIAN COFFEE",
+            "creators": {
+                "author": "Bopanna P.T."
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "96",
+            "description": ""
+        },
+        "182": {
+            "language": "English",
+            "identifier": "prism-ebooks/182",
+            "isbn": "TBD-182",
+            "title": "Computer Organization",
+            "creators": {
+                "author": "Krishnananda L"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "183": {
+            "language": "English",
+            "identifier": "prism-ebooks/183",
+            "isbn": "TBD-183",
+            "title": "Three Dimensions and Other Stories",
+            "creators": {
+                "author": "SALEEM"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "184": {
+            "language": "English",
+            "identifier": "prism-ebooks/184",
+            "isbn": "TBD-184",
+            "title": "Designing Hospitals of the Future",
+            "creators": {
+                "author": "G. D. KUNDERS"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "185": {
+            "language": "English",
+            "identifier": "prism-ebooks/185",
+            "isbn": "9789386506788",
+            "title": "50 Soul Stories",
+            "creators": {
+                "author": "MOID SIDDIQUI"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "265",
+            "description": ""
+        },
+        "186": {
+            "language": "English",
+            "identifier": "prism-ebooks/186",
+            "isbn": "TBD-186",
+            "title": "Kannada Lexicography & other Articles",
+            "creators": {
+                "author": "Venkatasubbiah G. Prof"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "187": {
+            "language": "English",
+            "identifier": "prism-ebooks/187",
+            "isbn": "TBD-187",
+            "title": "Empowering Teachers : Enhancing Quality in Teacher Education",
+            "creators": {
+                "author": "Asha B N Dr"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "188": {
+            "language": "English",
+            "identifier": "prism-ebooks/188",
+            "isbn": "9789388478069",
+            "title": "PAY FOR EXCELLENCE AND GET SUCCESS, WEALTH AND FAME ALL FREE OF COST!!!",
+            "creators": {
+                "author": "A R K Sarma"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "192",
+            "description": ""
+        },
+        "189": {
+            "language": "English",
+            "identifier": "prism-ebooks/189",
+            "isbn": "TBD-189",
+            "title": "Bhitti",
+            "creators": {
+                "author": "BHYRAPPA S L"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "190": {
+            "language": "English",
+            "identifier": "prism-ebooks/190",
+            "isbn": "9789386506795",
+            "title": "Samskruthi (Culture)",
+            "creators": {
+                "author": "Ramaswamy S (TR)"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "136",
+            "description": ""
+        },
+        "191": {
+            "language": "English",
+            "identifier": "prism-ebooks/191",
+            "isbn": "9789386506801",
+            "title": "Aryans Who Are They?",
+            "creators": {
+                "author": "VASUDEVAN A R"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "266",
+            "description": ""
+        },
+        "192": {
+            "language": "English",
+            "identifier": "prism-ebooks/192",
+            "isbn": "9789388478076",
+            "title": "7 Wonders in my Spice Box",
+            "creators": {
+                "author": "VEENA BHAT SMT"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "256",
+            "description": ""
+        },
+        "193": {
+            "language": "English",
+            "identifier": "prism-ebooks/193",
+            "isbn": "9789386506818",
+            "title": "Gitanjali",
+            "creators": {
+                "author": "TAGORE RABINDRANATH"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "144",
+            "description": ""
+        },
+        "194": {
+            "language": "English",
+            "identifier": "prism-ebooks/194",
+            "isbn": "9789386506825",
+            "title": "Vainu Bappu",
+            "creators": {
+                "author": "Murthy M S S Dr."
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "164",
+            "description": ""
+        },
+        "195": {
+            "language": "English",
+            "identifier": "prism-ebooks/195",
+            "isbn": "TBD-195",
+            "title": "Beauty of the Grotesque",
+            "creators": {
+                "author": "CHANDRAMOULI RAAMA"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "196": {
+            "language": "English",
+            "identifier": "prism-ebooks/196",
+            "isbn": "9789386506832",
+            "title": "Srinivasa Ramanujan",
+            "creators": {
+                "author": "Sydney Srinivas"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "176",
+            "description": ""
+        },
+        "197": {
+            "language": "English",
+            "identifier": "prism-ebooks/197",
+            "isbn": "9789388478083",
+            "title": "Opening to Trust",
+            "creators": {
+                "author": "Nunn Hank Fr S J"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "316",
+            "description": ""
+        },
+        "198": {
+            "language": "English",
+            "identifier": "prism-ebooks/198",
+            "isbn": "9789388478090",
+            "title": "Championing the Bosses",
+            "creators": {
+                "author": "MOID SIDDIQUI"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "204",
+            "description": ""
+        },
+        "199": {
+            "language": "English",
+            "identifier": "prism-ebooks/199",
+            "isbn": "9789388478106",
+            "title": "Great Moments",
+            "creators": {
+                "author": "Sri Prakasha Shanbog"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "132",
+            "description": ""
+        },
+        "201": {
+            "language": "English",
+            "identifier": "prism-ebooks/201",
+            "isbn": "TBD-201",
+            "title": "The Peoples  Scientist Dr.Y.Nayudamma  A  Biography",
+            "creators": {
+                "author": "Chandrahas.K"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "202": {
+            "language": "English",
+            "identifier": "prism-ebooks/202",
+            "isbn": "9789386506849",
+            "title": "Faith for Life",
+            "creators": {
+                "author": "Hari Charan S M"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "112",
+            "description": ""
+        },
+        "203": {
+            "language": "English",
+            "identifier": "prism-ebooks/203",
+            "isbn": "9789386506856",
+            "title": "The Prophet",
+            "creators": {
+                "author": "KHALIL GIBRAN"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "96",
+            "description": ""
+        },
+        "204": {
+            "language": "English",
+            "identifier": "prism-ebooks/204",
+            "isbn": "9789386506863",
+            "title": "Our Earth and Our Quest for Energy",
+            "creators": {
+                "author": "D P Sen Gupta"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "120",
+            "description": ""
+        },
+        "205": {
+            "language": "English",
+            "identifier": "prism-ebooks/205",
+            "isbn": "9789388478113",
+            "title": "The Vanished Raj  A Memoir of Princely India",
+            "creators": {
+                "author": "RAJARAM N S"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "400",
+            "description": ""
+        },
+        "206": {
+            "language": "English",
+            "identifier": "prism-ebooks/206",
+            "isbn": "9789388478120",
+            "title": "Animal Farm",
+            "creators": {
+                "author": "GEORGE ORWELL"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "100",
+            "description": ""
+        },
+        "207": {
+            "language": "English",
+            "identifier": "prism-ebooks/207",
+            "isbn": "TBD-207",
+            "title": "Quizzotica Anant The Ultimate Quiz Book",
+            "creators": {
+                "author": "Chitra Ramaswamy"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "208": {
+            "language": "English",
+            "identifier": "prism-ebooks/208",
+            "isbn": "TBD-208",
+            "title": "The Peoples  Scientist Dr.Y.Nayudamma  A  Biography (Student Edition)",
+            "creators": {
+                "author": "Chandrahas.K"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "209": {
+            "language": "English",
+            "identifier": "prism-ebooks/209",
+            "isbn": "TBD-209",
+            "title": "Skill Sutras",
+            "creators": {
+                "author": "Jayashree Mohanraj"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "210": {
+            "language": "English",
+            "identifier": "prism-ebooks/210",
+            "isbn": "9789386506870",
+            "title": "Albert Einstein",
+            "creators": {
+                "author": "Sydney Srinivas"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "184",
+            "description": ""
+        },
+        "211": {
+            "language": "English",
+            "identifier": "prism-ebooks/211",
+            "isbn": "TBD-211",
+            "title": "Vasudeva Kriya Yoga - Divinity in Yoga",
+            "creators": {
+                "author": "Rajendra Damodara Yenkannamoole"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "212": {
+            "language": "English",
+            "identifier": "prism-ebooks/212",
+            "isbn": "TBD-212",
+            "title": "Incredible Mathematical Stories",
+            "creators": {
+                "author": "Hasanabba B A"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "213": {
+            "language": "English",
+            "identifier": "prism-ebooks/213",
+            "isbn": "TBD-213",
+            "title": "Mesmerising Magic Using Maths",
+            "creators": {
+                "author": "Hasanabba B A"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "214": {
+            "language": "English",
+            "identifier": "prism-ebooks/214",
+            "isbn": "TBD-214",
+            "title": "Mysterious Magic Squares",
+            "creators": {
+                "author": "Hasanabba B A"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "215": {
+            "language": "English",
+            "identifier": "prism-ebooks/215",
+            "isbn": "TBD-215",
+            "title": "Amazing Number Marvels",
+            "creators": {
+                "author": "Hasanabba B A"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "216": {
+            "language": "English",
+            "identifier": "prism-ebooks/216",
+            "isbn": "TBD-216",
+            "title": "Fascinating Fun with Numbers",
+            "creators": {
+                "author": "Hasanabba B A"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "217": {
+            "language": "English",
+            "identifier": "prism-ebooks/217",
+            "isbn": "TBD-217",
+            "title": "Methods of Mental Mathematics",
+            "creators": {
+                "author": "Hasanabba B A"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "218": {
+            "language": "English",
+            "identifier": "prism-ebooks/218",
+            "isbn": "TBD-218",
+            "title": "The Ultimate Quiz Book Quizzotica  Ananth  Vol 3",
+            "creators": {
+                "author": "Chitra Ramaswamy"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "219": {
+            "language": "English",
+            "identifier": "prism-ebooks/219",
+            "isbn": "TBD-219",
+            "title": "Karnataka Quiz",
+            "creators": {
+                "author": "Chitra Ramaswamy"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "220": {
+            "language": "English",
+            "identifier": "prism-ebooks/220",
+            "isbn": "TBD-220",
+            "title": "The Ultimate Quiz Book  Quizzotica Ananth Vol 2",
+            "creators": {
+                "author": "Chitra Ramaswamy"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "221": {
+            "language": "English",
+            "identifier": "prism-ebooks/221",
+            "isbn": "TBD-221",
+            "title": "A Literary Salad 2/Ed  : An Indispensable Companion for the Students & Teachers of English Language",
+            "creators": {
+                "author": "Madhukar Rao (Prof)"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "222": {
+            "language": "English",
+            "identifier": "prism-ebooks/222",
+            "isbn": "TBD-222",
+            "title": "With Malice Towards None",
+            "creators": {
+                "author": "Nair M K K"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "223": {
+            "language": "English",
+            "identifier": "prism-ebooks/223",
+            "isbn": "TBD-223",
+            "title": "Ghantasala",
+            "creators": {
+                "author": "Ranganath Nandyal"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "224": {
+            "language": "English",
+            "identifier": "prism-ebooks/224",
+            "isbn": "TBD-224",
+            "title": "The Hound of Baskervilles ( HB )",
+            "creators": {
+                "author": "Sir Arthur Connan Doyle"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "225": {
+            "language": "English",
+            "identifier": "prism-ebooks/225",
+            "isbn": "9789386506887",
+            "title": "Yummy Cakes",
+            "creators": {
+                "author": "Vijayalakshmi Reddy"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "94",
+            "description": ""
+        },
+        "226": {
+            "language": "English",
+            "identifier": "prism-ebooks/226",
+            "isbn": "9789386506894",
+            "title": "Surya Namaskara with Pranayama, Mudras & Bandha and Accupressure",
+            "creators": {
+                "author": "Rajendra Damodara Yenkannamoole"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "168",
+            "description": ""
+        },
+        "227": {
+            "language": "English",
+            "identifier": "prism-ebooks/227",
+            "isbn": "9789386506900",
+            "title": "Legacy of the Lotus ( The Friend's Quest - 2)",
+            "creators": {
+                "author": "Harshitha Hebbar"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "108",
+            "description": ""
+        },
+        "228": {
+            "language": "English",
+            "identifier": "prism-ebooks/228",
+            "isbn": "TBD-228",
+            "title": "Around the World in 80 Days (HB)",
+            "creators": {
+                "author": "Jules Verne"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "229": {
+            "language": "English",
+            "identifier": "prism-ebooks/229",
+            "isbn": "TBD-229",
+            "title": "The Adventure of Sherlock Holmes (HB)",
+            "creators": {
+                "author": "SIR ARTHUR CONAN DOYLE"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "230": {
+            "language": "English",
+            "identifier": "prism-ebooks/230",
+            "isbn": "9789386506917",
+            "title": "Ramayana for Children",
+            "creators": {
+                "author": "Chitra Ramaswamy"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "64",
+            "description": ""
+        },
+        "231": {
+            "language": "English",
+            "identifier": "prism-ebooks/231",
+            "isbn": "TBD-231",
+            "title": "The Adventures of Sherlock Holmes",
+            "creators": {
+                "author": "Arthur Conan Doyle"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "232": {
+            "language": "English",
+            "identifier": "prism-ebooks/232",
+            "isbn": "9789386506924",
+            "title": "Isaac Newton",
+            "creators": {
+                "author": "Sydney Srinivas"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "192",
+            "description": ""
+        },
+        "233": {
+            "language": "English",
+            "identifier": "prism-ebooks/233",
+            "isbn": "9789386506931",
+            "title": "The Ramayana",
+            "creators": {
+                "author": "Chitra Ramaswamy"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "172",
+            "description": ""
+        },
+        "234": {
+            "language": "English",
+            "identifier": "prism-ebooks/234",
+            "isbn": "9789386506948",
+            "title": "Gandhi : My Experiments with Truth",
+            "creators": {
+                "author": "MAHATMA GANDHI"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "552",
+            "description": ""
+        },
+        "235": {
+            "language": "English",
+            "identifier": "prism-ebooks/235",
+            "isbn": "TBD-235",
+            "title": "The Last Bow of Sherlock Holmes",
+            "creators": {
+                "author": "Arthur Conan Doyle"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "236": {
+            "language": "English",
+            "identifier": "prism-ebooks/236",
+            "isbn": "TBD-236",
+            "title": "The Complete Works of Khalil Gibran",
+            "creators": {
+                "author": "KAHLIL GIBRAN"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "237": {
+            "language": "English",
+            "identifier": "prism-ebooks/237",
+            "isbn": "TBD-237",
+            "title": "20,000 Leagues Under the Sea",
+            "creators": {
+                "author": "Jules Verne"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "238": {
+            "language": "English",
+            "identifier": "prism-ebooks/238",
+            "isbn": "TBD-238",
+            "title": "A Journey to the Center of the Earth",
+            "creators": {
+                "author": "Jules Verne"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "239": {
+            "language": "English",
+            "identifier": "prism-ebooks/239",
+            "isbn": "TBD-239",
+            "title": "A Little Princes",
+            "creators": {
+                "author": "Frances Hodgson Burnett"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "240": {
+            "language": "English",
+            "identifier": "prism-ebooks/240",
+            "isbn": "TBD-240",
+            "title": "A Tale of Two Cities",
+            "creators": {
+                "author": "Charles Busoni"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "241": {
+            "language": "English",
+            "identifier": "prism-ebooks/241",
+            "isbn": "TBD-241",
+            "title": "Alice In Wonderland",
+            "creators": {
+                "author": "LEWIS CARROLL"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "242": {
+            "language": "English",
+            "identifier": "prism-ebooks/242",
+            "isbn": "TBD-242",
+            "title": "Black Beauty",
+            "creators": {
+                "author": "Anna Sewell"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "243": {
+            "language": "English",
+            "identifier": "prism-ebooks/243",
+            "isbn": "TBD-243",
+            "title": "David Copperfield",
+            "creators": {
+                "author": "CHARLES DICKENS"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "244": {
+            "language": "English",
+            "identifier": "prism-ebooks/244",
+            "isbn": "TBD-244",
+            "title": "Grimm's Fairy Tales",
+            "creators": {
+                "author": "Jack Peterson"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "245": {
+            "language": "English",
+            "identifier": "prism-ebooks/245",
+            "isbn": "TBD-245",
+            "title": "The Adventures of Huckleberry Finn",
+            "creators": {
+                "author": "Twain Mark"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "246": {
+            "language": "English",
+            "identifier": "prism-ebooks/246",
+            "isbn": "TBD-246",
+            "title": "The Adventures of Robinson Crusoe",
+            "creators": {
+                "author": "DANIEL DEFOE"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "247": {
+            "language": "English",
+            "identifier": "prism-ebooks/247",
+            "isbn": "TBD-247",
+            "title": "Count of Monte Cristo",
+            "creators": {
+                "author": "ALEXANDRE DUMAS"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "248": {
+            "language": "English",
+            "identifier": "prism-ebooks/248",
+            "isbn": "TBD-248",
+            "title": "Man in the Iron Mask",
+            "creators": {
+                "author": "ALEXANDRE DUMAS"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "249": {
+            "language": "English",
+            "identifier": "prism-ebooks/249",
+            "isbn": "TBD-249",
+            "title": "The Invisible Man",
+            "creators": {
+                "author": "WELLS H G"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "250": {
+            "language": "English",
+            "identifier": "prism-ebooks/250",
+            "isbn": "TBD-250",
+            "title": "The Last Bow of Sherlock Holmes (HB)",
+            "creators": {
+                "author": "SIR ARTHUR CONAN DOYLE"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "251": {
+            "language": "English",
+            "identifier": "prism-ebooks/251",
+            "isbn": "TBD-251",
+            "title": "The Adventures of Tom Sawyer (HB)",
+            "creators": {
+                "author": "MARK TWAIN"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "252": {
+            "language": "English",
+            "identifier": "prism-ebooks/252",
+            "isbn": "TBD-252",
+            "title": "The Casebook of Sherlock Holmes (HB)",
+            "creators": {
+                "author": "Sir Arthur Connan Doyle"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "253": {
+            "language": "English",
+            "identifier": "prism-ebooks/253",
+            "isbn": "TBD-253",
+            "title": "Heidi (HB)",
+            "creators": {
+                "author": "Johanna Spyri"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "254": {
+            "language": "English",
+            "identifier": "prism-ebooks/254",
+            "isbn": "TBD-254",
+            "title": "Kidnapped",
+            "creators": {
+                "author": "STEVENSON ROBERT LOUIS"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "255": {
+            "language": "English",
+            "identifier": "prism-ebooks/255",
+            "isbn": "TBD-255",
+            "title": "Little Women",
+            "creators": {
+                "author": "Louisa May Alcott"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "256": {
+            "language": "English",
+            "identifier": "prism-ebooks/256",
+            "isbn": "TBD-256",
+            "title": "Moby Dick (HB)",
+            "creators": {
+                "author": "HERMAN MELVILLE"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "257": {
+            "language": "English",
+            "identifier": "prism-ebooks/257",
+            "isbn": "TBD-257",
+            "title": "Sense and Sensibility  (HB)",
+            "creators": {
+                "author": "JANE AUSTEN"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "258": {
+            "language": "English",
+            "identifier": "prism-ebooks/258",
+            "isbn": "TBD-258",
+            "title": "Far From the Madding Crowd",
+            "creators": {
+                "author": "Thomas Hardy"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "259": {
+            "language": "English",
+            "identifier": "prism-ebooks/259",
+            "isbn": "TBD-259",
+            "title": "Great Expectations",
+            "creators": {
+                "author": "CHARLES DICKENS"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "260": {
+            "language": "English",
+            "identifier": "prism-ebooks/260",
+            "isbn": "TBD-260",
+            "title": "The Mayor of Casterbridge (HB)",
+            "creators": {
+                "author": "Thomas Hardy"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "261": {
+            "language": "English",
+            "identifier": "prism-ebooks/261",
+            "isbn": "TBD-261",
+            "title": "The Memoirs of Sherlock Holmes (HB)",
+            "creators": {
+                "author": "Sir Authur Conan Doyle"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "262": {
+            "language": "English",
+            "identifier": "prism-ebooks/262",
+            "isbn": "TBD-262",
+            "title": "The Merry Adventures of Robin Hood (HB)",
+            "creators": {
+                "author": "Howard Pyle"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "263": {
+            "language": "English",
+            "identifier": "prism-ebooks/263",
+            "isbn": "TBD-263",
+            "title": "The Return of Sherlock Holmes (HB)",
+            "creators": {
+                "author": "Sir Arthur Connan Doyle"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "264": {
+            "language": "English",
+            "identifier": "prism-ebooks/264",
+            "isbn": "TBD-264",
+            "title": "The Strange Case of Dr. Jekyll and Mr. Hyde",
+            "creators": {
+                "author": "ROBERT LOUIS STEVENSON"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "265": {
+            "language": "English",
+            "identifier": "prism-ebooks/265",
+            "isbn": "TBD-265",
+            "title": "The Three Musketeers (HB)",
+            "creators": {
+                "author": "ALEXANDRE DUMAS"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "266": {
+            "language": "English",
+            "identifier": "prism-ebooks/266",
+            "isbn": "TBD-266",
+            "title": "Wuthering Heights (HB)",
+            "creators": {
+                "author": "EMILY BRONTE"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "267": {
+            "language": "English",
+            "identifier": "prism-ebooks/267",
+            "isbn": "TBD-267",
+            "title": "Prince and the Pauper",
+            "creators": {
+                "author": "MARK TWAIN"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "268": {
+            "language": "English",
+            "identifier": "prism-ebooks/268",
+            "isbn": "TBD-268",
+            "title": "The Jungle Book",
+            "creators": {
+                "author": "RUDYARD KIPLING"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "269": {
+            "language": "English",
+            "identifier": "prism-ebooks/269",
+            "isbn": "TBD-269",
+            "title": "Emma",
+            "creators": {
+                "author": "JANE AUSTEN"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "270": {
+            "language": "English",
+            "identifier": "prism-ebooks/270",
+            "isbn": "TBD-270",
+            "title": "Gulliver's Travel (HB)",
+            "creators": {
+                "author": "Jonathan Swift"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "271": {
+            "language": "English",
+            "identifier": "prism-ebooks/271",
+            "isbn": "TBD-271",
+            "title": "Oliver Twist",
+            "creators": {
+                "author": "CHARLES DICKENS"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "272": {
+            "language": "English",
+            "identifier": "prism-ebooks/272",
+            "isbn": "TBD-272",
+            "title": "Pride and Prejudice",
+            "creators": {
+                "author": "JANE AUSTEN"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "273": {
+            "language": "English",
+            "identifier": "prism-ebooks/273",
+            "isbn": "TBD-273",
+            "title": "Sherlock Holmes  A Study in Scarlet",
+            "creators": {
+                "author": "SIR ARTHUR CONAN DOYLE"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "274": {
+            "language": "English",
+            "identifier": "prism-ebooks/274",
+            "isbn": "TBD-274",
+            "title": "Sleeping Beauty and other Stories",
+            "creators": {
+                "author": "Peter Max"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "275": {
+            "language": "English",
+            "identifier": "prism-ebooks/275",
+            "isbn": "TBD-275",
+            "title": "The Hunchback of Notre-Dame",
+            "creators": {
+                "author": "Victor Hugo"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "276": {
+            "language": "English",
+            "identifier": "prism-ebooks/276",
+            "isbn": "TBD-276",
+            "title": "Treasure Island",
+            "creators": {
+                "author": "ROBERT LOUIS STEVENSON"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "277": {
+            "language": "English",
+            "identifier": "prism-ebooks/277",
+            "isbn": "TBD-277",
+            "title": "The Prisoner of Zenda",
+            "creators": {
+                "author": "Sir Anthony Hope Hawkins"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "278": {
+            "language": "English",
+            "identifier": "prism-ebooks/278",
+            "isbn": "TBD-278",
+            "title": "Ivanhoe",
+            "creators": {
+                "author": "Sir Walter Scott"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "279": {
+            "language": "English",
+            "identifier": "prism-ebooks/279",
+            "isbn": "9789386506955",
+            "title": "Mein Kampf – Adolf Hitler",
+            "creators": {
+                "author": "ADOLF HITLER"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "636",
+            "description": ""
+        },
+        "280": {
+            "language": "English",
+            "identifier": "prism-ebooks/280",
+            "isbn": "9789388478175",
+            "title": "How to Win Friends & Influence People",
+            "creators": {
+                "author": "Dale Carnegie"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "284",
+            "description": ""
+        },
+        "281": {
+            "language": "English",
+            "identifier": "prism-ebooks/281",
+            "isbn": "9789388478182",
+            "title": "How to Develop Self-Confidence And Influence People by Public Speaking",
+            "creators": {
+                "author": "Dale Carnegie"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "264",
+            "description": ""
+        },
+        "282": {
+            "language": "English",
+            "identifier": "prism-ebooks/282",
+            "isbn": "9789388478199",
+            "title": "How to Stop Worrying and Start Living",
+            "creators": {
+                "author": "Dale Carnegie"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "328",
+            "description": ""
+        },
+        "283": {
+            "language": "English",
+            "identifier": "prism-ebooks/283",
+            "isbn": "9789386506962",
+            "title": "Hanuman",
+            "creators": {
+                "author": "Chitra Ramaswamy"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "124",
+            "description": ""
+        },
+        "285": {
+            "language": "English",
+            "identifier": "prism-ebooks/285",
+            "isbn": "TBD-285",
+            "title": "Modern Control Theory",
+            "creators": {
+                "author": "Parvatikar R V"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "286": {
+            "language": "English",
+            "identifier": "prism-ebooks/286",
+            "isbn": "TBD-286",
+            "title": "Digital Signal Processing",
+            "creators": {
+                "author": "Uday Kumar S"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "287": {
+            "language": "English",
+            "identifier": "prism-ebooks/287",
+            "isbn": "TBD-287",
+            "title": "Proceedings on Data Engineering & Communication Systems",
+            "creators": {
+                "author": "M V Sudhamani"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "288": {
+            "language": "English",
+            "identifier": "prism-ebooks/288",
+            "isbn": "TBD-288",
+            "title": "Recent Trends in Novel  Drug Delivery",
+            "creators": {
+                "author": "Udupa N"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "289": {
+            "language": "English",
+            "identifier": "prism-ebooks/289",
+            "isbn": "TBD-289",
+            "title": "Microprocessors 8086 Series 2/Ed",
+            "creators": {
+                "author": "NARENDRA KUMAR"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "290": {
+            "language": "English",
+            "identifier": "prism-ebooks/290",
+            "isbn": "TBD-290",
+            "title": "Fundamentals of Pharmaceutical Care",
+            "creators": {
+                "author": "Udupa N"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "291": {
+            "language": "English",
+            "identifier": "prism-ebooks/291",
+            "isbn": "TBD-291",
+            "title": "An Insight into Industrial Pharmacy",
+            "creators": {
+                "author": "Udupa N"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "292": {
+            "language": "English",
+            "identifier": "prism-ebooks/292",
+            "isbn": "TBD-292",
+            "title": "Testing and Commissioning of Electrical Equipment",
+            "creators": {
+                "author": "Chakrasali L Ramesh Dr"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "293": {
+            "language": "English",
+            "identifier": "prism-ebooks/293",
+            "isbn": "TBD-293",
+            "title": "Functional Equations Revised and Updated 2nd ED",
+            "creators": {
+                "author": "B J VENKATACHALA"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "294": {
+            "language": "English",
+            "identifier": "prism-ebooks/294",
+            "isbn": "TBD-294",
+            "title": "Problem based MCQ’s in Pharmacology",
+            "creators": {
+                "author": "Ramesh K V (Dr)"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "295": {
+            "language": "English",
+            "identifier": "prism-ebooks/295",
+            "isbn": "TBD-295",
+            "title": "Signals and Systems 6 ED",
+            "creators": {
+                "author": "Uday Kumar S"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "296": {
+            "language": "English",
+            "identifier": "prism-ebooks/296",
+            "isbn": "TBD-296",
+            "title": "Treatment of Peripheral Nerve Lesions",
+            "creators": {
+                "author": "Mario G Siqueira"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "297": {
+            "language": "English",
+            "identifier": "prism-ebooks/297",
+            "isbn": "TBD-297",
+            "title": "Prism Recreational Mathematics - Box set of 6 books",
+            "creators": {
+                "author": "Hasanabba B A"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "298": {
+            "language": "Telugu",
+            "identifier": "prism-ebooks/298",
+            "isbn": "TBD-298",
+            "title": "Antharikshpu Lothulu ( Telugu )",
+            "creators": {
+                "author": "Radhakrishnan P."
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "299": {
+            "language": "Telugu",
+            "identifier": "prism-ebooks/299",
+            "isbn": "TBD-299",
+            "title": "Call Of Space (telugu)",
+            "creators": {
+                "author": "Radhakrishnan P."
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "300": {
+            "language": "Telugu",
+            "identifier": "prism-ebooks/300",
+            "isbn": "TBD-300",
+            "title": "Noorella Panta",
+            "creators": {
+                "author": "BHARGAVI RAO"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "301": {
+            "language": "Telugu",
+            "identifier": "prism-ebooks/301",
+            "isbn": "TBD-301",
+            "title": "Mudra Vanithalu Kavithalu",
+            "creators": {
+                "author": "Bhargavi Rao Dr."
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "302": {
+            "language": "Telugu",
+            "identifier": "prism-ebooks/302",
+            "isbn": "TBD-302",
+            "title": "Aaha... Ooho... An Anthology Of Humorous Short Stories",
+            "creators": {
+                "author": "Bhargavi Rao Dr."
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "303": {
+            "language": "Telugu",
+            "identifier": "prism-ebooks/303",
+            "isbn": "TBD-303",
+            "title": "Aadhyathmika Guruvulu Sai Baba",
+            "creators": {
+                "author": "VEMURI RAMANJANI KUMARI"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "304": {
+            "language": "Telugu",
+            "identifier": "prism-ebooks/304",
+            "isbn": "TBD-304",
+            "title": "Pedda Puli Athmakatha (A Tiger of Malgudi) (Telugu)",
+            "creators": {
+                "author": "R K NARAYAN"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "305": {
+            "language": "Telugu",
+            "identifier": "prism-ebooks/305",
+            "isbn": "TBD-305",
+            "title": "Malgudi Kathalu (Telugu)",
+            "creators": {
+                "author": "R K NARAYAN"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "306": {
+            "language": "Telugu",
+            "identifier": "prism-ebooks/306",
+            "isbn": "TBD-306",
+            "title": "Matakkari  (Talkative Man)  (Telugu)",
+            "creators": {
+                "author": "R K NARAYAN"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "307": {
+            "language": "Telugu",
+            "identifier": "prism-ebooks/307",
+            "isbn": "TBD-307",
+            "title": "Manishante Athani Aalochanale (As a Man Thinketh)",
+            "creators": {
+                "author": "C Mrunalini"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "308": {
+            "language": "Telugu",
+            "identifier": "prism-ebooks/308",
+            "isbn": "TBD-308",
+            "title": "Chivari Korika (Telugu)",
+            "creators": {
+                "author": "Malladi V .Krishanamurthy"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "309": {
+            "language": "Telugu",
+            "identifier": "prism-ebooks/309",
+            "isbn": "TBD-309",
+            "title": "Paramardha Kathalu (Telugu)",
+            "creators": {
+                "author": "Malladi V .Krishanamurthy"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "310": {
+            "language": "Telugu",
+            "identifier": "prism-ebooks/310",
+            "isbn": "TBD-310",
+            "title": "Pillala Perala Pusthakam (Telugu)  Baby Names",
+            "creators": {
+                "author": "Malladi V .Krishanamurthy"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "311": {
+            "language": "Telugu",
+            "identifier": "prism-ebooks/311",
+            "isbn": "TBD-311",
+            "title": "Yamadoota (Telugu)",
+            "creators": {
+                "author": "Malladi V .Krishanamurthy"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "312": {
+            "language": "Telugu",
+            "identifier": "prism-ebooks/312",
+            "isbn": "TBD-312",
+            "title": "Karma Janma (Telugu)",
+            "creators": {
+                "author": "Malladi V .Krishanamurthy"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "313": {
+            "language": "Telugu",
+            "identifier": "prism-ebooks/313",
+            "isbn": "TBD-313",
+            "title": "Antharvani (Telugu)",
+            "creators": {
+                "author": "Malladi V .Krishanamurthy"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "314": {
+            "language": "Telugu",
+            "identifier": "prism-ebooks/314",
+            "isbn": "TBD-314",
+            "title": "Three Monkeys  (Telugu)",
+            "creators": {
+                "author": "Malladi V .Krishanamurthy"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "315": {
+            "language": "Telugu",
+            "identifier": "prism-ebooks/315",
+            "isbn": "TBD-315",
+            "title": "The Guest  (Telugu)",
+            "creators": {
+                "author": "Malladi V .Krishanamurthy"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "316": {
+            "language": "Telugu",
+            "identifier": "prism-ebooks/316",
+            "isbn": "TBD-316",
+            "title": "Oka Nuvu Oka Nenu  (Telugu)",
+            "creators": {
+                "author": "Malladi V .Krishanamurthy"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "317": {
+            "language": "Telugu",
+            "identifier": "prism-ebooks/317",
+            "isbn": "TBD-317",
+            "title": "Ssh Gup Chup  (Telugu)",
+            "creators": {
+                "author": "Malladi V .Krishanamurthy"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "318": {
+            "language": "Telugu",
+            "identifier": "prism-ebooks/318",
+            "isbn": "TBD-318",
+            "title": "Yagnaseni",
+            "creators": {
+                "author": "Prathiba Ray"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "319": {
+            "language": "Telugu",
+            "identifier": "prism-ebooks/319",
+            "isbn": "TBD-319",
+            "title": "Satya Nadella: Microsoftku Maruthunna Mukkam",
+            "creators": {
+                "author": "Jagmohan S. Bhanver"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "320": {
+            "language": "Telugu",
+            "identifier": "prism-ebooks/320",
+            "isbn": "TBD-320",
+            "title": "Neeku Naaku Pelanta (Telugu)",
+            "creators": {
+                "author": "Malladi V .Krishanamurthy"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "321": {
+            "language": "Telugu",
+            "identifier": "prism-ebooks/321",
+            "isbn": "TBD-321",
+            "title": "Mithunam : Mari Konni Kathalu (Telugu)",
+            "creators": {
+                "author": "Sriramana"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "322": {
+            "language": "Telugu",
+            "identifier": "prism-ebooks/322",
+            "isbn": "TBD-322",
+            "title": "RANGULA RATNAM",
+            "creators": {
+                "author": "Sriramana"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "323": {
+            "language": "Telugu",
+            "identifier": "prism-ebooks/323",
+            "isbn": "TBD-323",
+            "title": "Jayam (Telugu)",
+            "creators": {
+                "author": "Malladi V .Krishanamurthy"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "324": {
+            "language": "Telugu",
+            "identifier": "prism-ebooks/324",
+            "isbn": "TBD-324",
+            "title": "Gamyam (Telugu)",
+            "creators": {
+                "author": "Malladi V .Krishanamurthy"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "325": {
+            "language": "Telugu",
+            "identifier": "prism-ebooks/325",
+            "isbn": "TBD-325",
+            "title": "Zen and Sufi Kathalu (Telugu)",
+            "creators": {
+                "author": "Malladi V .Krishanamurthy"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "326": {
+            "language": "Telugu",
+            "identifier": "prism-ebooks/326",
+            "isbn": "TBD-326",
+            "title": "Colonel Ekalingam",
+            "creators": {
+                "author": "Malladi Venkata Krishnamurthy"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "327": {
+            "language": "Telugu",
+            "identifier": "prism-ebooks/327",
+            "isbn": "TBD-327",
+            "title": "Yamayanamaha - Telugu",
+            "creators": {
+                "author": "Malladi Venkata Krishnamurthy"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "328": {
+            "language": "Telugu",
+            "identifier": "prism-ebooks/328",
+            "isbn": "TBD-328",
+            "title": "Sundari Subbarao (Telugu)",
+            "creators": {
+                "author": "Malladi Venkata Krishnamurthy"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "329": {
+            "language": "Telugu",
+            "identifier": "prism-ebooks/329",
+            "isbn": "TBD-329",
+            "title": "Dasarabullodu (Telugu)",
+            "creators": {
+                "author": "Bageeratha"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "330": {
+            "language": "Telugu",
+            "identifier": "prism-ebooks/330",
+            "isbn": "TBD-330",
+            "title": "Bala Ramayanam - Telugu",
+            "creators": {
+                "author": "Chitra Ramaswamy"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "331": {
+            "language": "Telugu",
+            "identifier": "prism-ebooks/331",
+            "isbn": "9789386506979",
+            "title": "Votamini Angeekarinchanu: Atal Bihari Vajpayee Jeevitha Gatha (Telugu)",
+            "creators": {
+                "author": "Vijaya Trivedi"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "447",
+            "description": ""
+        },
+        "332": {
+            "language": "Telugu",
+            "identifier": "prism-ebooks/332",
+            "isbn": "TBD-332",
+            "title": "Ashtadikpalaka Vaibhavam (Telugu)",
+            "creators": {
+                "author": "Vakkantham Suryanarayana Rao"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "333": {
+            "language": "Telugu",
+            "identifier": "prism-ebooks/333",
+            "isbn": "TBD-333",
+            "title": "Prayanam (Telugu)",
+            "creators": {
+                "author": "Malladi Venkata Krishnamurthy"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "334": {
+            "language": "Telugu",
+            "identifier": "prism-ebooks/334",
+            "isbn": "TBD-334",
+            "title": "Sri Ramana Manava Sambandhalu (Telugu)",
+            "creators": {
+                "author": "Sriramana"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "335": {
+            "language": "Telugu",
+            "identifier": "prism-ebooks/335",
+            "isbn": "TBD-335",
+            "title": "Deeparadhana",
+            "creators": {
+                "author": "Tejovathi"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "336": {
+            "language": "Telugu",
+            "identifier": "prism-ebooks/336",
+            "isbn": "TBD-336",
+            "title": "Neethi Viluvalatha Koodina Kathalu  Set of 12 Titles  - Telugu",
+            "creators": {
+                "author": "Animal Short Stories (12T)"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "337": {
+            "language": "Telugu",
+            "identifier": "prism-ebooks/337",
+            "isbn": "TBD-337",
+            "title": "Sravanthi (Telugu)",
+            "creators": {
+                "author": "Malladi Venkata Krishnamurthy"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "338": {
+            "language": "Telugu",
+            "identifier": "prism-ebooks/338",
+            "isbn": "TBD-338",
+            "title": "Sriramana Peradilu (Telugu)",
+            "creators": {
+                "author": "Sriramana"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "339": {
+            "language": "Telugu",
+            "identifier": "prism-ebooks/339",
+            "isbn": "TBD-339",
+            "title": "Connect to God (Telugu)",
+            "creators": {
+                "author": "Malladi Venkata Krishnamurthy"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "340": {
+            "language": "Telugu",
+            "identifier": "prism-ebooks/340",
+            "isbn": "TBD-340",
+            "title": "Sambavami Gruhe Gruhe (Telugu)",
+            "creators": {
+                "author": "Vakkantham Suryanarayana Rao"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "341": {
+            "language": "Malayalam",
+            "identifier": "prism-ebooks/341",
+            "isbn": "TBD-341",
+            "title": "Swami Vivekanandan",
+            "creators": {
+                "author": "Sreedharan P K"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "342": {
+            "language": "Malayalam",
+            "identifier": "prism-ebooks/342",
+            "isbn": "TBD-342",
+            "title": "Prapanjasrishtiyude Padippurayil At the threshold of Universe Creation ( Brief history of God Partic",
+            "creators": {
+                "author": "V P N NAMPOOTHIRI"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "343": {
+            "language": "Malayalam",
+            "identifier": "prism-ebooks/343",
+            "isbn": "TBD-343",
+            "title": "Gabriel Garcia Marquez (Malayalam)",
+            "creators": {
+                "author": "Jayachandran Nair"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "344": {
+            "language": "Malayalam",
+            "identifier": "prism-ebooks/344",
+            "isbn": "TBD-344",
+            "title": "Advaita Sikharam Thedi",
+            "creators": {
+                "author": "Sreedharan P K"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "345": {
+            "language": "Malayalam",
+            "identifier": "prism-ebooks/345",
+            "isbn": "TBD-345",
+            "title": "Kadhasarithsagaram  MT yude Sahitya Jeevitham (Malayalam)",
+            "creators": {
+                "author": "Jayachandran Nair"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "346": {
+            "language": "Malayalam",
+            "identifier": "prism-ebooks/346",
+            "isbn": "TBD-346",
+            "title": "Samthrupthajeevitham",
+            "creators": {
+                "author": "Krishnan S (Dr)"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "",
+            "description": ""
+        },
+        "347": {
+            "language": "English",
+            "identifier": "prism-ebooks/347",
+            "isbn": "9789388478137",
+            "title": "Bagavadgeetha",
+            "creators": {
+                "author": "K.B.Ramakrishna Rao"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "184",
+            "description": ""
+        },
+        "348": {
+            "language": "English",
+            "identifier": "prism-ebooks/348",
+            "isbn": "9789388478144",
+            "title": "Friends quest",
+            "creators": {
+                "author": "Harshitha Hebbar"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "120",
+            "description": ""
+        },
+        "349": {
+            "language": "English",
+            "identifier": "prism-ebooks/349",
+            "isbn": "9789388478151",
+            "title": "The Mantra for winning cancer battle",
+            "creators": {
+                "author": "H.S.Kulkarni"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "195",
+            "description": ""
+        },
+        "350": {
+            "language": "English",
+            "identifier": "prism-ebooks/350",
+            "isbn": "9789388478205",
+            "title": "Life sutras",
+            "creators": {
+                "author": "Jayashree Mohanraj"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "168",
+            "description": ""
         }
     }
 }
