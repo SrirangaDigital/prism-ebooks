@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<package version="3.0" xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+		<meta name="generator" content="Adobe InDesign 14.0" />
+		<meta name="cover" content="x1.png" />
+		<meta property="ibooks:specified-fonts">true</meta>
+		<dc:title>george orval 2</dc:title>
+		<dc:date>2018-11-05T09:52:11Z</dc:date>
+		<dc:language>en-GB</dc:language>
+		<meta property="dcterms:modified">2018-11-05T09:52:11Z</meta>
+		<dc:identifier id="bookid">urn:uuid:29d919dd-24f5-4384-be78-b447c9dc299b</dc:identifier>
+	</metadata>
+	<manifest>
+		<item id="cover" href="cover.xhtml" media-type="application/xhtml+xml" />
+		<item id="george_orval_2" href="george_orval_2.xhtml" media-type="application/xhtml+xml" />
+		<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
+		<item id="toc" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav" />
+		<item id="idGeneratedStyles.css" href="css/idGeneratedStyles.css" media-type="text/css" />
+		<item id="ArialMT.ttf" href="font/ArialMT.ttf" media-type="application/vnd.ms-opentype" />
+		<item id="Impact.ttf" href="font/Impact.ttf" media-type="application/vnd.ms-opentype" />
+		<item id="LeagueGothic.otf" href="font/LeagueGothic.otf" media-type="application/vnd.ms-opentype" />
+		<item id="MinionPro-Bold.otf" href="font/MinionPro-Bold.otf" media-type="application/vnd.ms-opentype" />
+		<item id="MinionPro-Regular.otf" href="font/MinionPro-Regular.otf" media-type="application/vnd.ms-opentype" />
+		<item id="MyriadWebPro.ttf" href="font/MyriadWebPro.ttf" media-type="application/vnd.ms-opentype" />
+		<item id="x1.png" href="image/1.png" media-type="image/png" properties="cover-image" />
+		<item id="Barcode2.jpg" href="image/Barcode2.jpg" media-type="image/jpeg" />
+		<item id="Barcode2.png" href="image/Barcode2.png" media-type="image/png" />
+		<item id="bitmap.png" href="image/bitmap.png" media-type="image/png" />
+		<item id="indianrs.png" href="image/indianrs.png" media-type="image/png" />
+		<item id="logo.png" href="image/logo.png" media-type="image/png" />
+		<item id="logo1.png" href="image/logo1.png" media-type="image/png" />
+		<item id="logo2.png" href="image/logo2.png" media-type="image/png" />
+		<item id="logo3.png" href="image/logo3.png" media-type="image/png" />
+		<item id="workg.jpg" href="image/workg.jpg" media-type="image/jpeg" />
+	</manifest>
+	<spine toc="ncx">
+		<itemref idref="cover" linear="no" />
+		<itemref idref="george_orval_2" />
+	</spine>
+	<guide>
+		<reference type="cover" href="cover.xhtml" title="Cover" />
+	</guide>
+</package>

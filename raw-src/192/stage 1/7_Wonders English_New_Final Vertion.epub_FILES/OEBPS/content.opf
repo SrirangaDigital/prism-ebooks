@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<package version="3.0" xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+		<meta name="generator" content="Adobe InDesign 14.0" />
+		<meta name="cover" content="x1.png" />
+		<meta property="ibooks:specified-fonts">true</meta>
+		<dc:title>7_Wonders English_New_Final Vertion</dc:title>
+		<dc:date>2018-11-05T09:50:36Z</dc:date>
+		<dc:language>en-US</dc:language>
+		<meta property="dcterms:modified">2018-11-05T09:50:37Z</meta>
+		<dc:identifier id="bookid">urn:uuid:29d919dd-24f5-4384-be78-b447c9dc299b</dc:identifier>
+	</metadata>
+	<manifest>
+		<item id="cover" href="cover.xhtml" media-type="application/xhtml+xml" />
+		<item id="x7_Wonders_English_New_Final_Vertion" href="7_Wonders_English_New_Final_Vertion.xhtml" media-type="application/xhtml+xml" />
+		<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
+		<item id="toc" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav" />
+		<item id="idGeneratedStyles.css" href="css/idGeneratedStyles.css" media-type="text/css" />
+		<item id="Arial-BoldMT.ttf" href="font/Arial-BoldMT.ttf" media-type="application/vnd.ms-opentype" />
+		<item id="ArialMT.ttf" href="font/ArialMT.ttf" media-type="application/vnd.ms-opentype" />
+		<item id="BookAntiqua-Bold.TTF" href="font/BookAntiqua-Bold.TTF" media-type="application/vnd.ms-opentype" />
+		<item id="BookAntiqua-Italic.TTF" href="font/BookAntiqua-Italic.TTF" media-type="application/vnd.ms-opentype" />
+		<item id="BookAntiqua.TTF" href="font/BookAntiqua.TTF" media-type="application/vnd.ms-opentype" />
+		<item id="Calibri-Bold.TTF" href="font/Calibri-Bold.TTF" media-type="application/vnd.ms-opentype" />
+		<item id="Calibri-BoldItalic.TTF" href="font/Calibri-BoldItalic.TTF" media-type="application/vnd.ms-opentype" />
+		<item id="Calibri-Italic.ttf" href="font/Calibri-Italic.ttf" media-type="application/vnd.ms-opentype" />
+		<item id="Calibri.ttf" href="font/Calibri.ttf" media-type="application/vnd.ms-opentype" />
+		<item id="CenturySchoolbook-BoldItalic.TTF" href="font/CenturySchoolbook-BoldItalic.TTF" media-type="application/vnd.ms-opentype" />
+		<item id="FranklinGothic-DemiCond.TTF" href="font/FranklinGothic-DemiCond.TTF" media-type="application/vnd.ms-opentype" />
+		<item id="FranklinGothic-Medium.ttf" href="font/FranklinGothic-Medium.ttf" media-type="application/vnd.ms-opentype" />
+		<item id="FranklinGothic-MediumItalic.ttf" href="font/FranklinGothic-MediumItalic.ttf" media-type="application/vnd.ms-opentype" />
+		<item id="GeometricSlab703BT-Bold.ttf" href="font/GeometricSlab703BT-Bold.ttf" media-type="application/vnd.ms-opentype" />
+		<item id="Impact.ttf" href="font/Impact.ttf" media-type="application/vnd.ms-opentype" />
+		<item id="IndianRupee-Regular.ttf" href="font/IndianRupee-Regular.ttf" media-type="application/x-font-ttf" />
+		<item id="MinionPro-Regular.otf" href="font/MinionPro-Regular.otf" media-type="application/vnd.ms-opentype" />
+		<item id="SymbolMT.TTF" href="font/SymbolMT.TTF" media-type="application/vnd.ms-opentype" />
+		<item id="TimesNewRomanPSMT.ttf" href="font/TimesNewRomanPSMT.ttf" media-type="application/vnd.ms-opentype" />
+		<item id="Wingdings-Regular.ttf" href="font/Wingdings-Regular.ttf" media-type="application/vnd.ms-opentype" />
+		<item id="Wingdings2.TTF" href="font/Wingdings2.TTF" media-type="application/vnd.ms-opentype" />
+		<item id="x1.png" href="image/1.png" media-type="image/png" properties="cover-image" />
+		<item id="x16.png" href="image/16.png" media-type="image/png" />
+		<item id="x17.png" href="image/17.png" media-type="image/png" />
+		<item id="x2.png" href="image/2.png" media-type="image/png" />
+		<item id="x20150620115311622_-2-_-1-.jpg" href="image/20150620115311622_%282%29_%281%29.jpg" media-type="image/jpeg" />
+		<item id="x4.png" href="image/4.png" media-type="image/png" />
+		<item id="Award_winning_photo.jpg" href="image/Award_winning_photo.jpg" media-type="image/jpeg" />
+		<item id="A_aesthetic_coriander.jpg" href="image/A_aesthetic_coriander.jpg" media-type="image/jpeg" />
+		<item id="bengalgram.jpg" href="image/bengalgram.jpg" media-type="image/jpeg" />
+		<item id="Bengal_garam.png" href="image/Bengal_garam.png" media-type="image/png" />
+		<item id="Bengal_garam_Back_page.png" href="image/Bengal_garam_Back_page.png" media-type="image/png" />
+		<item id="Black_garam.png" href="image/Black_garam.png" media-type="image/png" />
+		<item id="Black_garam_back_page.png" href="image/Black_garam_back_page.png" media-type="image/png" />
+		<item id="Black_gram.jpg" href="image/Black_gram.jpg" media-type="image/jpeg" />
+		<item id="bothmustards.jpg" href="image/bothmustards.jpg" media-type="image/jpeg" />
+		<item id="Cirtificate.jpg" href="image/Cirtificate.jpg" media-type="image/jpeg" />
+		<item id="Conriander_Seed.png" href="image/Conriander_Seed.png" media-type="image/png" />
+		<item id="Conriander_Seed_back_page.png" href="image/Conriander_Seed_back_page.png" media-type="image/png" />
+		<item id="Cumic_back_page.png" href="image/Cumic_back_page.png" media-type="image/png" />
+		<item id="cumin.jpg" href="image/cumin.jpg" media-type="image/jpeg" />
+		<item id="Cumin.png" href="image/Cumin.png" media-type="image/png" />
+		<item id="Evening_Snacks.png" href="image/Evening_Snacks.png" media-type="image/png" />
+		<item id="Evening_Snacks_Back_page.png" href="image/Evening_Snacks_Back_page.png" media-type="image/png" />
+		<item id="Fenugreek_1.jpg" href="image/Fenugreek_1.jpg" media-type="image/jpeg" />
+		<item id="Fenugreek_1.png" href="image/Fenugreek_1.png" media-type="image/png" />
+		<item id="Frame.png" href="image/Frame.png" media-type="image/png" />
+		<item id="Ingredient.png" href="image/Ingredient.png" media-type="image/png" />
+		<item id="Ingredients.png" href="image/Ingredients.png" media-type="image/png" />
+		<item id="Ingredients1.png" href="image/Ingredients1.png" media-type="image/png" />
+		<item id="Ingredients10.png" href="image/Ingredients10.png" media-type="image/png" />
+		<item id="Ingredients11.png" href="image/Ingredients11.png" media-type="image/png" />
+		<item id="Ingredients12.png" href="image/Ingredients12.png" media-type="image/png" />
+		<item id="Ingredients13.png" href="image/Ingredients13.png" media-type="image/png" />
+		<item id="Ingredients14.png" href="image/Ingredients14.png" media-type="image/png" />
+		<item id="Ingredients15.png" href="image/Ingredients15.png" media-type="image/png" />
+		<item id="Ingredients2.png" href="image/Ingredients2.png" media-type="image/png" />
+		<item id="Ingredients3.png" href="image/Ingredients3.png" media-type="image/png" />
+		<item id="Ingredients4.png" href="image/Ingredients4.png" media-type="image/png" />
+		<item id="Ingredients5.png" href="image/Ingredients5.png" media-type="image/png" />
+		<item id="Ingredients6.png" href="image/Ingredients6.png" media-type="image/png" />
+		<item id="Ingredients7.png" href="image/Ingredients7.png" media-type="image/png" />
+		<item id="Ingredients8.png" href="image/Ingredients8.png" media-type="image/png" />
+		<item id="Ingredients9.png" href="image/Ingredients9.png" media-type="image/png" />
+		<item id="Methi_Back_page.png" href="image/Methi_Back_page.png" media-type="image/png" />
+		<item id="method.png" href="image/method.png" media-type="image/png" />
+		<item id="Method_1.png" href="image/Method_1.png" media-type="image/png" />
+		<item id="Method_11.png" href="image/Method_11.png" media-type="image/png" />
+		<item id="Method_110.png" href="image/Method_110.png" media-type="image/png" />
+		<item id="Method_111.png" href="image/Method_111.png" media-type="image/png" />
+		<item id="Method_112.png" href="image/Method_112.png" media-type="image/png" />
+		<item id="Method_113.png" href="image/Method_113.png" media-type="image/png" />
+		<item id="Method_114.png" href="image/Method_114.png" media-type="image/png" />
+		<item id="Method_115.png" href="image/Method_115.png" media-type="image/png" />
+		<item id="Method_116.png" href="image/Method_116.png" media-type="image/png" />
+		<item id="Method_117.png" href="image/Method_117.png" media-type="image/png" />
+		<item id="Method_118.png" href="image/Method_118.png" media-type="image/png" />
+		<item id="Method_119.png" href="image/Method_119.png" media-type="image/png" />
+		<item id="Method_12.png" href="image/Method_12.png" media-type="image/png" />
+		<item id="Method_13.png" href="image/Method_13.png" media-type="image/png" />
+		<item id="Method_14.png" href="image/Method_14.png" media-type="image/png" />
+		<item id="Method_15.png" href="image/Method_15.png" media-type="image/png" />
+		<item id="Method_16.png" href="image/Method_16.png" media-type="image/png" />
+		<item id="Method_17.png" href="image/Method_17.png" media-type="image/png" />
+		<item id="Method_18.png" href="image/Method_18.png" media-type="image/png" />
+		<item id="Method_19.png" href="image/Method_19.png" media-type="image/png" />
+		<item id="sago-patties.png" href="image/sago-patties.png" media-type="image/png" />
+		<item id="serve.png" href="image/serve.png" media-type="image/png" />
+		<item id="serve1.png" href="image/serve1.png" media-type="image/png" />
+		<item id="serve2.png" href="image/serve2.png" media-type="image/png" />
+		<item id="Seven_wonders_cvr_pg_final_ver12.jpg" href="image/Seven_wonders_cvr_pg_final_ver12.jpg" media-type="image/jpeg" />
+		<item id="Seven_wonders_cvr_pg_final_ver121.jpg" href="image/Seven_wonders_cvr_pg_final_ver121.jpg" media-type="image/jpeg" />
+		<item id="Seven_wonders_inside_pgs_2__ver12.png" href="image/Seven_wonders_inside_pgs_2__ver12.png" media-type="image/png" />
+		<item id="Seven_wonders_inside_pgs_3__ver12.png" href="image/Seven_wonders_inside_pgs_3__ver12.png" media-type="image/png" />
+		<item id="Seven_wonders_inside_pgs_9__ver12.png" href="image/Seven_wonders_inside_pgs_9__ver12.png" media-type="image/png" />
+		<item id="Seven_wonders_inside_pgs_ver12.png" href="image/Seven_wonders_inside_pgs_ver12.png" media-type="image/png" />
+		<item id="Tips.png" href="image/Tips.png" media-type="image/png" />
+		<item id="Tips1.png" href="image/Tips1.png" media-type="image/png" />
+		<item id="Tips2.png" href="image/Tips2.png" media-type="image/png" />
+		<item id="Tips3.png" href="image/Tips3.png" media-type="image/png" />
+		<item id="Traditional_Recepi.png" href="image/Traditional_Recepi.png" media-type="image/png" />
+		<item id="Traditional_Recepi_BAck_page.png" href="image/Traditional_Recepi_BAck_page.png" media-type="image/png" />
+		<item id="turmeric.jpg" href="image/turmeric.jpg" media-type="image/jpeg" />
+		<item id="Turmeric.png" href="image/Turmeric.png" media-type="image/png" />
+		<item id="Turmeric_Back_page.png" href="image/Turmeric_Back_page.png" media-type="image/png" />
+	</manifest>
+	<spine toc="ncx">
+		<itemref idref="cover" linear="no" />
+		<itemref idref="x7_Wonders_English_New_Final_Vertion" />
+	</spine>
+	<guide>
+		<reference type="cover" href="cover.xhtml" title="Cover" />
+	</guide>
+</package>

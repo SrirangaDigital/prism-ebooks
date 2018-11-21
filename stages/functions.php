@@ -32,7 +32,7 @@
 		fwrite($fp, '<?xml version="1.0" encoding="UTF-8"?>' . "\n");
 		fwrite($fp, '<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:epub="http://www.idpf.org/2007/ops">' . "\n");
 		fwrite($fp, '<head>' . "\n");
-		fwrite($fp, '<title>Nagpur Ashram</title>' . "\n");
+		fwrite($fp, '<title>Prism Books</title>' . "\n");
 		fwrite($fp, '<link rel="stylesheet" type="text/css" href="css/style.css" />' . "\n");
 		fwrite($fp, '</head>' . "\n");
 		fwrite($fp, '<body>' . "\n");

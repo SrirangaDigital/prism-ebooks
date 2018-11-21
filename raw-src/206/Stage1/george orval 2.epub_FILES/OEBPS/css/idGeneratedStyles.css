@@ -1,0 +1,360 @@
+@font-face {
+	font-family:Arial;
+	font-style:normal;
+	font-weight:normal;
+	src : url("../font/ArialMT.ttf");
+}
+@font-face {
+	font-family:Impact;
+	font-style:normal;
+	font-weight:normal;
+	font-stretch:condensed;
+	src : url("../font/Impact.ttf");
+}
+@font-face {
+	font-family:"League Gothic";
+	font-style:normal;
+	font-weight:normal;
+	src : url("../font/LeagueGothic.otf");
+}
+@font-face {
+	font-family:"Minion Pro";
+	font-style:normal;
+	font-weight:bold;
+	src : url("../font/MinionPro-Bold.otf");
+}
+@font-face {
+	font-family:"Minion Pro";
+	font-style:normal;
+	font-weight:normal;
+	src : url("../font/MinionPro-Regular.otf");
+}
+@font-face {
+	font-family:"Myriad Web Pro";
+	font-style:normal;
+	font-weight:normal;
+	src : url("../font/MyriadWebPro.ttf");
+}
+body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
+	margin:0;
+	padding:0;
+	border-width:0;
+}
+body {
+	-epub-hyphens:auto;
+}
+@page {
+	margin : 0px 0px 0px 0px;
+}
+div.Basic-Graphics-Frame {
+	border-color:#000000;
+	border-width:1px;
+	border-style:solid;
+}
+div.Basic-Text-Frame {
+	border-style:solid;
+}
+p.Basic-Paragraph {
+	color:#000000;
+	font-family:"Minion Pro", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.ParaOverride-1 {
+	-epub-hyphens:none;
+}
+p.ParaOverride-2 {
+	text-align:center;
+}
+p.ParaOverride-3 {
+	text-align:right;
+}
+span.CharOverride-1 {
+	color:#d6c833;
+	font-family:Impact;
+	font-size:0.629em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-transform:uppercase;
+}
+span.CharOverride-2 {
+	font-family:Impact;
+	font-size:0.629em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-transform:uppercase;
+}
+span.CharOverride-3 {
+	color:#ffffff;
+	font-family:Arial;
+	font-size:0.735em;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-4 {
+	color:#ffffff;
+	font-family:"Milford Condensed";
+	font-size:1.784em;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-5 {
+	color:#ffffff;
+	font-family:"Milford Condensed";
+	font-size:1.407em;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-6 {
+	font-family:"Minion Pro";
+	font-size:0.83em;
+	font-style:normal;
+	font-weight:bold;
+}
+span.CharOverride-7 {
+	font-size:0.83em;
+}
+span.CharOverride-8 {
+	font-family:"Myriad Web Pro";
+	font-size:0.794em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-transform:uppercase;
+}
+span.CharOverride-9 {
+	font-family:Myriad;
+	font-size:0.794em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-transform:uppercase;
+}
+span.CharOverride-10 {
+	color:#ffffff;
+	font-family:"League Gothic Bold", sans-serif;
+	font-size:1.06em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-transform:uppercase;
+}
+span.CharOverride-11 {
+	font-family:"League Gothic";
+	font-size:1.06em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-transform:uppercase;
+}
+span.CharOverride-12 {
+	color:#ffffff;
+	font-family:"League Gothic Bold", sans-serif;
+	font-size:1.178em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-transform:uppercase;
+}
+span.CharOverride-13 {
+	font-family:"League Gothic";
+	font-size:1.178em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-transform:uppercase;
+}
+span.CharOverride-14 {
+	color:#595a5c;
+	font-family:"League Gothic";
+	font-size:4.933em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-transform:uppercase;
+}
+span.CharOverride-15 {
+	color:#ffffff;
+	font-family:"League Gothic";
+	font-size:4.933em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-transform:uppercase;
+}
+span.CharOverride-16 {
+	font-family:"League Gothic";
+	font-size:1.783em;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-17 {
+	color:#595a5c;
+	font-family:"League Gothic";
+	font-size:7.572em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-transform:uppercase;
+}
+span.CharOverride-18 {
+	font-family:"League Gothic";
+	font-size:2.736em;
+	font-style:normal;
+	font-weight:normal;
+}
+#_idContainer000, #_idContainer001 {
+	-webkit-transform:translate(0.000px,0.000px) rotate(180.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:50% 50%;
+	display:inline-block;
+	height:0px;
+	position:relative;
+	transform:translate(0.000px,0.000px) rotate(180.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:50% 50%;
+	width:10px;
+}
+#_idContainer002 {
+	display:inline-block;
+	height:0px;
+	position:relative;
+	width:243px;
+}
+#_idContainer003 {
+	display:inline-block;
+	height:0px;
+	position:relative;
+	width:249px;
+}
+#_idContainer004 {
+	display:inline-block;
+	height:540px;
+	width:723px;
+}
+#_idContainer005, #_idContainer033, #_idContainer039, #_idContainer049 {
+	-webkit-transform:translate(0.000px,0.000px) rotate(270.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:50% 50%;
+	display:inline-block;
+	height:0px;
+	position:relative;
+	transform:translate(0.000px,0.000px) rotate(270.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:50% 50%;
+	width:10px;
+}
+#_idContainer006, #_idContainer034, #_idContainer040, #_idContainer050 {
+	-webkit-transform:translate(0.000px,0.000px) rotate(90.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:50% 50%;
+	display:inline-block;
+	height:0px;
+	position:relative;
+	transform:translate(0.000px,0.000px) rotate(90.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:50% 50%;
+	width:10px;
+}
+#_idContainer009, #_idContainer010, #_idContainer043, #_idContainer044 {
+	display:inline-block;
+	height:15px;
+	width:48px;
+}
+#_idContainer011, #_idContainer012 {
+	display:inline-block;
+	height:14px;
+	width:44px;
+}
+#_idContainer019, #_idContainer020 {
+	display:inline-block;
+	height:63px;
+	position:relative;
+	width:75px;
+}
+#_idContainer023 {
+	display:inline-block;
+	height:61px;
+	width:75px;
+}
+#_idContainer024 {
+	display:inline-block;
+	height:61px;
+	width:73px;
+}
+#_idContainer025, #_idContainer027 {
+	display:inline-block;
+	height:7px;
+	width:6px;
+}
+#_idContainer029, #_idContainer030 {
+	display:inline-block;
+	height:0px;
+	position:relative;
+	width:0px;
+}
+#_idContainer031 {
+	display:inline-block;
+	height:0px;
+	position:relative;
+	width:29px;
+}
+#_idContainer032 {
+	display:inline-block;
+	height:0px;
+	position:relative;
+	width:23px;
+}
+#_idContainer035 {
+	display:inline-block;
+	height:35px;
+	width:11px;
+}
+#_idContainer037 {
+	display:inline-block;
+	height:37px;
+	width:12px;
+}
+#_idContainer051, #_idContainer052 {
+	display:inline-block;
+	height:0px;
+	position:relative;
+	width:10px;
+}
+img._idGenObjectAttribute-1 {
+	height:100.00%;
+	min-width:100%;
+	width:100.00%;
+}
+div._idGenObjectStyleOverride-1 {
+	background-color:#000000;
+	border-width:1px;
+}
+div._idGenObjectStyleOverride-2 {
+	border-color:#ffffff;
+}
+div._idGenObjectStyleOverride-3 {
+	background-color:#ffffff;
+	border-color:#ffffff;
+	border-width:1px;
+}
+div._idGenObjectStyleOverride-4 {
+	border-width:1px;
+}
+div._idGenObjectLayout-1 {
+	text-align:center;
+}
+div._idGenObjectLayout-2 {
+	margin:5px -5px 5px -5px;
+}
