@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns:ncx="http://www.daisy.org/z3986/2005/ncx/" xmlns="http://www.daisy.org/z3986/2005/ncx/"
+    version="2005-1" xml:lang="en">
+
+   <head>
+      <meta name="dtb:uid" content="urn:isbn:9789386506849"/>
+      <meta name="dtb:depth" content="1"/>
+      <meta name="dtb:totalPageCount" content="0"/>
+      <meta name="dtb:maxPageNumber" content="0"/>
+   </head>
+
+   <docTitle>
+      <text>Faith for Life</text>
+   </docTitle>
+
+   <navMap>
+		
+<navPoint id="navPoint-1" playOrder="1">
+<navLabel><text>Title Page</text></navLabel><content src="000a-title.xhtml#id-000a"/>
+</navPoint>
+<navPoint id="navPoint-2" playOrder="2">
+<navLabel><text>Copyright</text></navLabel><content src="000b-copyright.xhtml#id-000b.1"/>
+</navPoint>
+<navPoint id="navPoint-3" playOrder="3">
+<navLabel><text>DVG</text></navLabel><content src="000c-preface.xhtml#id-000c.1"/>
+</navPoint>
+<navPoint id="navPoint-4" playOrder="4">
+<navLabel><text>Foreword</text></navLabel><content src="000d-preface.xhtml#id-000d.1"/>
+</navPoint>
+<navPoint id="navPoint-5" playOrder="5">
+<navLabel><text>Preface</text></navLabel><content src="000e-preface.xhtml#id-000e.1"/>
+</navPoint>
+<navPoint id="navPoint-6" playOrder="6">
+<navLabel><text>Life</text></navLabel><content src="001-chapter001.xhtml#id-001"/>
+</navPoint>
+<navPoint id="navPoint-7" playOrder="7">
+<navLabel><text>Larger Goal</text></navLabel><content src="002-chapter002.xhtml#id-002"/>
+</navPoint>
+<navPoint id="navPoint-8" playOrder="8">
+<navLabel><text>Individual Goals</text></navLabel><content src="003-chapter003.xhtml#id-003"/>
+</navPoint>
+<navPoint id="navPoint-9" playOrder="9">
+<navLabel><text>What do we mean by Good?</text></navLabel><content src="004-chapter004.xhtml#id-004"/>
+</navPoint>
+<navPoint id="navPoint-10" playOrder="10">
+<navLabel><text>Human Purpose</text></navLabel><content src="005-chapter005.xhtml#id-005"/>
+</navPoint>
+<navPoint id="navPoint-11" playOrder="11">
+<navLabel><text>Our Purpose</text></navLabel><content src="006-chapter006.xhtml#id-006"/>
+</navPoint>
+<navPoint id="navPoint-12" playOrder="12">
+<navLabel><text>Three Main Characteristics</text></navLabel><content src="007-chapter007.xhtml#id-007"/>
+</navPoint>
+<navPoint id="navPoint-13" playOrder="13">
+<navLabel><text>Present Living</text></navLabel><content src="008-chapter008.xhtml#id-008"/>
+</navPoint>
+<navPoint id="navPoint-14" playOrder="14">
+<navLabel><text>Reason for Slow Growth of this Nation?</text></navLabel><content src="009-chapter009.xhtml#id-009"/>
+</navPoint>
+<navPoint id="navPoint-15" playOrder="15">
+<navLabel><text>Life’s Enthusiasm</text></navLabel><content src="010-chapter010.xhtml#id-010"/>
+</navPoint>
+<navPoint id="navPoint-16" playOrder="16">
+<navLabel><text>A Formidable Story</text></navLabel><content src="011-chapter011.xhtml#id-011"/>
+</navPoint>
+<navPoint id="navPoint-17" playOrder="17">
+<navLabel><text>Voice of Great Saints</text></navLabel><content src="012-chapter012.xhtml#id-012"/>
+</navPoint>
+<navPoint id="navPoint-18" playOrder="18">
+<navLabel><text>Era of Loss of Courage</text></navLabel><content src="013-chapter013.xhtml#id-013"/>
+</navPoint>
+<navPoint id="navPoint-19" playOrder="19">
+<navLabel><text>Fallacies of Vedanta</text></navLabel><content src="014-chapter014.xhtml#id-014"/>
+</navPoint>
+<navPoint id="navPoint-20" playOrder="20">
+<navLabel><text>Courageous Intellect</text></navLabel><content src="015-chapter015.xhtml#id-015"/>
+</navPoint>
+<navPoint id="navPoint-21" playOrder="21">
+<navLabel><text>Importance of Life</text></navLabel><content src="016-chapter016.xhtml#id-016"/>
+</navPoint>
+<navPoint id="navPoint-22" playOrder="22">
+<navLabel><text>Inappropriate Detachment</text></navLabel><content src="017-chapter017.xhtml#id-017"/>
+</navPoint>
+<navPoint id="navPoint-23" playOrder="23">
+<navLabel><text>What do we mean by Devotion to God?</text></navLabel><content src="018-chapter018.xhtml#id-018"/>
+</navPoint>
+<navPoint id="navPoint-24" playOrder="24">
+<navLabel><text>What is Science?</text></navLabel><content src="019-chapter019.xhtml#id-019"/>
+</navPoint>
+<navPoint id="navPoint-25" playOrder="25">
+<navLabel><text>Natural Sciences</text></navLabel><content src="020-chapter020.xhtml#id-020"/>
+</navPoint>
+<navPoint id="navPoint-26" playOrder="26">
+<navLabel><text>Limitation of Science</text></navLabel><content src="021-chapter021.xhtml#id-021"/>
+</navPoint>
+<navPoint id="navPoint-27" playOrder="27">
+<navLabel><text>Pump and Pray</text></navLabel><content src="022-chapter022.xhtml#id-022"/>
+</navPoint>
+<navPoint id="navPoint-28" playOrder="28">
+<navLabel><text>Science – Boon or Bane</text></navLabel><content src="023-chapter023.xhtml#id-023"/>
+</navPoint>
+<navPoint id="navPoint-29" playOrder="29">
+<navLabel><text>Distress of Villages</text></navLabel><content src="024-chapter024.xhtml#id-024"/>
+</navPoint>
+<navPoint id="navPoint-30" playOrder="30">
+<navLabel><text>Agrarian Economy</text></navLabel><content src="025-chapter025.xhtml#id-025"/>
+</navPoint>
+<navPoint id="navPoint-31" playOrder="31">
+<navLabel><text>Our Devotion</text></navLabel><content src="026-chapter026.xhtml#id-026"/>
+</navPoint>
+<navPoint id="navPoint-32" playOrder="32">
+<navLabel><text>Path for Blossoming of Soul</text></navLabel><content src="027-chapter027.xhtml#id-027"/>
+</navPoint>
+<navPoint id="navPoint-33" playOrder="33">
+<navLabel><text>Harmony – Balanced Approach</text></navLabel><content src="028-chapter028.xhtml#id-028"/>
+</navPoint>
+<navPoint id="navPoint-34" playOrder="34">
+<navLabel><text>Purification of Soul</text></navLabel><content src="029-chapter029.xhtml#id-029"/>
+</navPoint>
+<navPoint id="navPoint-35" playOrder="35">
+<navLabel><text>New Pot with Old Clay</text></navLabel><content src="030-chapter030.xhtml#id-030"/>
+</navPoint>
+<navPoint id="navPoint-36" playOrder="36">
+<navLabel><text>Beware of Westernisation</text></navLabel><content src="031-chapter031.xhtml#id-031"/>
+</navPoint>
+<navPoint id="navPoint-37" playOrder="37">
+<navLabel><text>Social Service</text></navLabel><content src="032-chapter032.xhtml#id-032"/>
+</navPoint>
+<navPoint id="navPoint-38" playOrder="38">
+<navLabel><text>Improvement of Villages – Land Cultivation</text></navLabel><content src="033-chapter033.xhtml#id-033"/>
+</navPoint>
+<navPoint id="navPoint-39" playOrder="39">
+<navLabel><text>Debt to Nation</text></navLabel><content src="034-chapter034.xhtml#id-034"/>
+</navPoint>
+<navPoint id="navPoint-40" playOrder="40">
+<navLabel><text>Service to Society – Education of Soul</text></navLabel><content src="035-chapter035.xhtml#id-035"/>
+</navPoint>
+<navPoint id="navPoint-41" playOrder="41">
+<navLabel><text>Blend of Old and New</text></navLabel><content src="036-chapter036.xhtml#id-036"/>
+</navPoint>
+<navPoint id="navPoint-42" playOrder="42">
+<navLabel><text>Larger Philosophy</text></navLabel><content src="037-chapter037.xhtml#id-037"/>
+</navPoint>
+<navPoint id="navPoint-43" playOrder="43">
+<navLabel><text>Patience – Order</text></navLabel><content src="038-chapter038.xhtml#id-038"/>
+</navPoint>
+<navPoint id="navPoint-44" playOrder="44">
+<navLabel><text>Progress – A Lengthy Act</text></navLabel><content src="039-chapter039.xhtml#id-039"/>
+</navPoint>
+<navPoint id="navPoint-45" playOrder="45">
+<navLabel><text>Our Life is Peepal Tree</text></navLabel><content src="040-chapter040.xhtml#id-040"/>
+</navPoint>
+<navPoint id="navPoint-46" playOrder="46">
+<navLabel><text>Belief for Life</text></navLabel><content src="041-chapter041.xhtml#id-041"/>
+</navPoint>
+<navPoint id="navPoint-47" playOrder="47">
+<navLabel><text>You be that</text></navLabel><content src="042-chapter042.xhtml#id-042"/>
+</navPoint>
+<navPoint id="navPoint-48" playOrder="48">
+<navLabel><text>Appendix</text></navLabel><content src="043-chapter043.xhtml#id-043"/>
+</navPoint>
+   </navMap>
+</ncx>
