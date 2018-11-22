@@ -1,0 +1,56 @@
+<encryption xmlns="urn:oasis:names:tc:opendocument:xmlns:container" xmlns:enc="http://www.w3.org/2001/04/xmlenc#">
+	<enc:EncryptedData>
+		<enc:EncryptionMethod Algorithm="http://www.idpf.org/2008/embedding" />
+		<enc:CipherData>
+			<enc:CipherReference URI="OEBPS/font/AGaramondPro-Bold.otf" />
+		</enc:CipherData>
+	</enc:EncryptedData>
+	<enc:EncryptedData>
+		<enc:EncryptionMethod Algorithm="http://www.idpf.org/2008/embedding" />
+		<enc:CipherData>
+			<enc:CipherReference URI="OEBPS/font/AGaramondPro-BoldItalic.otf" />
+		</enc:CipherData>
+	</enc:EncryptedData>
+	<enc:EncryptedData>
+		<enc:EncryptionMethod Algorithm="http://www.idpf.org/2008/embedding" />
+		<enc:CipherData>
+			<enc:CipherReference URI="OEBPS/font/AGaramondPro-Italic.otf" />
+		</enc:CipherData>
+	</enc:EncryptedData>
+	<enc:EncryptedData>
+		<enc:EncryptionMethod Algorithm="http://www.idpf.org/2008/embedding" />
+		<enc:CipherData>
+			<enc:CipherReference URI="OEBPS/font/AGaramondPro-Regular.otf" />
+		</enc:CipherData>
+	</enc:EncryptedData>
+	<enc:EncryptedData>
+		<enc:EncryptionMethod Algorithm="http://www.idpf.org/2008/embedding" />
+		<enc:CipherData>
+			<enc:CipherReference URI="OEBPS/font/IndianRupee-Regular.ttf" />
+		</enc:CipherData>
+	</enc:EncryptedData>
+	<enc:EncryptedData>
+		<enc:EncryptionMethod Algorithm="http://www.idpf.org/2008/embedding" />
+		<enc:CipherData>
+			<enc:CipherReference URI="OEBPS/font/MinionPro-Bold.otf" />
+		</enc:CipherData>
+	</enc:EncryptedData>
+	<enc:EncryptedData>
+		<enc:EncryptionMethod Algorithm="http://www.idpf.org/2008/embedding" />
+		<enc:CipherData>
+			<enc:CipherReference URI="OEBPS/font/MinionPro-Regular.otf" />
+		</enc:CipherData>
+	</enc:EncryptedData>
+	<enc:EncryptedData>
+		<enc:EncryptionMethod Algorithm="http://www.idpf.org/2008/embedding" />
+		<enc:CipherData>
+			<enc:CipherReference URI="OEBPS/font/PalatinoLinotype-Bold.TTF" />
+		</enc:CipherData>
+	</enc:EncryptedData>
+	<enc:EncryptedData>
+		<enc:EncryptionMethod Algorithm="http://www.idpf.org/2008/embedding" />
+		<enc:CipherData>
+			<enc:CipherReference URI="OEBPS/font/PalatinoLinotype-Roman.TTF" />
+		</enc:CipherData>
+	</enc:EncryptedData>
+</encryption>

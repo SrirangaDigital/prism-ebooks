@@ -1,0 +1,114 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Prism HowToWinFriendsAndInfluencePeople-Epub001</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Unknown">Unknown</dc:creator>
+    <dc:date>2018-09-27T18:30:00+00:00</dc:date>
+    <dc:source/>
+    <dc:relation/>
+    <dc:coverage/>
+    <dc:rights/>
+    <dc:identifier id="bookid">urn:uuid:0065b00e-eea5-41bd-a1de-2f4ec42a1281</dc:identifier>
+    <dc:language>en-GB</dc:language>
+    <dc:identifier xmlns:ns1="http://www.idpf.org/2007/opf" ns1:scheme="calibre">d5fded55-a804-4c17-a086-33099481ffd7</dc:identifier>
+    <meta name="generator" content="Adobe InDesign"/>
+    <meta name="cover" content="Prism_DaleCarnegie_How-to-develop-Self-confidence-Cover_Front.jpg"/>
+    <meta name="calibre:title_sort" content="Prism HowToWinFriendsAndInfluencePeople-Epub001"/>
+    <meta name="calibre:author_link_map" content="{&quot;Unknown&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item id="CoverImage" href="CoverImage.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Prism-HowToWinFriendsAndInfluencePeople-Epub" href="Prism-HowToWinFriendsAndInfluencePeople-Epub.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Prism-HowToWinFriendsAndInfluencePeople-Epub-1" href="Prism-HowToWinFriendsAndInfluencePeople-Epub-1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Prism-HowToWinFriendsAndInfluencePeople-Epub-2" href="Prism-HowToWinFriendsAndInfluencePeople-Epub-2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Prism-HowToWinFriendsAndInfluencePeople-Epub-3" href="Prism-HowToWinFriendsAndInfluencePeople-Epub-3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Prism-HowToWinFriendsAndInfluencePeople-Epub-4" href="Prism-HowToWinFriendsAndInfluencePeople-Epub-4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Prism-HowToWinFriendsAndInfluencePeople-Epub-5" href="Prism-HowToWinFriendsAndInfluencePeople-Epub-5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Prism-HowToWinFriendsAndInfluencePeople-Epub-6" href="Prism-HowToWinFriendsAndInfluencePeople-Epub-6.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Prism-HowToWinFriendsAndInfluencePeople-Epub-7" href="Prism-HowToWinFriendsAndInfluencePeople-Epub-7.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Prism-HowToWinFriendsAndInfluencePeople-Epub-8" href="Prism-HowToWinFriendsAndInfluencePeople-Epub-8.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Prism-HowToWinFriendsAndInfluencePeople-Epub-9" href="Prism-HowToWinFriendsAndInfluencePeople-Epub-9.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Prism-HowToWinFriendsAndInfluencePeople-Epub-10" href="Prism-HowToWinFriendsAndInfluencePeople-Epub-10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Prism-HowToWinFriendsAndInfluencePeople-Epub-11" href="Prism-HowToWinFriendsAndInfluencePeople-Epub-11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Prism-HowToWinFriendsAndInfluencePeople-Epub-12" href="Prism-HowToWinFriendsAndInfluencePeople-Epub-12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Prism-HowToWinFriendsAndInfluencePeople-Epub-13" href="Prism-HowToWinFriendsAndInfluencePeople-Epub-13.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Prism-HowToWinFriendsAndInfluencePeople-Epub-14" href="Prism-HowToWinFriendsAndInfluencePeople-Epub-14.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Prism-HowToWinFriendsAndInfluencePeople-Epub-15" href="Prism-HowToWinFriendsAndInfluencePeople-Epub-15.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Prism-HowToWinFriendsAndInfluencePeople-Epub-16" href="Prism-HowToWinFriendsAndInfluencePeople-Epub-16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Prism-HowToWinFriendsAndInfluencePeople-Epub-17" href="Prism-HowToWinFriendsAndInfluencePeople-Epub-17.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Prism-HowToWinFriendsAndInfluencePeople-Epub-18" href="Prism-HowToWinFriendsAndInfluencePeople-Epub-18.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Prism-HowToWinFriendsAndInfluencePeople-Epub-19" href="Prism-HowToWinFriendsAndInfluencePeople-Epub-19.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Prism-HowToWinFriendsAndInfluencePeople-Epub-20" href="Prism-HowToWinFriendsAndInfluencePeople-Epub-20.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Prism-HowToWinFriendsAndInfluencePeople-Epub-21" href="Prism-HowToWinFriendsAndInfluencePeople-Epub-21.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Prism-HowToWinFriendsAndInfluencePeople-Epub-22" href="Prism-HowToWinFriendsAndInfluencePeople-Epub-22.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Prism-HowToWinFriendsAndInfluencePeople-Epub-23" href="Prism-HowToWinFriendsAndInfluencePeople-Epub-23.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Prism-HowToWinFriendsAndInfluencePeople-Epub-24" href="Prism-HowToWinFriendsAndInfluencePeople-Epub-24.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Prism-HowToWinFriendsAndInfluencePeople-Epub-25" href="Prism-HowToWinFriendsAndInfluencePeople-Epub-25.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Prism-HowToWinFriendsAndInfluencePeople-Epub-26" href="Prism-HowToWinFriendsAndInfluencePeople-Epub-26.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Prism-HowToWinFriendsAndInfluencePeople-Epub-27" href="Prism-HowToWinFriendsAndInfluencePeople-Epub-27.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Prism-HowToWinFriendsAndInfluencePeople-Epub-28" href="Prism-HowToWinFriendsAndInfluencePeople-Epub-28.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Prism-HowToWinFriendsAndInfluencePeople-Epub-29" href="Prism-HowToWinFriendsAndInfluencePeople-Epub-29.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Prism-HowToWinFriendsAndInfluencePeople-Epub-30" href="Prism-HowToWinFriendsAndInfluencePeople-Epub-30.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Prism-HowToWinFriendsAndInfluencePeople-Epub-31" href="Prism-HowToWinFriendsAndInfluencePeople-Epub-31.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Prism-HowToWinFriendsAndInfluencePeople-Epub-32" href="Prism-HowToWinFriendsAndInfluencePeople-Epub-32.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Prism-HowToWinFriendsAndInfluencePeople-Epub-33" href="Prism-HowToWinFriendsAndInfluencePeople-Epub-33.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Prism-HowToWinFriendsAndInfluencePeople-Epub-34" href="Prism-HowToWinFriendsAndInfluencePeople-Epub-34.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Prism-HowToWinFriendsAndInfluencePeople-Epub-35" href="Prism-HowToWinFriendsAndInfluencePeople-Epub-35.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Prism-HowToWinFriendsAndInfluencePeople-Epub-36" href="Prism-HowToWinFriendsAndInfluencePeople-Epub-36.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Prism-HowToWinFriendsAndInfluencePeople-Epub-37" href="Prism-HowToWinFriendsAndInfluencePeople-Epub-37.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="Prism_HowT_idstyles.css" href="css/Prism_HowT_idstyles.css" media-type="text/css"/>
+    <item id="Prism_DaleCarnegie_How-_fmt.png" href="image/Prism_DaleCarnegie_Howtowinfriends-Cover_Back.jpg" media-type="image/jpeg"/>
+    <item id="Prism_DaleCarnegie_How-to-develop-Self-confidence-Cover_Front.jpg" href="image/Prism_DaleCarnegie_Howtowinfriends-Cover_Front.jpg" media-type="image/jpeg"/>
+    <item id="AGaramondPro-Bold.otf" href="font/AGaramondPro-Bold.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="AGaramondPro-BoldItalic.otf" href="font/AGaramondPro-BoldItalic.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="AGaramondPro-Italic.otf" href="font/AGaramondPro-Italic.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="AGaramondPro-Regular.otf" href="font/AGaramondPro-Regular.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="IndianRupee-Regular.ttf" href="font/IndianRupee-Regular.ttf" media-type="application/x-font-ttf"/>
+    <item id="MinionPro-Bold.otf" href="font/MinionPro-Bold.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="MinionPro-Regular.otf" href="font/MinionPro-Regular.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="PalatinoLinotype-Bold.TTF" href="font/PalatinoLinotype-Bold.TTF" media-type="application/vnd.ms-opentype"/>
+    <item id="PalatinoLinotype-Roman.TTF" href="font/PalatinoLinotype-Roman.TTF" media-type="application/vnd.ms-opentype"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="CoverImage"/>
+    <itemref idref="Prism-HowToWinFriendsAndInfluencePeople-Epub"/>
+    <itemref idref="Prism-HowToWinFriendsAndInfluencePeople-Epub-1"/>
+    <itemref idref="Prism-HowToWinFriendsAndInfluencePeople-Epub-2"/>
+    <itemref idref="Prism-HowToWinFriendsAndInfluencePeople-Epub-3"/>
+    <itemref idref="Prism-HowToWinFriendsAndInfluencePeople-Epub-4"/>
+    <itemref idref="Prism-HowToWinFriendsAndInfluencePeople-Epub-5"/>
+    <itemref idref="Prism-HowToWinFriendsAndInfluencePeople-Epub-6"/>
+    <itemref idref="Prism-HowToWinFriendsAndInfluencePeople-Epub-7"/>
+    <itemref idref="Prism-HowToWinFriendsAndInfluencePeople-Epub-8"/>
+    <itemref idref="Prism-HowToWinFriendsAndInfluencePeople-Epub-9"/>
+    <itemref idref="Prism-HowToWinFriendsAndInfluencePeople-Epub-10"/>
+    <itemref idref="Prism-HowToWinFriendsAndInfluencePeople-Epub-11"/>
+    <itemref idref="Prism-HowToWinFriendsAndInfluencePeople-Epub-12"/>
+    <itemref idref="Prism-HowToWinFriendsAndInfluencePeople-Epub-13"/>
+    <itemref idref="Prism-HowToWinFriendsAndInfluencePeople-Epub-14"/>
+    <itemref idref="Prism-HowToWinFriendsAndInfluencePeople-Epub-15"/>
+    <itemref idref="Prism-HowToWinFriendsAndInfluencePeople-Epub-16"/>
+    <itemref idref="Prism-HowToWinFriendsAndInfluencePeople-Epub-17"/>
+    <itemref idref="Prism-HowToWinFriendsAndInfluencePeople-Epub-18"/>
+    <itemref idref="Prism-HowToWinFriendsAndInfluencePeople-Epub-19"/>
+    <itemref idref="Prism-HowToWinFriendsAndInfluencePeople-Epub-20"/>
+    <itemref idref="Prism-HowToWinFriendsAndInfluencePeople-Epub-21"/>
+    <itemref idref="Prism-HowToWinFriendsAndInfluencePeople-Epub-22"/>
+    <itemref idref="Prism-HowToWinFriendsAndInfluencePeople-Epub-23"/>
+    <itemref idref="Prism-HowToWinFriendsAndInfluencePeople-Epub-24"/>
+    <itemref idref="Prism-HowToWinFriendsAndInfluencePeople-Epub-25"/>
+    <itemref idref="Prism-HowToWinFriendsAndInfluencePeople-Epub-26"/>
+    <itemref idref="Prism-HowToWinFriendsAndInfluencePeople-Epub-27"/>
+    <itemref idref="Prism-HowToWinFriendsAndInfluencePeople-Epub-28"/>
+    <itemref idref="Prism-HowToWinFriendsAndInfluencePeople-Epub-29"/>
+    <itemref idref="Prism-HowToWinFriendsAndInfluencePeople-Epub-30"/>
+    <itemref idref="Prism-HowToWinFriendsAndInfluencePeople-Epub-31"/>
+    <itemref idref="Prism-HowToWinFriendsAndInfluencePeople-Epub-32"/>
+    <itemref idref="Prism-HowToWinFriendsAndInfluencePeople-Epub-33"/>
+    <itemref idref="Prism-HowToWinFriendsAndInfluencePeople-Epub-34"/>
+    <itemref idref="Prism-HowToWinFriendsAndInfluencePeople-Epub-35"/>
+    <itemref idref="Prism-HowToWinFriendsAndInfluencePeople-Epub-36"/>
+    <itemref idref="Prism-HowToWinFriendsAndInfluencePeople-Epub-37"/>
+  </spine>
+</package>
