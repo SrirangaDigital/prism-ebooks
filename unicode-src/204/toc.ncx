@@ -19,13 +19,13 @@
 <navLabel><text>Title Page</text></navLabel><content src="000a-title.xhtml#id-000a"/>
 </navPoint>
 <navPoint id="navPoint-2" playOrder="2">
-<navLabel><text>Copyright</text></navLabel><content src="000b-copyright.xhtml#id-000b.1"/>
+<navLabel><text>Copyright Page</text></navLabel><content src="000b-copyright.xhtml#id-000b"/>
 </navPoint>
 <navPoint id="navPoint-3" playOrder="3">
-<navLabel><text>Introduction and Acknowledgement</text></navLabel><content src="000c-introduction.xhtml#id-000c.1"/>
+<navLabel><text>"Akashbhara surjotara Viswabhara pran...."</text></navLabel><content src="000c-preface.xhtml#id-000d.1"/>
 </navPoint>
 <navPoint id="navPoint-4" playOrder="4">
-<navLabel><text>"Akashbhara surjotara Viswabhara pran...."</text></navLabel><content src="000d-preface.xhtml#id-000d.1"/>
+<navLabel><text>Introduction and Acknowledgement</text></navLabel><content src="000d-introduction.xhtml#id-000c.1"/>
 </navPoint>
 <navPoint id="navPoint-5" playOrder="5">
 <navLabel><text>OUR EARTH AND OUR QUEST FOR ENERGY</text></navLabel><content src="001-chapter001.xhtml#id-001"/>
