@@ -43,7 +43,7 @@
 
 		foreach ($content as $line) {
 
-			if(preg_match('/<BODY>/', $line)) $insideBody = true;
+			if(preg_match('/<BODY>/i', $line)) $insideBody = true;
 
 			elseif($insideBody){
 

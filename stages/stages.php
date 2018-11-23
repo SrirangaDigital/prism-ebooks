@@ -183,7 +183,11 @@ class Stages{
 
 		$text = preg_replace("/<LI>\n/i", "<LI>", $text);
 		$text = preg_replace("/\n<\/LI>/i", "</LI>", $text);
-
+		
+		// remove new lines for inline elements -- Manu
+		$text = preg_replace("/\n+<(a|abbr|acronym|b|bdo|big|br|button|cite|code|dfn|em|i|img|input|kbd|label|map|object|q|samp|script|select|small|span|strong|sub|sup|textarea|time|tt|var|u)>/i", "<$1>", $text);
+		$text = preg_replace("/\n+<\/(a|abbr|acronym|b|bdo|big|br|button|cite|code|dfn|em|i|img|input|kbd|label|map|object|q|samp|script|select|small|span|strong|sub|sup|textarea|time|tt|var|u)>/i", "</$1>", $text);
+		
 		$text = preg_replace("/(<H\d>)\n/i", "$1", $text);
 		$text = preg_replace("/\n(<\/H\d>)/i", "$1", $text);
 
