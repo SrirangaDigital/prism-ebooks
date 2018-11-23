@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns:ncx="http://www.daisy.org/z3986/2005/ncx/" xmlns="http://www.daisy.org/z3986/2005/ncx/"
+    version="2005-1" xml:lang="en">
+
+   <head>
+      <meta name="dtb:uid" content="urn:isbn:9789386506955"/>
+      <meta name="dtb:depth" content="1"/>
+      <meta name="dtb:totalPageCount" content="0"/>
+      <meta name="dtb:maxPageNumber" content="0"/>
+   </head>
+
+   <docTitle>
+      <text>Mein Kampf – Adolf Hitler</text>
+   </docTitle>
+
+   <navMap>
+		
+<navPoint id="navPoint-1" playOrder="1">
+<navLabel><text>Title Page</text></navLabel><content src="000a-title.xhtml#id-000a"/>
+</navPoint>
+<navPoint id="navPoint-2" playOrder="2">
+<navLabel><text>Copyright</text></navLabel><content src="000b-copyright.xhtml#id-000b.1"/>
+</navPoint>
+<navPoint id="navPoint-3" playOrder="3">
+<navLabel><text>AUTHOR’S PREFACE</text></navLabel><content src="000c-preface.xhtml#id-000c.1"/>
+</navPoint>
+<navPoint id="navPoint-4" playOrder="4">
+<navLabel><text>INTRODUCTION</text></navLabel><content src="000d-introduction.xhtml#id-000d.1"/>
+</navPoint>
+<navPoint id="navPoint-5" playOrder="5">
+<navLabel><text>VOLUME - I – A RETROSPECT</text></navLabel><content src="100-part001.xhtml#id-p1"/>
+</navPoint>
+<navPoint id="navPoint-6" playOrder="6">
+<navLabel><text>CHAPTER I – IN THE HOME OF MY PARENTS</text></navLabel><content src="101-chapter001.xhtml#id-101"/>
+</navPoint>
+<navPoint id="navPoint-7" playOrder="7">
+<navLabel><text>CHAPTER II – YEARS OF STUDY AND SUFFERING IN VIENNA</text></navLabel><content src="102-chapter002.xhtml#id-102"/>
+</navPoint>
+<navPoint id="navPoint-8" playOrder="8">
+<navLabel><text>CHAPTER III – POLITICAL REFLECTIONS ARISING OUT OF MY SOJOURN IN VIENNA</text></navLabel><content src="103-chapter003.xhtml#id-103"/>
+</navPoint>
+<navPoint id="navPoint-9" playOrder="9">
+<navLabel><text>CHAPTER IV – MUNICH</text></navLabel><content src="104-chapter004.xhtml#id-104"/>
+</navPoint>
+<navPoint id="navPoint-10" playOrder="10">
+<navLabel><text>CHAPTER V – THE WORLD WAR</text></navLabel><content src="105-chapter005.xhtml#id-105"/>
+</navPoint>
+<navPoint id="navPoint-11" playOrder="11">
+<navLabel><text>CHAPTER VI – WAR PROPAGANDA</text></navLabel><content src="106-chapter006.xhtml#id-106"/>
+</navPoint>
+<navPoint id="navPoint-12" playOrder="12">
+<navLabel><text>CHAPTER VII – THE REVOLUTION</text></navLabel><content src="107-chapter007.xhtml#id-107"/>
+</navPoint>
+<navPoint id="navPoint-13" playOrder="13">
+<navLabel><text>CHAPTER VIII – THE BEGINNING OF MY POLITICAL, ACTIVITIES</text></navLabel><content src="108-chapter008.xhtml#id-108"/>
+</navPoint>
+<navPoint id="navPoint-14" playOrder="14">
+<navLabel><text>CHAPTER IX – THE GERMAN LABOUR PARTY</text></navLabel><content src="109-chapter009.xhtml#id-109"/>
+</navPoint>
+<navPoint id="navPoint-15" playOrder="15">
+<navLabel><text>CHAPTER X – WHY THE SECOND REICH COLLAPSED</text></navLabel><content src="110-chapter010.xhtml#id-110"/>
+</navPoint>
+<navPoint id="navPoint-16" playOrder="16">
+<navLabel><text>CHAPTER XI – RACE AND PEOPLE</text></navLabel><content src="111-chapter011.xhtml#id-111"/>
+</navPoint>
+<navPoint id="navPoint-17" playOrder="17">
+<navLabel><text>CHAPTER XII – THE FIRST STAGE IN THE DEVELOPMENT OF THE GERMAN NATIONAL SOCIALIST LABOUR PARTY</text></navLabel><content src="112-chapter012.xhtml#id-112"/>
+</navPoint>
+<navPoint id="navPoint-18" playOrder="18">
+<navLabel><text>VOLUME - II – THE NATIONAL SOCIALIST MOVEMENT</text></navLabel><content src="200-part002.xhtml#id-p2"/>
+</navPoint>
+<navPoint id="navPoint-19" playOrder="19">
+<navLabel><text>CHAPTER I – WELTANSCHAUUNG AND PARTY</text></navLabel><content src="201-chapter001.xhtml#id-201"/>
+</navPoint>
+<navPoint id="navPoint-20" playOrder="20">
+<navLabel><text>CHAPTER II – THE STATE</text></navLabel><content src="202-chapter002.xhtml#id-202"/>
+</navPoint>
+<navPoint id="navPoint-21" playOrder="21">
+<navLabel><text>CHAPTER III – CITIZENS AND SUBJECTS OF THE STATE</text></navLabel><content src="203-chapter003.xhtml#id-203"/>
+</navPoint>
+<navPoint id="navPoint-22" playOrder="22">
+<navLabel><text>CHAPTER IV – PERSONALITY AND THE IDEAL OF THE PEOPLE’S STATE</text></navLabel><content src="204-chapter004.xhtml#id-204"/>
+</navPoint>
+<navPoint id="navPoint-23" playOrder="23">
+<navLabel><text>CHAPTER V – WELTANSCHAUUNG AND ORGANIZATION</text></navLabel><content src="205-chapter005.xhtml#id-205"/>
+</navPoint>
+<navPoint id="navPoint-24" playOrder="24">
+<navLabel><text>CHAPTER VI – THE FIRST PERIOD OF OUR STRUGGLE</text></navLabel><content src="206-chapter006.xhtml#id-206"/>
+</navPoint>
+<navPoint id="navPoint-25" playOrder="25">
+<navLabel><text>CHAPTER VII – THE CONFLICT WITH THE RED FORCES</text></navLabel><content src="207-chapter007.xhtml#id-207"/>
+</navPoint>
+<navPoint id="navPoint-26" playOrder="26">
+<navLabel><text>CHAPTER VIII – THE STRONG IS STRONGEST WHEN ALONE</text></navLabel><content src="208-chapter008.xhtml#id-208"/>
+</navPoint>
+<navPoint id="navPoint-27" playOrder="27">
+<navLabel><text>CHAPTER IX – FUNDAMENTAL IDEAS REGARDING THE NATURE AND ORGANIZATION OF THE STORM TROOPS</text></navLabel><content src="209-chapter009.xhtml#id-209"/>
+</navPoint>
+<navPoint id="navPoint-28" playOrder="28">
+<navLabel><text>CHAPTER X – THE MASK OF FEDERALISM</text></navLabel><content src="210-chapter010.xhtml#id-210"/>
+</navPoint>
+<navPoint id="navPoint-29" playOrder="29">
+<navLabel><text>CHAPTER XI – PROPAGANDA AND ORGANIZATION</text></navLabel><content src="211-chapter011.xhtml#id-211"/>
+</navPoint>
+<navPoint id="navPoint-30" playOrder="30">
+<navLabel><text>CHAPTER XII – THE PROBLEM OF THE TRADE UNIONS</text></navLabel><content src="212-chapter012.xhtml#id-212"/>
+</navPoint>
+<navPoint id="navPoint-31" playOrder="31">
+<navLabel><text>CHAPTER XIII – THE GERMAN POST-WAR POLICY OF ALLIANCES</text></navLabel><content src="213-chapter013.xhtml#id-213"/>
+</navPoint>
+<navPoint id="navPoint-32" playOrder="32">
+<navLabel><text>CHAPTER XIV – GERMANY’S POLICY IN EASTERN EUROPE</text></navLabel><content src="214-chapter014.xhtml#id-214"/>
+</navPoint>
+<navPoint id="navPoint-33" playOrder="33">
+<navLabel><text>CHAPTER XV – THE RIGHT TO SELF-DEFENCE</text></navLabel><content src="215-chapter015.xhtml#id-215"/>
+</navPoint>
+<navPoint id="navPoint-34" playOrder="34">
+<navLabel><text>EPILOGUE</text></navLabel><content src="216-chapter016.xhtml#id-216"/>
+</navPoint>
+   </navMap>
+</ncx>

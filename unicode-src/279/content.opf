@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" xml:lang="en" unique-identifier="isbn">
+	<metadata  xmlns:dc="http://purl.org/dc/elements/1.1/">
+		<dc:title>Mein Kampf – Adolf Hitler</dc:title>
+		<dc:language>English</dc:language>
+		<dc:identifier id="isbn">urn:isbn:9789386506955</dc:identifier>
+		
+		<dc:creator id="author1">ADOLF HITLER</dc:creator>
+		<meta refines="#author1" property="role" scheme="marc:relators">aut</meta>    
+				
+		<dc:creator id="bookDesigner1">Sriranga Digital Software Technologies Private Limited</dc:creator>
+		<meta refines="#bookDesigner1" property="role" scheme="marc:relators">bkd</meta>    
+				
+		<dc:publisher>Prism Books Pvt. Ltd.</dc:publisher>
+		<meta property="schema:accessMode">textual</meta>
+		<meta property="schema:accessMode">visual</meta>
+		<meta property="schema:accessModeSufficient">textual,visual</meta>		
+		<meta property="schema:accessibilityHazard">none</meta>
+		<meta property="schema:accessibilityFeature">tableOfContents</meta>
+		<meta property="schema:accessibilitySummary">The publication is missing alternative text for complex diagrams.</meta>
+		<meta property="schema:accessibilityAPI">ARIA</meta>
+		<meta property="dcterms:modified">2018-11-23T17:06:07Z</meta>
+	</metadata>
+	<manifest>
+		<item id="id-000a-title_xhtml" href="000a-title.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-000b-copyright_xhtml" href="000b-copyright.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-000c-preface_xhtml" href="000c-preface.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-000d-introduction_xhtml" href="000d-introduction.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-100-part001_xhtml" href="100-part001.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-101-chapter001_xhtml" href="101-chapter001.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-102-chapter002_xhtml" href="102-chapter002.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-103-chapter003_xhtml" href="103-chapter003.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-104-chapter004_xhtml" href="104-chapter004.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-105-chapter005_xhtml" href="105-chapter005.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-106-chapter006_xhtml" href="106-chapter006.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-107-chapter007_xhtml" href="107-chapter007.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-108-chapter008_xhtml" href="108-chapter008.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-109-chapter009_xhtml" href="109-chapter009.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-110-chapter010_xhtml" href="110-chapter010.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-111-chapter011_xhtml" href="111-chapter011.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-112-chapter012_xhtml" href="112-chapter012.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-200-part002_xhtml" href="200-part002.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-201-chapter001_xhtml" href="201-chapter001.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-202-chapter002_xhtml" href="202-chapter002.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-203-chapter003_xhtml" href="203-chapter003.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-204-chapter004_xhtml" href="204-chapter004.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-205-chapter005_xhtml" href="205-chapter005.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-206-chapter006_xhtml" href="206-chapter006.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-207-chapter007_xhtml" href="207-chapter007.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-208-chapter008_xhtml" href="208-chapter008.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-209-chapter009_xhtml" href="209-chapter009.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-210-chapter010_xhtml" href="210-chapter010.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-211-chapter011_xhtml" href="211-chapter011.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-212-chapter012_xhtml" href="212-chapter012.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-213-chapter013_xhtml" href="213-chapter013.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-214-chapter014_xhtml" href="214-chapter014.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-215-chapter015_xhtml" href="215-chapter015.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-216-chapter016_xhtml" href="216-chapter016.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-999-aside_xhtml" href="999-aside.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-css_AdobeDevanagari-Bold_otf" href="css/AdobeDevanagari-Bold.otf" media-type="application/vnd.ms-opentype" />
+		<item id="id-css_AdobeDevanagari-BoldItalic_otf" href="css/AdobeDevanagari-BoldItalic.otf" media-type="application/vnd.ms-opentype" />
+		<item id="id-css_AdobeDevanagari-Italic_otf" href="css/AdobeDevanagari-Italic.otf" media-type="application/vnd.ms-opentype" />
+		<item id="id-css_AdobeDevanagari-Regular_otf" href="css/AdobeDevanagari-Regular.otf" media-type="application/vnd.ms-opentype" />
+		<item id="id-css_style_css" href="css/style.css" media-type="text/css" />
+		<item id="id-images_000b_jpg" href="images/000b.jpg" media-type="image/jpeg" />
+		<item id="id-images_017_jpg" href="images/017.jpg" media-type="image/jpeg" />
+		<item id="id-images_029a_jpg" href="images/029a.jpg" media-type="image/jpeg" />
+		<item id="id-images_029b_jpg" href="images/029b.jpg" media-type="image/jpeg" />
+		<item id="id-images_032a_jpg" href="images/032a.jpg" media-type="image/jpeg" />
+		<item id="id-images_032b_jpg" href="images/032b.jpg" media-type="image/jpeg" />
+		<item id="id-images_126_jpg" href="images/126.jpg" media-type="image/jpeg" />
+		<item id="id-images_129a_jpg" href="images/129a.jpg" media-type="image/jpeg" />
+		<item id="id-images_129b_jpg" href="images/129b.jpg" media-type="image/jpeg" />
+		<item id="id-images_153a_jpg" href="images/153a.jpg" media-type="image/jpeg" />
+		<item id="id-images_153b_jpg" href="images/153b.jpg" media-type="image/jpeg" />
+		<item id="id-images_181_jpg" href="images/181.jpg" media-type="image/jpeg" />
+		<item id="id-images_231a_jpg" href="images/231a.jpg" media-type="image/jpeg" />
+		<item id="id-images_231b_jpg" href="images/231b.jpg" media-type="image/jpeg" />
+		<item id="id-images_257_jpg" href="images/257.jpg" media-type="image/jpeg" />
+		<item id="id-images_344_jpg" href="images/344.jpg" media-type="image/jpeg" />
+		<item id="id-images_478a_jpg" href="images/478a.jpg" media-type="image/jpeg" />
+		<item id="id-images_478b_jpg" href="images/478b.jpg" media-type="image/jpeg" />
+		<item id="id-images_481_jpg" href="images/481.jpg" media-type="image/jpeg" />
+		<item id="id-images_529a_jpg" href="images/529a.jpg" media-type="image/jpeg" />
+		<item id="id-images_529b_jpg" href="images/529b.jpg" media-type="image/jpeg" />
+		<item id="id-images_611_jpg" href="images/611.jpg" media-type="image/jpeg" />
+		<item id="id-images_619a_jpg" href="images/619a.jpg" media-type="image/jpeg" />
+		<item id="id-images_619b_jpg" href="images/619b.jpg" media-type="image/jpeg" />
+		<item id="id-images_627_jpg" href="images/627.jpg" media-type="image/jpeg" />
+		<item properties="cover-image" id="id-images_cover_jpg" href="images/cover.jpg" media-type="image/jpeg" />
+		<item id="id-toc_ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
+		<item properties="nav" id="id-toc_xhtml" href="toc.xhtml" media-type="application/xhtml+xml" />
+
+	</manifest>
+	<spine toc="id-toc_ncx">
+		<itemref idref="id-000a-title_xhtml" linear="yes" />
+		<itemref idref="id-000b-copyright_xhtml" linear="yes" />
+		<itemref idref="id-000c-preface_xhtml" linear="yes" />
+		<itemref idref="id-000d-introduction_xhtml" linear="yes" />
+		<itemref idref="id-100-part001_xhtml" linear="yes" />
+		<itemref idref="id-101-chapter001_xhtml" linear="yes" />
+		<itemref idref="id-102-chapter002_xhtml" linear="yes" />
+		<itemref idref="id-103-chapter003_xhtml" linear="yes" />
+		<itemref idref="id-104-chapter004_xhtml" linear="yes" />
+		<itemref idref="id-105-chapter005_xhtml" linear="yes" />
+		<itemref idref="id-106-chapter006_xhtml" linear="yes" />
+		<itemref idref="id-107-chapter007_xhtml" linear="yes" />
+		<itemref idref="id-108-chapter008_xhtml" linear="yes" />
+		<itemref idref="id-109-chapter009_xhtml" linear="yes" />
+		<itemref idref="id-110-chapter010_xhtml" linear="yes" />
+		<itemref idref="id-111-chapter011_xhtml" linear="yes" />
+		<itemref idref="id-112-chapter012_xhtml" linear="yes" />
+		<itemref idref="id-200-part002_xhtml" linear="yes" />
+		<itemref idref="id-201-chapter001_xhtml" linear="yes" />
+		<itemref idref="id-202-chapter002_xhtml" linear="yes" />
+		<itemref idref="id-203-chapter003_xhtml" linear="yes" />
+		<itemref idref="id-204-chapter004_xhtml" linear="yes" />
+		<itemref idref="id-205-chapter005_xhtml" linear="yes" />
+		<itemref idref="id-206-chapter006_xhtml" linear="yes" />
+		<itemref idref="id-207-chapter007_xhtml" linear="yes" />
+		<itemref idref="id-208-chapter008_xhtml" linear="yes" />
+		<itemref idref="id-209-chapter009_xhtml" linear="yes" />
+		<itemref idref="id-210-chapter010_xhtml" linear="yes" />
+		<itemref idref="id-211-chapter011_xhtml" linear="yes" />
+		<itemref idref="id-212-chapter012_xhtml" linear="yes" />
+		<itemref idref="id-213-chapter013_xhtml" linear="yes" />
+		<itemref idref="id-214-chapter014_xhtml" linear="yes" />
+		<itemref idref="id-215-chapter015_xhtml" linear="yes" />
+		<itemref idref="id-216-chapter016_xhtml" linear="yes" />
+		<itemref idref="id-999-aside_xhtml" linear="yes" />
+
+	</spine>
+</package>
