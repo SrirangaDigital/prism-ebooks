@@ -19,16 +19,16 @@
 <navLabel><text>Title Page</text></navLabel><content src="000a-title.xhtml#id-000a"/>
 </navPoint>
 <navPoint id="navPoint-2" playOrder="2">
-<navLabel><text>Copyright</text></navLabel><content src="000b-copyright.xhtml#id-000b.1"/>
+<navLabel><text>Copyright Page</text></navLabel><content src="000b-copyright.xhtml#id-000b"/>
 </navPoint>
 <navPoint id="navPoint-3" playOrder="3">
-<navLabel><text>Note from the Author</text></navLabel><content src="000c-preface.xhtml#id-000c.1"/>
+<navLabel><text>Note from the Author</text></navLabel><content src="000c-preface.xhtml#id-000c.2"/>
 </navPoint>
 <navPoint id="navPoint-4" playOrder="4">
-<navLabel><text>Foreword</text></navLabel><content src="000c-preface.xhtml#id-000c.2"/>
+<navLabel><text>Foreword</text></navLabel><content src="000c-preface.xhtml#id-000c.3"/>
 </navPoint>
 <navPoint id="navPoint-5" playOrder="5">
-<navLabel><text>CHARACTERS</text></navLabel><content src="000c-preface.xhtml#id-000c.3"/>
+<navLabel><text>CHARACTERS</text></navLabel><content src="000c-preface.xhtml#id-000c.4"/>
 </navPoint>
 <navPoint id="navPoint-6" playOrder="6">
 <navLabel><text>Chapter 1</text></navLabel><content src="001-chapter001.xhtml#id-001"/>
@@ -70,7 +70,7 @@
 <navLabel><text>Chapter 13</text></navLabel><content src="013-chapter013.xhtml#id-013"/>
 </navPoint>
 <navPoint id="navPoint-19" playOrder="19">
-<navLabel><text>Chapter 14</text></navLabel><content src="014-chapter014.xhtml#id-014"/>
+<navLabel><text>Chapter 14 </text></navLabel><content src="014-chapter014.xhtml#id-014"/>
 </navPoint>
 <navPoint id="navPoint-20" playOrder="20">
 <navLabel><text>Chapter 15</text></navLabel><content src="015-chapter015.xhtml#id-015"/>
