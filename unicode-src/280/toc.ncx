@@ -22,106 +22,106 @@
 <navLabel><text>Copyright Page</text></navLabel><content src="000b-copyright.xhtml#id-000b"/>
 </navPoint>
 <navPoint id="navPoint-3" playOrder="3">
-<navLabel><text>Part One</text></navLabel><content src="100-part1.xhtml#id-"/>
+<navLabel><text>Part One</text></navLabel><content src="100-part1.xhtml#id-p1"/>
 </navPoint>
 <navPoint id="navPoint-4" playOrder="4">
-<navLabel><text>1 You Can’t Win an Argument </text></navLabel><content src="101-chapter001.xhtml#id-"/>
+<navLabel><text>1 You Can’t Win an Argument </text></navLabel><content src="101-chapter001.xhtml#id-p1.001"/>
 </navPoint>
 <navPoint id="navPoint-5" playOrder="5">
-<navLabel><text>2 A Sure Way of Making Enemies and How to Avoid It </text></navLabel><content src="102-chapter002.xhtml#id-"/>
+<navLabel><text>2 A Sure Way of Making Enemies and How to Avoid It </text></navLabel><content src="102-chapter002.xhtml#id-p1.002"/>
 </navPoint>
 <navPoint id="navPoint-6" playOrder="6">
-<navLabel><text>3 If You’re Wrong, Admit It</text></navLabel><content src="103-chapter003.xhtml#id-"/>
+<navLabel><text>3 If You’re Wrong, Admit It</text></navLabel><content src="103-chapter003.xhtml#id-p1.003"/>
 </navPoint>
 <navPoint id="navPoint-7" playOrder="7">
-<navLabel><text>4 A Drop of Honey </text></navLabel><content src="104-chapter004.xhtml#id-"/>
+<navLabel><text>4 A Drop of Honey </text></navLabel><content src="104-chapter004.xhtml#id-p1.004"/>
 </navPoint>
 <navPoint id="navPoint-8" playOrder="8">
-<navLabel><text>5 The Secret of Socrates </text></navLabel><content src="105-chapter005.xhtml#id-"/>
+<navLabel><text>5 The Secret of Socrates </text></navLabel><content src="105-chapter005.xhtml#id-p1.005"/>
 </navPoint>
 <navPoint id="navPoint-9" playOrder="9">
-<navLabel><text>6 The Safety Valve in Handling Complaints </text></navLabel><content src="106-chapter006.xhtml#id-"/>
+<navLabel><text>6 The Safety Valve in Handling Complaints </text></navLabel><content src="106-chapter006.xhtml#id-p1.006"/>
 </navPoint>
 <navPoint id="navPoint-10" playOrder="10">
-<navLabel><text>7 How to Get Cooperation </text></navLabel><content src="107-chapter007.xhtml#id-"/>
+<navLabel><text>7 How to Get Cooperation </text></navLabel><content src="107-chapter007.xhtml#id-p1.007"/>
 </navPoint>
 <navPoint id="navPoint-11" playOrder="11">
-<navLabel><text>8 A Formula that Will Work Wonders for You </text></navLabel><content src="108-chapter008.xhtml#id-"/>
+<navLabel><text>8 A Formula that Will Work Wonders for You </text></navLabel><content src="108-chapter008.xhtml#id-p1.008"/>
 </navPoint>
 <navPoint id="navPoint-12" playOrder="12">
-<navLabel><text>9 What Everybody Wants </text></navLabel><content src="109-chapter009.xhtml#id-"/>
+<navLabel><text>9 What Everybody Wants </text></navLabel><content src="109-chapter009.xhtml#id-p1.009"/>
 </navPoint>
 <navPoint id="navPoint-13" playOrder="13">
-<navLabel><text>10 An Appeal that Everybody Likes </text></navLabel><content src="110-chapter010.xhtml#id-"/>
+<navLabel><text>10 An Appeal that Everybody Likes </text></navLabel><content src="110-chapter010.xhtml#id-p1.010"/>
 </navPoint>
 <navPoint id="navPoint-14" playOrder="14">
-<navLabel><text>11 The Movies Do It, Tv Does It, Why Don’t You Do It? </text></navLabel><content src="111-chapter011.xhtml#id-"/>
+<navLabel><text>11 The Movies Do It, Tv Does It, Why Don’t You Do It? </text></navLabel><content src="111-chapter011.xhtml#id-p1.111"/>
 </navPoint>
 <navPoint id="navPoint-15" playOrder="15">
-<navLabel><text>12 When Nothing Else Works, Try This </text></navLabel><content src="112-chapter012.xhtml#id-"/>
+<navLabel><text>12 When Nothing Else Works, Try This </text></navLabel><content src="112-chapter012.xhtml#id-p1.112"/>
 </navPoint>
 <navPoint id="navPoint-16" playOrder="16">
-<navLabel><text>Part Two</text></navLabel><content src="200-part2.xhtml#id-"/>
+<navLabel><text>Part Two</text></navLabel><content src="200-part2.xhtml#id-p2"/>
 </navPoint>
 <navPoint id="navPoint-17" playOrder="17">
-<navLabel><text>13 Do This and You’ll be Welcome Anywhere </text></navLabel><content src="201-chapter013.xhtml#id-"/>
+<navLabel><text>13 Do This and You’ll be Welcome Anywhere </text></navLabel><content src="201-chapter013.xhtml#id-p2.013"/>
 </navPoint>
 <navPoint id="navPoint-18" playOrder="18">
-<navLabel><text>14 A Simple Way to Make a Good First Impression </text></navLabel><content src="202-chapter014.xhtml#id-"/>
+<navLabel><text>14 A Simple Way to Make a Good First Impression </text></navLabel><content src="202-chapter014.xhtml#id-p2.014"/>
 </navPoint>
 <navPoint id="navPoint-19" playOrder="19">
-<navLabel><text>15 If You Don’t Do this, You are Headed for Trouble </text></navLabel><content src="203-chapter015.xhtml#id-"/>
+<navLabel><text>15 If You Don’t Do this, You are Headed for Trouble </text></navLabel><content src="203-chapter015.xhtml#id-p2.015"/>
 </navPoint>
 <navPoint id="navPoint-20" playOrder="20">
-<navLabel><text>16 An Easy Way to Become a Good Conversationalist </text></navLabel><content src="204-chapter016.xhtml#id-"/>
+<navLabel><text>16 An Easy Way to Become a Good Conversationalist </text></navLabel><content src="204-chapter016.xhtml#id-p2.016"/>
 </navPoint>
 <navPoint id="navPoint-21" playOrder="21">
-<navLabel><text>17 How to Interest People </text></navLabel><content src="205-chapter017.xhtml#id-"/>
+<navLabel><text>17 How to Interest People </text></navLabel><content src="205-chapter017.xhtml#id-p2.017"/>
 </navPoint>
 <navPoint id="navPoint-22" playOrder="22">
-<navLabel><text>18 How to Make People Like You Instantly </text></navLabel><content src="206-chapter018.xhtml#id-"/>
+<navLabel><text>18 How to Make People Like You Instantly </text></navLabel><content src="206-chapter018.xhtml#id-p2.018"/>
 </navPoint>
 <navPoint id="navPoint-23" playOrder="23">
-<navLabel><text>Part Three</text></navLabel><content src="300-part3.xhtml#id-"/>
+<navLabel><text>Part Three</text></navLabel><content src="300-part3.xhtml#id-p3"/>
 </navPoint>
 <navPoint id="navPoint-24" playOrder="24">
-<navLabel><text>19 If You Must Find Fault, This is the Way to Begin </text></navLabel><content src="301-chapter019.xhtml#id-"/>
+<navLabel><text>19 If You Must Find Fault, This is the Way to Begin </text></navLabel><content src="301-chapter019.xhtml#id-p3.019"/>
 </navPoint>
 <navPoint id="navPoint-25" playOrder="25">
-<navLabel><text>20 How to Criticize–and Not be Hated for It </text></navLabel><content src="302-chapter020.xhtml#id-"/>
+<navLabel><text>20 How to Criticize–and Not be Hated for It </text></navLabel><content src="302-chapter020.xhtml#id-p3.020"/>
 </navPoint>
 <navPoint id="navPoint-26" playOrder="26">
-<navLabel><text>21 Talk about Your Own Mistakes First </text></navLabel><content src="303-chapter021.xhtml#id-"/>
+<navLabel><text>21 Talk about Your Own Mistakes First </text></navLabel><content src="303-chapter021.xhtml#id-p3.021"/>
 </navPoint>
 <navPoint id="navPoint-27" playOrder="27">
-<navLabel><text>22 No one Likes to Take Orders </text></navLabel><content src="304-chapter022.xhtml#id-"/>
+<navLabel><text>22 No one Likes to Take Orders </text></navLabel><content src="304-chapter022.xhtml#id-p3.022"/>
 </navPoint>
 <navPoint id="navPoint-28" playOrder="28">
-<navLabel><text>23 Let the Other Person Save Face </text></navLabel><content src="305-chapter023.xhtml#id-"/>
+<navLabel><text>23 Let the Other Person Save Face </text></navLabel><content src="305-chapter023.xhtml#id-p3.023"/>
 </navPoint>
 <navPoint id="navPoint-29" playOrder="29">
-<navLabel><text>24 How to Spur People on to Success </text></navLabel><content src="306-chapter024.xhtml#id-"/>
+<navLabel><text>24 How to Spur People on to Success </text></navLabel><content src="306-chapter024.xhtml#id-p3.024"/>
 </navPoint>
 <navPoint id="navPoint-30" playOrder="30">
-<navLabel><text>25 Give a Dog a Good Name </text></navLabel><content src="307-chapter025.xhtml#id-"/>
+<navLabel><text>25 Give a Dog a Good Name </text></navLabel><content src="307-chapter025.xhtml#id-p3.025"/>
 </navPoint>
 <navPoint id="navPoint-31" playOrder="31">
-<navLabel><text>26 Make the Fault Seem Easy to Correct </text></navLabel><content src="308-chapter026.xhtml#id-"/>
+<navLabel><text>26 Make the Fault Seem Easy to Correct </text></navLabel><content src="308-chapter026.xhtml#id-p3.026"/>
 </navPoint>
 <navPoint id="navPoint-32" playOrder="32">
-<navLabel><text>27 Making People Glad to Do What you Want </text></navLabel><content src="309-chapter027.xhtml#id-"/>
+<navLabel><text>27 Making People Glad to Do What you Want </text></navLabel><content src="309-chapter027.xhtml#id-p3.027"/>
 </navPoint>
 <navPoint id="navPoint-33" playOrder="33">
-<navLabel><text>Part Four</text></navLabel><content src="400-part4.xhtml#id-"/>
+<navLabel><text>Part Four</text></navLabel><content src="400-part4.xhtml#id-p4"/>
 </navPoint>
 <navPoint id="navPoint-34" playOrder="34">
-<navLabel><text>28 If You Want to Gather Honey, Don’t Kick Over the Beehive </text></navLabel><content src="401-chapter028.xhtml#id-"/>
+<navLabel><text>28 If You Want to Gather Honey, Don’t Kick Over the Beehive </text></navLabel><content src="401-chapter028.xhtml#id-p4.028"/>
 </navPoint>
 <navPoint id="navPoint-35" playOrder="35">
-<navLabel><text>29 The Big Secret of Dealing with People </text></navLabel><content src="402-chapter029.xhtml#id-"/>
+<navLabel><text>29 The Big Secret of Dealing with People </text></navLabel><content src="402-chapter029.xhtml#id-p4.029"/>
 </navPoint>
 <navPoint id="navPoint-36" playOrder="36">
-<navLabel><text>30 Understand the Other’s Point of View</text></navLabel><content src="403-chapter030.xhtml#id-"/>
+<navLabel><text>30 Understand the Other’s Point of View</text></navLabel><content src="403-chapter030.xhtml#id-p4.030"/>
 </navPoint>
    </navMap>
 </ncx>
