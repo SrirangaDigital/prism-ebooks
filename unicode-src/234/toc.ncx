@@ -3,14 +3,14 @@
     version="2005-1" xml:lang="en">
 
    <head>
-      <meta name="dtb:uid" content="urn:isbn:Whatever"/>
+      <meta name="dtb:uid" content="urn:isbn:9789386506948"/>
       <meta name="dtb:depth" content="1"/>
       <meta name="dtb:totalPageCount" content="0"/>
       <meta name="dtb:maxPageNumber" content="0"/>
    </head>
 
    <docTitle>
-      <text>Whatever</text>
+      <text>Gandhi : My Experiments with Truth</text>
    </docTitle>
 
    <navMap>
@@ -19,7 +19,7 @@
 <navLabel><text>Title Page</text></navLabel><content src="000a-title.xhtml#id-000a"/>
 </navPoint>
 <navPoint id="navPoint-2" playOrder="2">
-<navLabel><text>Copyright</text></navLabel><content src="000b-copyright.xhtml#id-000b"/>
+<navLabel><text>Copyright</text></navLabel><content src="000b-copyright.xhtml#id-000b.1"/>
 </navPoint>
 <navPoint id="navPoint-3" playOrder="3">
 <navLabel><text>Introduction</text></navLabel><content src="000c-introduction.xhtml#id-000c.1"/>
