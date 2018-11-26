@@ -20,7 +20,7 @@
 	function process($bookID, $file) {
 		
 		$contents = file_get_contents($file);
-		$contents = preg_replace('/(.*)\n/', '$1', $contents);
+		//~ $contents = preg_replace('/(.*)\n/', '$1', $contents);
 		//~ $contents = str_replace('', '', $contents);
 		file_put_contents($file,$contents);
 	

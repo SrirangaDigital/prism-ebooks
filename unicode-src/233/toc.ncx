@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns:ncx="http://www.daisy.org/z3986/2005/ncx/" xmlns="http://www.daisy.org/z3986/2005/ncx/"
+    version="2005-1" xml:lang="en">
+
+   <head>
+      <meta name="dtb:uid" content="urn:isbn:9789386506931"/>
+      <meta name="dtb:depth" content="1"/>
+      <meta name="dtb:totalPageCount" content="0"/>
+      <meta name="dtb:maxPageNumber" content="0"/>
+   </head>
+
+   <docTitle>
+      <text>The Ramayana</text>
+   </docTitle>
+
+   <navMap>
+		
+<navPoint id="navPoint-1" playOrder="1">
+<navLabel><text>Title Page</text></navLabel><content src="000a-title.xhtml#id-000a"/>
+</navPoint>
+<navPoint id="navPoint-2" playOrder="2">
+<navLabel><text>Copyright</text></navLabel><content src="000b-copyright.xhtml#id-000b.1"/>
+</navPoint>
+<navPoint id="navPoint-3" playOrder="3">
+<navLabel><text>Acknowledgement</text></navLabel><content src="000c-acknowledgement.xhtml#id-000c.1"/>
+</navPoint>
+<navPoint id="navPoint-4" playOrder="4">
+<navLabel><text>The Ramayana</text></navLabel><content src="000d-introduction.xhtml#id-000d.1"/>
+</navPoint>
+<navPoint id="navPoint-5" playOrder="5">
+<navLabel><text>Princes of Ayodhya</text></navLabel><content src="001-chapter001.xhtml#id-001"/>
+<navPoint id="navPoint-6" playOrder="6">
+<navLabel><text>Birth of the princes</text></navLabel><content src="001-chapter001.xhtml#id-1.1"/>
+</navPoint>
+<navPoint id="navPoint-7" playOrder="7">
+<navLabel><text>Vishwamitra</text></navLabel><content src="001-chapter001.xhtml#id-1.2"/>
+</navPoint>
+<navPoint id="navPoint-8" playOrder="8">
+<navLabel><text>Tataka</text></navLabel><content src="001-chapter001.xhtml#id-1.3"/>
+</navPoint>
+<navPoint id="navPoint-9" playOrder="9">
+<navLabel><text>Siddhashrama</text></navLabel><content src="001-chapter001.xhtml#id-1.4"/>
+</navPoint>
+<navPoint id="navPoint-10" playOrder="10">
+<navLabel><text>Ahalya</text></navLabel><content src="001-chapter001.xhtml#id-1.5"/>
+</navPoint>
+<navPoint id="navPoint-11" playOrder="11">
+<navLabel><text>Mithila</text></navLabel><content src="001-chapter001.xhtml#id-1.6"/>
+</navPoint>
+<navPoint id="navPoint-12" playOrder="12">
+<navLabel><text>Shiva’s bow</text></navLabel><content src="001-chapter001.xhtml#id-1.7"/>
+</navPoint>
+<navPoint id="navPoint-13" playOrder="13">
+<navLabel><text>The marriage</text></navLabel><content src="001-chapter001.xhtml#id-1.8"/>
+</navPoint>
+<navPoint id="navPoint-14" playOrder="14">
+<navLabel><text>Parashurama</text></navLabel><content src="001-chapter001.xhtml#id-1.9"/>
+</navPoint>
+<navPoint id="navPoint-15" playOrder="15">
+<navLabel><text>Rama returns to Ayodhya</text></navLabel><content src="001-chapter001.xhtml#id-1.10"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-16" playOrder="16">
+<navLabel><text>All for the crown</text></navLabel><content src="002-chapter002.xhtml#id-002"/>
+<navPoint id="navPoint-17" playOrder="17">
+<navLabel><text>Manthara</text></navLabel><content src="002-chapter002.xhtml#id-2.1"/>
+</navPoint>
+<navPoint id="navPoint-18" playOrder="18">
+<navLabel><text>Kaikeyi invokes the boons</text></navLabel><content src="002-chapter002.xhtml#id-2.2"/>
+</navPoint>
+<navPoint id="navPoint-19" playOrder="19">
+<navLabel><text>Rama honours his father’s promise</text></navLabel><content src="002-chapter002.xhtml#id-2.3"/>
+</navPoint>
+<navPoint id="navPoint-20" playOrder="20">
+<navLabel><text>Rama leaves for the forest</text></navLabel><content src="002-chapter002.xhtml#id-2.4"/>
+</navPoint>
+<navPoint id="navPoint-21" playOrder="21">
+<navLabel><text>Rama halts on the banks of the Tamasa</text></navLabel><content src="002-chapter002.xhtml#id-2.5"/>
+</navPoint>
+<navPoint id="navPoint-22" playOrder="22">
+<navLabel><text>Rama meets Guha</text></navLabel><content src="002-chapter002.xhtml#id-2.6"/>
+</navPoint>
+<navPoint id="navPoint-23" playOrder="23">
+<navLabel><text>To Chitrakoota</text></navLabel><content src="002-chapter002.xhtml#id-2.7"/>
+</navPoint>
+<navPoint id="navPoint-24" playOrder="24">
+<navLabel><text>Ayodhya plunged in grief</text></navLabel><content src="002-chapter002.xhtml#id-2.8"/>
+</navPoint>
+<navPoint id="navPoint-25" playOrder="25">
+<navLabel><text>Old curse come true</text></navLabel><content src="002-chapter002.xhtml#id-2.9"/>
+</navPoint>
+<navPoint id="navPoint-26" playOrder="26">
+<navLabel><text>Bharata’s dreams</text></navLabel><content src="002-chapter002.xhtml#id-2.10"/>
+</navPoint>
+<navPoint id="navPoint-27" playOrder="27">
+<navLabel><text>Bharata returns to Ayodhya</text></navLabel><content src="002-chapter002.xhtml#id-2.11"/>
+</navPoint>
+<navPoint id="navPoint-28" playOrder="28">
+<navLabel><text>Bharata’s love for Rama</text></navLabel><content src="002-chapter002.xhtml#id-2.12"/>
+</navPoint>
+<navPoint id="navPoint-29" playOrder="29">
+<navLabel><text>Brothers meet </text></navLabel><content src="002-chapter002.xhtml#id-2.13"/>
+</navPoint>
+<navPoint id="navPoint-30" playOrder="30">
+<navLabel><text>Bharata asks for Rama’s sandals</text></navLabel><content src="002-chapter002.xhtml#id-2.14"/>
+</navPoint>
+<navPoint id="navPoint-31" playOrder="31">
+<navLabel><text>Rama leaves Chitrakoota </text></navLabel><content src="002-chapter002.xhtml#id-2.15"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-32" playOrder="32">
+<navLabel><text>Forest life</text></navLabel><content src="003-chapter003.xhtml#id-003"/>
+<navPoint id="navPoint-33" playOrder="33">
+<navLabel><text>Rama meets Agasthya </text></navLabel><content src="003-chapter003.xhtml#id-3.1"/>
+</navPoint>
+<navPoint id="navPoint-34" playOrder="34">
+<navLabel><text>Panchavati</text></navLabel><content src="003-chapter003.xhtml#id-3.2"/>
+</navPoint>
+<navPoint id="navPoint-35" playOrder="35">
+<navLabel><text>Soorpanaka</text></navLabel><content src="003-chapter003.xhtml#id-3.3"/>
+</navPoint>
+<navPoint id="navPoint-36" playOrder="36">
+<navLabel><text>Khara and Dooshana annihilated</text></navLabel><content src="003-chapter003.xhtml#id-3.4"/>
+</navPoint>
+<navPoint id="navPoint-37" playOrder="37">
+<navLabel><text>Akampana reports to Ravana </text></navLabel><content src="003-chapter003.xhtml#id-3.5"/>
+</navPoint>
+<navPoint id="navPoint-38" playOrder="38">
+<navLabel><text>Soorpanaka seeks revenge</text></navLabel><content src="003-chapter003.xhtml#id-3.6"/>
+</navPoint>
+<navPoint id="navPoint-39" playOrder="39">
+<navLabel><text>The golden deer</text></navLabel><content src="003-chapter003.xhtml#id-3.7"/>
+</navPoint>
+<navPoint id="navPoint-40" playOrder="40">
+<navLabel><text>Ravana in saffron robe</text></navLabel><content src="003-chapter003.xhtml#id-3.8"/>
+</navPoint>
+<navPoint id="navPoint-41" playOrder="41">
+<navLabel><text>Jatayu fights Ravana</text></navLabel><content src="003-chapter003.xhtml#id-3.9"/>
+</navPoint>
+<navPoint id="navPoint-42" playOrder="42">
+<navLabel><text>Sita in Lanka</text></navLabel><content src="003-chapter003.xhtml#id-3.10"/>
+</navPoint>
+<navPoint id="navPoint-43" playOrder="43">
+<navLabel><text>Rama goes in search of Sita</text></navLabel><content src="003-chapter003.xhtml#id-3.11"/>
+</navPoint>
+<navPoint id="navPoint-44" playOrder="44">
+<navLabel><text>Kabanda directs Rama to Sugreeva </text></navLabel><content src="003-chapter003.xhtml#id-3.12"/>
+</navPoint>
+<navPoint id="navPoint-45" playOrder="45">
+<navLabel><text>Shabari</text></navLabel><content src="003-chapter003.xhtml#id-3.13"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-46" playOrder="46">
+<navLabel><text>Monkey friends</text></navLabel><content src="004-chapter004.xhtml#id-004"/>
+<navPoint id="navPoint-47" playOrder="47">
+<navLabel><text>Friendship pact</text></navLabel><content src="004-chapter004.xhtml#id-4.1"/>
+</navPoint>
+<navPoint id="navPoint-48" playOrder="48">
+<navLabel><text>Brothers turned foes</text></navLabel><content src="004-chapter004.xhtml#id-4.2"/>
+</navPoint>
+<navPoint id="navPoint-49" playOrder="49">
+<navLabel><text>Rama proves his mettle </text></navLabel><content src="004-chapter004.xhtml#id-4.3"/>
+</navPoint>
+<navPoint id="navPoint-50" playOrder="50">
+<navLabel><text>Rama kills Vaali </text></navLabel><content src="004-chapter004.xhtml#id-4.4"/>
+</navPoint>
+<navPoint id="navPoint-51" playOrder="51">
+<navLabel><text>Sugreeva crowned king</text></navLabel><content src="004-chapter004.xhtml#id-4.5"/>
+</navPoint>
+<navPoint id="navPoint-52" playOrder="52">
+<navLabel><text>Lakshmana’s anger</text></navLabel><content src="004-chapter004.xhtml#id-4.6"/>
+</navPoint>
+<navPoint id="navPoint-53" playOrder="53">
+<navLabel><text>Sugreeva’s army sets out to find Sita</text></navLabel><content src="004-chapter004.xhtml#id-4.7"/>
+</navPoint>
+<navPoint id="navPoint-54" playOrder="54">
+<navLabel><text>Sampati</text></navLabel><content src="004-chapter004.xhtml#id-4.8"/>
+</navPoint>
+<navPoint id="navPoint-55" playOrder="55">
+<navLabel><text>Who could cross the ocean?</text></navLabel><content src="004-chapter004.xhtml#id-4.9"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-56" playOrder="56">
+<navLabel><text>Crossing over to Lanka</text></navLabel><content src="005-chapter005.xhtml#id-005"/>
+<navPoint id="navPoint-57" playOrder="57">
+<navLabel><text>Hanuman crosses the hurdles</text></navLabel><content src="005-chapter005.xhtml#id-5.1"/>
+</navPoint>
+<navPoint id="navPoint-58" playOrder="58">
+<navLabel><text>Hanuman in Lanka </text></navLabel><content src="005-chapter005.xhtml#id-5.2"/>
+</navPoint>
+<navPoint id="navPoint-59" playOrder="59">
+<navLabel><text>Hanuman in Ashoka Vana</text></navLabel><content src="005-chapter005.xhtml#id-5.3"/>
+</navPoint>
+<navPoint id="navPoint-60" playOrder="60">
+<navLabel><text>Hanuman meets Sita</text></navLabel><content src="005-chapter005.xhtml#id-5.4"/>
+</navPoint>
+<navPoint id="navPoint-61" playOrder="61">
+<navLabel><text>Hanuman the destroyer</text></navLabel><content src="005-chapter005.xhtml#id-5.5"/>
+</navPoint>
+<navPoint id="navPoint-62" playOrder="62">
+<navLabel><text>Lanka set ablaze</text></navLabel><content src="005-chapter005.xhtml#id-5.6"/>
+</navPoint>
+<navPoint id="navPoint-63" playOrder="63">
+<navLabel><text>The vanaras rejoice</text></navLabel><content src="005-chapter005.xhtml#id-5.7"/>
+</navPoint>
+<navPoint id="navPoint-64" playOrder="64">
+<navLabel><text>Rama overwhelmed with joy</text></navLabel><content src="005-chapter005.xhtml#id-5.8"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-65" playOrder="65">
+<navLabel><text>The War</text></navLabel><content src="006-chapter006.xhtml#id-006"/>
+<navPoint id="navPoint-66" playOrder="66">
+<navLabel><text>Vibheeshana’s advice</text></navLabel><content src="006-chapter006.xhtml#id-6.1"/>
+</navPoint>
+<navPoint id="navPoint-67" playOrder="67">
+<navLabel><text>Vibheeshana joins Rama </text></navLabel><content src="006-chapter006.xhtml#id-6.2"/>
+</navPoint>
+<navPoint id="navPoint-68" playOrder="68">
+<navLabel><text>Rama prays to the ocean </text></navLabel><content src="006-chapter006.xhtml#id-6.3"/>
+</navPoint>
+<navPoint id="navPoint-69" playOrder="69">
+<navLabel><text>A squirrel’s contribution</text></navLabel><content src="006-chapter006.xhtml#id-6.4"/>
+</navPoint>
+<navPoint id="navPoint-70" playOrder="70">
+<navLabel><text>Walk on the sea link</text></navLabel><content src="006-chapter006.xhtml#id-6.5"/>
+</navPoint>
+<navPoint id="navPoint-71" playOrder="71">
+<navLabel><text>Ravana’s deceit </text></navLabel><content src="006-chapter006.xhtml#id-6.6"/>
+</navPoint>
+<navPoint id="navPoint-72" playOrder="72">
+<navLabel><text>A grandfather’s advice</text></navLabel><content src="006-chapter006.xhtml#id-6.7"/>
+</navPoint>
+<navPoint id="navPoint-73" playOrder="73">
+<navLabel><text>Rama’s message to Ravana </text></navLabel><content src="006-chapter006.xhtml#id-6.8"/>
+</navPoint>
+<navPoint id="navPoint-74" playOrder="74">
+<navLabel><text>The war begins</text></navLabel><content src="006-chapter006.xhtml#id-6.9"/>
+</navPoint>
+<navPoint id="navPoint-75" playOrder="75">
+<navLabel><text>Garuda to the rescue</text></navLabel><content src="006-chapter006.xhtml#id-6.10"/>
+</navPoint>
+<navPoint id="navPoint-76" playOrder="76">
+<navLabel><text>The battle resumes</text></navLabel><content src="006-chapter006.xhtml#id-6.11"/>
+</navPoint>
+<navPoint id="navPoint-77" playOrder="77">
+<navLabel><text>Kumabhakarna </text></navLabel><content src="006-chapter006.xhtml#id-6.12"/>
+</navPoint>
+<navPoint id="navPoint-78" playOrder="78">
+<navLabel><text>Ravana’s grief </text></navLabel><content src="006-chapter006.xhtml#id-6.13"/>
+</navPoint>
+<navPoint id="navPoint-79" playOrder="79">
+<navLabel><text>Indrajit’s Brahmastra</text></navLabel><content src="006-chapter006.xhtml#id-6.14"/>
+</navPoint>
+<navPoint id="navPoint-80" playOrder="80">
+<navLabel><text>Makaraksa killed by Lakshmana</text></navLabel><content src="006-chapter006.xhtml#id-6.15"/>
+</navPoint>
+<navPoint id="navPoint-81" playOrder="81">
+<navLabel><text>Lakshmana slays Indrajit</text></navLabel><content src="006-chapter006.xhtml#id-6.16"/>
+</navPoint>
+<navPoint id="navPoint-82" playOrder="82">
+<navLabel><text>Ravana’s rage</text></navLabel><content src="006-chapter006.xhtml#id-6.17"/>
+</navPoint>
+<navPoint id="navPoint-83" playOrder="83">
+<navLabel><text>Daring vanaras</text></navLabel><content src="006-chapter006.xhtml#id-6.18"/>
+</navPoint>
+<navPoint id="navPoint-84" playOrder="84">
+<navLabel><text>Ravana joins the war</text></navLabel><content src="006-chapter006.xhtml#id-6.19"/>
+</navPoint>
+<navPoint id="navPoint-85" playOrder="85">
+<navLabel><text>Indra sends his chariot to Rama</text></navLabel><content src="006-chapter006.xhtml#id-6.20"/>
+</navPoint>
+<navPoint id="navPoint-86" playOrder="86">
+<navLabel><text>Aditya Hridayam</text></navLabel><content src="006-chapter006.xhtml#id-6.21"/>
+</navPoint>
+<navPoint id="navPoint-87" playOrder="87">
+<navLabel><text>Ravana vanquished</text></navLabel><content src="006-chapter006.xhtml#id-6.22"/>
+</navPoint>
+<navPoint id="navPoint-88" playOrder="88">
+<navLabel><text>Ravana’s death lamented</text></navLabel><content src="006-chapter006.xhtml#id-6.23"/>
+</navPoint>
+<navPoint id="navPoint-89" playOrder="89">
+<navLabel><text>Vibheeshana’s coronation </text></navLabel><content src="006-chapter006.xhtml#id-6.24"/>
+</navPoint>
+<navPoint id="navPoint-90" playOrder="90">
+<navLabel><text>Sita faces the fire ordeal</text></navLabel><content src="006-chapter006.xhtml#id-6.25"/>
+</navPoint>
+<navPoint id="navPoint-91" playOrder="91">
+<navLabel><text>Rama’s coronation</text></navLabel><content src="006-chapter006.xhtml#id-6.26"/>
+</navPoint>
+</navPoint>
+   </navMap>
+</ncx>

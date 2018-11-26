@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns:ncx="http://www.daisy.org/z3986/2005/ncx/" xmlns="http://www.daisy.org/z3986/2005/ncx/"
+    version="2005-1" xml:lang="en">
+
+   <head>
+      <meta name="dtb:uid" content="urn:isbn:9789386506870"/>
+      <meta name="dtb:depth" content="1"/>
+      <meta name="dtb:totalPageCount" content="0"/>
+      <meta name="dtb:maxPageNumber" content="0"/>
+   </head>
+
+   <docTitle>
+      <text>Albert Einstein</text>
+   </docTitle>
+
+   <navMap>
+		
+<navPoint id="navPoint-1" playOrder="1">
+<navLabel><text>Title Page</text></navLabel><content src="000a-title.xhtml#id-000a"/>
+</navPoint>
+<navPoint id="navPoint-2" playOrder="2">
+<navLabel><text>Copyright</text></navLabel><content src="000b-copyright.xhtml#id-000b.1"/>
+</navPoint>
+<navPoint id="navPoint-3" playOrder="3">
+<navLabel><text>Preface</text></navLabel><content src="000c-preface.xhtml#id-000c.1"/>
+</navPoint>
+<navPoint id="navPoint-4" playOrder="4">
+<navLabel><text>Einstein and the Modern World</text></navLabel><content src="001-chapter001.xhtml#id-001"/>
+</navPoint>
+<navPoint id="navPoint-5" playOrder="5">
+<navLabel><text>Childhood</text></navLabel><content src="002-chapter002.xhtml#id-002"/>
+<navPoint id="navPoint-6" playOrder="6">
+<navLabel><text>Schooling</text></navLabel><content src="002-chapter002.xhtml#id-002.01"/>
+</navPoint>
+<navPoint id="navPoint-7" playOrder="7">
+<navLabel><text>Aarau</text></navLabel><content src="002-chapter002.xhtml#id-002.02"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-8" playOrder="8">
+<navLabel><text>Polytechnic Days</text></navLabel><content src="003-chapter003.xhtml#id-003"/>
+<navPoint id="navPoint-9" playOrder="9">
+<navLabel><text>Outside the Polytechnic</text></navLabel><content src="003-chapter003.xhtml#id-003.01"/>
+</navPoint>
+<navPoint id="navPoint-10" playOrder="10">
+<navLabel><text>Mileva Marić</text></navLabel><content src="003-chapter003.xhtml#id-003.02"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-11" playOrder="11">
+<navLabel><text>Hunt For A Job</text></navLabel><content src="004-chapter004.xhtml#id-004"/>
+<navPoint id="navPoint-12" playOrder="12">
+<navLabel><text>Einstein’s Daughter</text></navLabel><content src="004-chapter004.xhtml#id-004.01"/>
+</navPoint>
+<navPoint id="navPoint-13" playOrder="13">
+<navLabel><text>A Job at Last</text></navLabel><content src="004-chapter004.xhtml#id-004.02"/>
+</navPoint>
+<navPoint id="navPoint-14" playOrder="14">
+<navLabel><text>The Academy</text></navLabel><content src="004-chapter004.xhtml#id-004.03"/>
+</navPoint>
+<navPoint id="navPoint-15" playOrder="15">
+<navLabel><text>Einstein weds</text></navLabel><content src="004-chapter004.xhtml#id-004.04"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-16" playOrder="16">
+<navLabel><text>The Miracle Year -Annus Mirabilis</text></navLabel><content src="005-chapter005.xhtml#id-005"/>
+<navPoint id="navPoint-17" playOrder="17">
+<navLabel><text>E=mc</text></navLabel><content src="005-chapter005.xhtml#id-005.01"/>
+</navPoint>
+<navPoint id="navPoint-18" playOrder="18">
+<navLabel><text>How did the theory come about?</text></navLabel><content src="005-chapter005.xhtml#id-005.02"/>
+</navPoint>
+<navPoint id="navPoint-19" playOrder="19">
+<navLabel><text>Did Mileva help Einstein develop the theory?</text></navLabel><content src="005-chapter005.xhtml#id-005.03"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-20" playOrder="20">
+<navLabel><text>Professor at Last</text></navLabel><content src="006-chapter006.xhtml#id-006"/>
+</navPoint>
+<navPoint id="navPoint-21" playOrder="21">
+<navLabel><text>From City to City</text></navLabel><content src="007-chapter007.xhtml#id-007"/>
+<navPoint id="navPoint-22" playOrder="22">
+<navLabel><text>Zurich</text></navLabel><content src="007-chapter007.xhtml#id-007.01"/>
+</navPoint>
+<navPoint id="navPoint-23" playOrder="23">
+<navLabel><text>Prague</text></navLabel><content src="007-chapter007.xhtml#id-007.02"/>
+</navPoint>
+<navPoint id="navPoint-24" playOrder="24">
+<navLabel><text>Elsa</text></navLabel><content src="007-chapter007.xhtml#id-007.03"/>
+</navPoint>
+<navPoint id="navPoint-25" playOrder="25">
+<navLabel><text>Back to Zurich</text></navLabel><content src="007-chapter007.xhtml#id-007.04"/>
+</navPoint>
+<navPoint id="navPoint-26" playOrder="26">
+<navLabel><text>Please come to Berlin</text></navLabel><content src="007-chapter007.xhtml#id-007.05"/>
+</navPoint>
+<navPoint id="navPoint-27" playOrder="27">
+<navLabel><text>Berlin</text></navLabel><content src="007-chapter007.xhtml#id-007.06"/>
+</navPoint>
+<navPoint id="navPoint-28" playOrder="28">
+<navLabel><text>Conditions</text></navLabel><content src="007-chapter007.xhtml#id-007.07"/>
+</navPoint>
+<navPoint id="navPoint-29" playOrder="29">
+<navLabel><text>The First World War</text></navLabel><content src="007-chapter007.xhtml#id-007.08"/>
+</navPoint>
+<navPoint id="navPoint-30" playOrder="30">
+<navLabel><text>Living away from Children</text></navLabel><content src="007-chapter007.xhtml#id-007.09"/>
+</navPoint>
+<navPoint id="navPoint-31" playOrder="31">
+<navLabel><text>Amazing Theory</text></navLabel><content src="007-chapter007.xhtml#id-007.10"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-32" playOrder="32">
+<navLabel><text>Divorce</text></navLabel><content src="008-chapter008.xhtml#id-008"/>
+<navPoint id="navPoint-33" playOrder="33">
+<navLabel><text>Verification of the General Theory</text></navLabel><content src="008-chapter008.xhtml#id-008.01"/>
+</navPoint>
+<navPoint id="navPoint-34" playOrder="34">
+<navLabel><text>England vs Germany</text></navLabel><content src="008-chapter008.xhtml#id-008.02"/>
+</navPoint>
+<navPoint id="navPoint-35" playOrder="35">
+<navLabel><text>Is he a German or a Swiss Jew?</text></navLabel><content src="008-chapter008.xhtml#id-008.03"/>
+</navPoint>
+<navPoint id="navPoint-36" playOrder="36">
+<navLabel><text>Einstein – A Social Democrat</text></navLabel><content src="008-chapter008.xhtml#id-008.04"/>
+</navPoint>
+<navPoint id="navPoint-37" playOrder="37">
+<navLabel><text>Elsa is Mrs Einstein</text></navLabel><content src="008-chapter008.xhtml#id-008.05"/>
+</navPoint>
+<navPoint id="navPoint-38" playOrder="38">
+<navLabel><text>Fame travels at speed of light</text></navLabel><content src="008-chapter008.xhtml#id-008.06"/>
+</navPoint>
+<navPoint id="navPoint-39" playOrder="39">
+<navLabel><text>The first Idea of a Bomb</text></navLabel><content src="008-chapter008.xhtml#id-008.07"/>
+</navPoint>
+<navPoint id="navPoint-40" playOrder="40">
+<navLabel><text>Relativity and Philosophy</text></navLabel><content src="008-chapter008.xhtml#id-008.08"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-41" playOrder="41">
+<navLabel><text>The Call of The Jews</text></navLabel><content src="009-chapter009.xhtml#id-009"/>
+<navPoint id="navPoint-42" playOrder="42">
+<navLabel><text>Mother’s Death</text></navLabel><content src="009-chapter009.xhtml#id-009.01"/>
+</navPoint>
+<navPoint id="navPoint-43" playOrder="43">
+<navLabel><text>Listen to the heart – Travel to America</text></navLabel><content src="009-chapter009.xhtml#id-009.02"/>
+</navPoint>
+<navPoint id="navPoint-44" playOrder="44">
+<navLabel><text>Situation deteriorates in Germany</text></navLabel><content src="009-chapter009.xhtml#id-009.03"/>
+</navPoint>
+<navPoint id="navPoint-45" playOrder="45">
+<navLabel><text>Walther Rathenau</text></navLabel><content src="009-chapter009.xhtml#id-009.04"/>
+</navPoint>
+<navPoint id="navPoint-46" playOrder="46">
+<navLabel><text>Celebrity Again</text></navLabel><content src="009-chapter009.xhtml#id-009.05"/>
+</navPoint>
+<navPoint id="navPoint-47" playOrder="47">
+<navLabel><text>Einstein and the Nobel Prize</text></navLabel><content src="009-chapter009.xhtml#id-009.06"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-48" playOrder="48">
+<navLabel><text>Explosion in Physics</text></navLabel><content src="010-chapter010.xhtml#id-010"/>
+<navPoint id="navPoint-49" playOrder="49">
+<navLabel><text>Niels Bohr (1885 – 1962)</text></navLabel><content src="010-chapter010.xhtml#id-010.01"/>
+</navPoint>
+<navPoint id="navPoint-50" playOrder="50">
+<navLabel><text>Louis de Broglie (1892 – 1987)</text></navLabel><content src="010-chapter010.xhtml#id-010.02"/>
+</navPoint>
+<navPoint id="navPoint-51" playOrder="51">
+<navLabel><text>Satyendranath Bose (1894 – 1974)</text></navLabel><content src="010-chapter010.xhtml#id-010.03"/>
+</navPoint>
+<navPoint id="navPoint-52" playOrder="52">
+<navLabel><text>Erwin Schrodinger (1887 – 1961)</text></navLabel><content src="010-chapter010.xhtml#id-010.04"/>
+</navPoint>
+<navPoint id="navPoint-53" playOrder="53">
+<navLabel><text>Max Born (1882 – 1970)</text></navLabel><content src="010-chapter010.xhtml#id-010.05"/>
+</navPoint>
+<navPoint id="navPoint-54" playOrder="54">
+<navLabel><text>Werner Heisenberg (1901 – 1976)</text></navLabel><content src="010-chapter010.xhtml#id-010.06"/>
+</navPoint>
+<navPoint id="navPoint-55" playOrder="55">
+<navLabel><text>The Debate – Does God play dice with the world?</text></navLabel><content src="010-chapter010.xhtml#id-010.07"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-56" playOrder="56">
+<navLabel><text>Einstein is fifty</text></navLabel><content src="011-chapter011.xhtml#id-011"/>
+<navPoint id="navPoint-57" playOrder="57">
+<navLabel><text>Einstein and his family</text></navLabel><content src="011-chapter011.xhtml#id-011.01"/>
+</navPoint>
+<navPoint id="navPoint-58" playOrder="58">
+<navLabel><text>Did Einstein believe in God?</text></navLabel><content src="011-chapter011.xhtml#id-011.02"/>
+</navPoint>
+<navPoint id="navPoint-59" playOrder="59">
+<navLabel><text>Ravindranath Tagore and Einstein</text></navLabel><content src="011-chapter011.xhtml#id-011.03"/>
+</navPoint>
+<navPoint id="navPoint-60" playOrder="60">
+<navLabel><text>Second visit to America</text></navLabel><content src="011-chapter011.xhtml#id-011.04"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-61" playOrder="61">
+<navLabel><text>Grand Unification of Forces and Einstein’s Cosmology</text></navLabel><content src="012-chapter012.xhtml#id-012"/>
+<navPoint id="navPoint-62" playOrder="62">
+<navLabel><text>Einstein’s Cosmology</text></navLabel><content src="012-chapter012.xhtml#id-012.01"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-63" playOrder="63">
+<navLabel><text>Goodbye to Germany</text></navLabel><content src="013-chapter013.xhtml#id-013"/>
+<navPoint id="navPoint-64" playOrder="64">
+<navLabel><text>In Belgium</text></navLabel><content src="013-chapter013.xhtml#id-013.01"/>
+</navPoint>
+<navPoint id="navPoint-65" playOrder="65">
+<navLabel><text>Adieu to son and Mileva</text></navLabel><content src="013-chapter013.xhtml#id-013.02"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-66" playOrder="66">
+<navLabel><text>To America For Good</text></navLabel><content src="014-chapter014.xhtml#id-014"/>
+<navPoint id="navPoint-67" playOrder="67">
+<navLabel><text>112 Mercer Street</text></navLabel><content src="014-chapter014.xhtml#id-014.01"/>
+</navPoint>
+<navPoint id="navPoint-68" playOrder="68">
+<navLabel><text>Einstein and School children</text></navLabel><content src="014-chapter014.xhtml#id-014.02"/>
+</navPoint>
+<navPoint id="navPoint-69" playOrder="69">
+<navLabel><text>Elsa dies</text></navLabel><content src="014-chapter014.xhtml#id-014.03"/>
+</navPoint>
+<navPoint id="navPoint-70" playOrder="70">
+<navLabel><text>EPR Paradox</text></navLabel><content src="014-chapter014.xhtml#id-014.04"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-71" playOrder="71">
+<navLabel><text>The Bomb Story</text></navLabel><content src="015-chapter015.xhtml#id-015"/>
+<navPoint id="navPoint-72" playOrder="72">
+<navLabel><text>Einstein a Citizen of America</text></navLabel><content src="015-chapter015.xhtml#id-015.01"/>
+</navPoint>
+<navPoint id="navPoint-73" playOrder="73">
+<navLabel><text>Manhattan Project</text></navLabel><content src="015-chapter015.xhtml#id-015.02"/>
+</navPoint>
+<navPoint id="navPoint-74" playOrder="74">
+<navLabel><text>Another Letter to Roosevelt</text></navLabel><content src="015-chapter015.xhtml#id-015.03"/>
+</navPoint>
+<navPoint id="navPoint-75" playOrder="75">
+<navLabel><text>Thus sp0ke Krishna</text></navLabel><content src="015-chapter015.xhtml#id-015.04"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-76" playOrder="76">
+<navLabel><text>What Next?</text></navLabel><content src="016-chapter016.xhtml#id-016"/>
+<navPoint id="navPoint-77" playOrder="77">
+<navLabel><text>Communication with Jawaharlal Nehru</text></navLabel><content src="016-chapter016.xhtml#id-016.01"/>
+</navPoint>
+<navPoint id="navPoint-78" playOrder="78">
+<navLabel><text>He is a Communist!</text></navLabel><content src="016-chapter016.xhtml#id-016.02"/>
+</navPoint>
+<navPoint id="navPoint-79" playOrder="79">
+<navLabel><text>Gandhiji’s Passive Resistance</text></navLabel><content src="016-chapter016.xhtml#id-016.03"/>
+</navPoint>
+<navPoint id="navPoint-80" playOrder="80">
+<navLabel><text>Would he go back to Germany?</text></navLabel><content src="016-chapter016.xhtml#id-016.04"/>
+</navPoint>
+<navPoint id="navPoint-81" playOrder="81">
+<navLabel><text>Politics is for the present; equations are for eternity</text></navLabel><content src="016-chapter016.xhtml#id-016.05"/>
+</navPoint>
+<navPoint id="navPoint-82" playOrder="82">
+<navLabel><text>Tobacco Stealer</text></navLabel><content src="016-chapter016.xhtml#id-016.06"/>
+</navPoint>
+<navPoint id="navPoint-83" playOrder="83">
+<navLabel><text>Mileva Dies</text></navLabel><content src="016-chapter016.xhtml#id-016.07"/>
+</navPoint>
+<navPoint id="navPoint-84" playOrder="84">
+<navLabel><text>Presidency of Israel</text></navLabel><content src="016-chapter016.xhtml#id-016.08"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-85" playOrder="85">
+<navLabel><text>Last Days</text></navLabel><content src="017-chapter017.xhtml#id-017"/>
+<navPoint id="navPoint-86" playOrder="86">
+<navLabel><text>What was in his brain?</text></navLabel><content src="017-chapter017.xhtml#id-017.01"/>
+</navPoint>
+<navPoint id="navPoint-87" playOrder="87">
+<navLabel><text>Helen Dukas</text></navLabel><content src="017-chapter017.xhtml#id-017.02"/>
+</navPoint>
+<navPoint id="navPoint-88" playOrder="88">
+<navLabel><text>Preserving the documents</text></navLabel><content src="017-chapter017.xhtml#id-017.03"/>
+</navPoint>
+<navPoint id="navPoint-89" playOrder="89">
+<navLabel><text>Who knew Einstein personally?</text></navLabel><content src="017-chapter017.xhtml#id-017.04"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-90" playOrder="90">
+<navLabel><text>Bibliography</text></navLabel><content src="018-chapter018.xhtml#id-018"/>
+</navPoint>
+<navPoint id="navPoint-91" playOrder="91">
+<navLabel><text>Einstein Timeline</text></navLabel><content src="019-chapter019.xhtml#id-019"/>
+</navPoint>
+<navPoint id="navPoint-92" playOrder="92">
+<navLabel><text>A Brief Description of Einstein’s Contributions</text></navLabel><content src="020-chapter020.xhtml#id-020"/>
+<navPoint id="navPoint-93" playOrder="93">
+<navLabel><text>Photoelectric Effect</text></navLabel><content src="020-chapter020.xhtml#id-020.01"/>
+</navPoint>
+<navPoint id="navPoint-94" playOrder="94">
+<navLabel><text>Determination of Size of Molecules</text></navLabel><content src="020-chapter020.xhtml#id-020.02"/>
+</navPoint>
+<navPoint id="navPoint-95" playOrder="95">
+<navLabel><text>Brownian Motion</text></navLabel><content src="020-chapter020.xhtml#id-020.03"/>
+</navPoint>
+<navPoint id="navPoint-96" playOrder="96">
+<navLabel><text>Special Theory of Relativity</text></navLabel><content src="020-chapter020.xhtml#id-020.04"/>
+</navPoint>
+<navPoint id="navPoint-97" playOrder="97">
+<navLabel><text>Speed of Light</text></navLabel><content src="020-chapter020.xhtml#id-020.05"/>
+</navPoint>
+<navPoint id="navPoint-98" playOrder="98">
+<navLabel><text>The Theory</text></navLabel><content src="020-chapter020.xhtml#id-020.06"/>
+</navPoint>
+<navPoint id="navPoint-99" playOrder="99">
+<navLabel><text>Time Dilation</text></navLabel><content src="020-chapter020.xhtml#id-020.07"/>
+</navPoint>
+<navPoint id="navPoint-100" playOrder="100">
+<navLabel><text>Twin Paradox</text></navLabel><content src="020-chapter020.xhtml#id-020.08"/>
+</navPoint>
+<navPoint id="navPoint-101" playOrder="101">
+<navLabel><text>Length Contraction</text></navLabel><content src="020-chapter020.xhtml#id-020.09"/>
+</navPoint>
+<navPoint id="navPoint-102" playOrder="102">
+<navLabel><text>Loss of Simultaneity</text></navLabel><content src="020-chapter020.xhtml#id-020.10"/>
+</navPoint>
+<navPoint id="navPoint-103" playOrder="103">
+<navLabel><text>Speed of Light is the ultimate</text></navLabel><content src="020-chapter020.xhtml#id-020.11"/>
+</navPoint>
+<navPoint id="navPoint-104" playOrder="104">
+<navLabel><text>E = mc</text></navLabel><content src="020-chapter020.xhtml#id-020.12"/>
+</navPoint>
+<navPoint id="navPoint-105" playOrder="105">
+<navLabel><text>General Theory of Relativity</text></navLabel><content src="020-chapter020.xhtml#id-020.13"/>
+</navPoint>
+<navPoint id="navPoint-106" playOrder="106">
+<navLabel><text>Galileo and Free Fall</text></navLabel><content src="020-chapter020.xhtml#id-020.14"/>
+</navPoint>
+<navPoint id="navPoint-107" playOrder="107">
+<navLabel><text>Gravity and acceleration</text></navLabel><content src="020-chapter020.xhtml#id-020.15"/>
+</navPoint>
+<navPoint id="navPoint-108" playOrder="108">
+<navLabel><text>Effect of Gravity and Acceleration on Time</text></navLabel><content src="020-chapter020.xhtml#id-020.16"/>
+</navPoint>
+<navPoint id="navPoint-109" playOrder="109">
+<navLabel><text>Light bends in gravity</text></navLabel><content src="020-chapter020.xhtml#id-020.17"/>
+</navPoint>
+<navPoint id="navPoint-110" playOrder="110">
+<navLabel><text>Gravitational Lensing</text></navLabel><content src="020-chapter020.xhtml#id-020.18"/>
+</navPoint>
+<navPoint id="navPoint-111" playOrder="111">
+<navLabel><text>Curved Space – Time</text></navLabel><content src="020-chapter020.xhtml#id-020.19"/>
+</navPoint>
+<navPoint id="navPoint-112" playOrder="112">
+<navLabel><text>The Equations</text></navLabel><content src="020-chapter020.xhtml#id-020.20"/>
+</navPoint>
+<navPoint id="navPoint-113" playOrder="113">
+<navLabel><text>Precession of Mercury and other Issues</text></navLabel><content src="020-chapter020.xhtml#id-020.21"/>
+</navPoint>
+<navPoint id="navPoint-114" playOrder="114">
+<navLabel><text>Einstein vs Newton</text></navLabel><content src="020-chapter020.xhtml#id-020.22"/>
+</navPoint>
+<navPoint id="navPoint-115" playOrder="115">
+<navLabel><text>Black Holes</text></navLabel><content src="020-chapter020.xhtml#id-020.23"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-116" playOrder="116">
+<navLabel><text>ABOUT AUTHOR</text></navLabel><content src="021-chapter021.xhtml#id-022"/>
+</navPoint>
+   </navMap>
+</ncx>
