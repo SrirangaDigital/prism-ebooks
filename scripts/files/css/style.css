@@ -183,6 +183,11 @@ body {
 	margin: 0 auto;
 	text-align: center;
 }
+.maintext .img-right{
+	display: block;
+	margin: 0 auto;
+	float: right;
+}
 .maintext .vertical-delimiter {
 	margin: 1em 0;
 	text-align: center;	
