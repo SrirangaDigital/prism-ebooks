@@ -19,7 +19,7 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilitySummary">The publication is missing alternative text for complex diagrams.</meta>
 		<meta property="schema:accessibilityAPI">ARIA</meta>
-		<meta property="dcterms:modified">2018-11-24T10:43:38Z</meta>
+		<meta property="dcterms:modified">2018-11-27T18:20:32Z</meta>
 	</metadata>
 	<manifest>
 		<item id="id-000a-title_xhtml" href="000a-title.xhtml" media-type="application/xhtml+xml" />
@@ -115,14 +115,13 @@
 		<item id="id-images_125b_jpg" href="images/125b.jpg" media-type="image/jpeg" />
 		<item id="id-images_127_jpg" href="images/127.jpg" media-type="image/jpeg" />
 		<item id="id-images_128_jpg" href="images/128.jpg" media-type="image/jpeg" />
-		<item id="id-images_130_jpg" href="images/130.jpg" media-type="image/jpeg" />
 		<item id="id-images_131_jpg" href="images/131.jpg" media-type="image/jpeg" />
 		<item id="id-images_132_jpg" href="images/132.jpg" media-type="image/jpeg" />
 		<item id="id-images_133_jpg" href="images/133.jpg" media-type="image/jpeg" />
 		<item id="id-images_134_jpg" href="images/134.jpg" media-type="image/jpeg" />
 		<item id="id-images_135_jpg" href="images/135.jpg" media-type="image/jpeg" />
 		<item id="id-images_136_jpg" href="images/136.jpg" media-type="image/jpeg" />
-		<item id="id-images_194_Page_147_jpg" href="images/194_Page_147.jpg" media-type="image/jpeg" />
+		<item id="id-images_147_jpg" href="images/147.jpg" media-type="image/jpeg" />
 		<item id="id-images_194_Page_148_jpg" href="images/194_Page_148.jpg" media-type="image/jpeg" />
 		<item properties="cover-image" id="id-images_cover_jpg" href="images/cover.jpg" media-type="image/jpeg" />
 		<item id="id-toc_ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />

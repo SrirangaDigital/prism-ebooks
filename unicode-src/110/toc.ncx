@@ -10,7 +10,7 @@
    </head>
 
    <docTitle>
-      <text>Soloppalare - Achala Badukondara Kathe</text>
+      <text>Soloppalare - Achala Badukondara Kathe (Kannada)</text>
    </docTitle>
 
    <navMap>
@@ -19,7 +19,7 @@
 <navLabel><text>Title Page</text></navLabel><content src="000a-title.xhtml#id-000a"/>
 </navPoint>
 <navPoint id="navPoint-2" playOrder="2">
-<navLabel><text>Copyright</text></navLabel><content src="000b-copyright.xhtml#id-000b"/>
+<navLabel><text>Copyright Page</text></navLabel><content src="000b-copyright.xhtml#id-000b"/>
 </navPoint>
 <navPoint id="navPoint-3" playOrder="3">
 <navLabel><text>ಸೋಲೊಪ್ಪಲಾರೆ</text></navLabel><content src="000c-introduction.xhtml#id-000c.1"/>

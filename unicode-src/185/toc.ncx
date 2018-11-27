@@ -3,7 +3,7 @@
     version="2005-1" xml:lang="en">
 
    <head>
-      <meta name="dtb:uid" content="urn:isbn:tbd"/>
+      <meta name="dtb:uid" content="urn:isbn:9789386506788"/>
       <meta name="dtb:depth" content="1"/>
       <meta name="dtb:totalPageCount" content="0"/>
       <meta name="dtb:maxPageNumber" content="0"/>
@@ -16,13 +16,13 @@
    <navMap>
 		
 <navPoint id="navPoint-1" playOrder="1">
-<navLabel><text>50 Soul Stories</text></navLabel><content src="000a-title.xhtml#id-000a"/>
+<navLabel><text>Title Page</text></navLabel><content src="000a-title.xhtml#id-000a"/>
 </navPoint>
 <navPoint id="navPoint-2" playOrder="2">
-<navLabel><text>Copyright</text></navLabel><content src="000b-copyright.xhtml#id-000b"/>
+<navLabel><text>Copyright Page</text></navLabel><content src="000b-copyright.xhtml#id-000b"/>
 </navPoint>
 <navPoint id="navPoint-3" playOrder="3">
-<navLabel><text>Dedication</text></navLabel><content src="000c-Dedication.xhtml#id-000c"/>
+<navLabel><text>Dedication</text></navLabel><content src="000c-dedication.xhtml#id-000c"/>
 </navPoint>
 <navPoint id="navPoint-4" playOrder="4">
 <navLabel><text>About Author</text></navLabel><content src="000d-about-author.xhtml#id-000d"/>

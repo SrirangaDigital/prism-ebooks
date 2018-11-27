@@ -22,200 +22,197 @@
 <navLabel><text>Copyright</text></navLabel><content src="000b-copyright.xhtml#id-000b"/>
 </navPoint>
 <navPoint id="navPoint-3" playOrder="3">
-<navLabel><text>Dedicate</text></navLabel><content src="000c-dedicate.xhtml#id-000c"/>
-</navPoint>
-<navPoint id="navPoint-4" playOrder="4">
 <navLabel><text>Acknowledgement</text></navLabel><content src="000d-acknowledgement.xhtml#id-000d"/>
 </navPoint>
-<navPoint id="navPoint-5" playOrder="5">
+<navPoint id="navPoint-4" playOrder="4">
 <navLabel><text>Introduction</text></navLabel><content src="000e-introduction.xhtml#id-000e"/>
 </navPoint>
-<navPoint id="navPoint-6" playOrder="6">
+<navPoint id="navPoint-5" playOrder="5">
 <navLabel><text>Hanuman</text></navLabel><content src="001-chapter001.xhtml#id-001"/>
-<navPoint id="navPoint-7" playOrder="7">
+<navPoint id="navPoint-6" playOrder="6">
 <navLabel><text>Hanuman, an incarnation of Shiva</text></navLabel><content src="001-chapter001.xhtml#id-001.01"/>
 </navPoint>
-<navPoint id="navPoint-8" playOrder="8">
+<navPoint id="navPoint-7" playOrder="7">
 <navLabel><text>Lord Shiva grants sage Kashyapa a boon</text></navLabel><content src="001-chapter001.xhtml#id-001.02"/>
 </navPoint>
-<navPoint id="navPoint-9" playOrder="9">
+<navPoint id="navPoint-8" playOrder="8">
 <navLabel><text>The birth of Hanuman begins with Punjikasthala </text></navLabel><content src="001-chapter001.xhtml#id-001.03"/>
 </navPoint>
-<navPoint id="navPoint-10" playOrder="10">
+<navPoint id="navPoint-9" playOrder="9">
 <navLabel><text>Kunjara and Vindhyavalli become Anjana’s foster parents </text></navLabel><content src="001-chapter001.xhtml#id-001.04"/>
 </navPoint>
-<navPoint id="navPoint-11" playOrder="11">
+<navPoint id="navPoint-10" playOrder="10">
 <navLabel><text>Anjana weds Kesari</text></navLabel><content src="001-chapter001.xhtml#id-001.05"/>
 </navPoint>
-<navPoint id="navPoint-12" playOrder="12">
+<navPoint id="navPoint-11" playOrder="11">
 <navLabel><text>Dasaratha performs the Putrakameshti yajna</text></navLabel><content src="001-chapter001.xhtml#id-001.06"/>
 </navPoint>
-<navPoint id="navPoint-13" playOrder="13">
+<navPoint id="navPoint-12" playOrder="12">
 <navLabel><text>Anjaneya is born</text></navLabel><content src="001-chapter001.xhtml#id-001.07"/>
 </navPoint>
-<navPoint id="navPoint-14" playOrder="14">
+<navPoint id="navPoint-13" playOrder="13">
 <navLabel><text>Anjana leaves for Brahmaloka</text></navLabel><content src="001-chapter001.xhtml#id-001.08"/>
 </navPoint>
-<navPoint id="navPoint-15" playOrder="15">
+<navPoint id="navPoint-14" playOrder="14">
 <navLabel><text>How Anjaneya came to be named Hanuman</text></navLabel><content src="001-chapter001.xhtml#id-001.09"/>
 </navPoint>
 </navPoint>
-<navPoint id="navPoint-16" playOrder="16">
+<navPoint id="navPoint-15" playOrder="15">
 <navLabel><text>Hanuman’s childhood and education</text></navLabel><content src="002-chapter002.xhtml#id-002"/>
-<navPoint id="navPoint-17" playOrder="17">
+<navPoint id="navPoint-16" playOrder="16">
 <navLabel><text>Hanuman seeks a boon from sage Narada</text></navLabel><content src="002-chapter002.xhtml#id-002.002"/>
 </navPoint>
-<navPoint id="navPoint-18" playOrder="18">
+<navPoint id="navPoint-17" playOrder="17">
 <navLabel><text>Hanuman trains under Surya</text></navLabel><content src="002-chapter002.xhtml#id-002.003"/>
 </navPoint>
-<navPoint id="navPoint-19" playOrder="19">
+<navPoint id="navPoint-18" playOrder="18">
 <navLabel><text>Hanuman weds Suvarchala to pay guru dakshina</text></navLabel><content src="002-chapter002.xhtml#id-002.004"/>
 </navPoint>
-<navPoint id="navPoint-20" playOrder="20">
+<navPoint id="navPoint-19" playOrder="19">
 <navLabel><text>The Story of Suvarchala</text></navLabel><content src="002-chapter002.xhtml#id-002.005"/>
 </navPoint>
-<navPoint id="navPoint-21" playOrder="21">
+<navPoint id="navPoint-20" playOrder="20">
 <navLabel><text>Hanuman seeks out Sugreeva</text></navLabel><content src="002-chapter002.xhtml#id-002.006"/>
 </navPoint>
-<navPoint id="navPoint-22" playOrder="22">
+<navPoint id="navPoint-21" playOrder="21">
 <navLabel><text>Birth of Vaali and Sugreeva</text></navLabel><content src="002-chapter002.xhtml#id-002.007"/>
 </navPoint>
 </navPoint>
-<navPoint id="navPoint-23" playOrder="23">
+<navPoint id="navPoint-22" playOrder="22">
 <navLabel><text>Hanuman’s role in the Ramayana</text></navLabel><content src="003-chapter003.xhtml#id-003"/>
-<navPoint id="navPoint-24" playOrder="24">
+<navPoint id="navPoint-23" playOrder="23">
 <navLabel><text>Hanuman becomes Sugreeva’s Chief minister</text></navLabel><content src="003-chapter003.xhtml#id-003.001"/>
 </navPoint>
-<navPoint id="navPoint-25" playOrder="25">
+<navPoint id="navPoint-24" playOrder="24">
 <navLabel><text>Hanuman’s first meeting with Rama</text></navLabel><content src="003-chapter003.xhtml#id-003.002"/>
 </navPoint>
-<navPoint id="navPoint-26" playOrder="26">
+<navPoint id="navPoint-25" playOrder="25">
 <navLabel><text>Hanuman takes Rama and Lakshmana to Sugreeva</text></navLabel><content src="003-chapter003.xhtml#id-003.003"/>
 </navPoint>
-<navPoint id="navPoint-27" playOrder="27">
+<navPoint id="navPoint-26" playOrder="26">
 <navLabel><text>Hanuman and his team head south to look for Sita </text></navLabel><content src="003-chapter003.xhtml#id-003.004"/>
 </navPoint>
-<navPoint id="navPoint-28" playOrder="28">
+<navPoint id="navPoint-27" playOrder="27">
 <navLabel><text>Hanuman and the monkeys meet Swayamprabha</text></navLabel><content src="003-chapter003.xhtml#id-003.005"/>
 </navPoint>
-<navPoint id="navPoint-29" playOrder="29">
+<navPoint id="navPoint-28" playOrder="28">
 <navLabel><text>Sampati reveals Sita’s whereabouts to the vanara army</text></navLabel><content src="003-chapter003.xhtml#id-003.006"/>
 </navPoint>
-<navPoint id="navPoint-30" playOrder="30">
+<navPoint id="navPoint-29" playOrder="29">
 <navLabel><text>Jambavan reminds Hanuman of his extraordinary powers</text></navLabel><content src="003-chapter003.xhtml#id-003.007"/>
 </navPoint>
-<navPoint id="navPoint-31" playOrder="31">
+<navPoint id="navPoint-30" playOrder="30">
 <navLabel><text>Hanuman overcomes hurdles on his way to Lanka</text></navLabel><content src="003-chapter003.xhtml#id-003.008"/>
 </navPoint>
-<navPoint id="navPoint-32" playOrder="32">
+<navPoint id="navPoint-31" playOrder="31">
 <navLabel><text>Hanuman enters Lanka</text></navLabel><content src="003-chapter003.xhtml#id-003.009"/>
 </navPoint>
-<navPoint id="navPoint-33" playOrder="33">
+<navPoint id="navPoint-32" playOrder="32">
 <navLabel><text>Hanuman discovers Sita in Ashoka Vana</text></navLabel><content src="003-chapter003.xhtml#id-003.010"/>
 </navPoint>
-<navPoint id="navPoint-34" playOrder="34">
+<navPoint id="navPoint-33" playOrder="33">
 <navLabel><text>Hanuman meets Sita</text></navLabel><content src="003-chapter003.xhtml#id-003.011"/>
 </navPoint>
-<navPoint id="navPoint-35" playOrder="35">
+<navPoint id="navPoint-34" playOrder="34">
 <navLabel><text>Hanuman on a rampage at Lanka</text></navLabel><content src="003-chapter003.xhtml#id-003.012"/>
 </navPoint>
-<navPoint id="navPoint-36" playOrder="36">
+<navPoint id="navPoint-35" playOrder="35">
 <navLabel><text>Indrajit binds Hanuman with the Brahmastra</text></navLabel><content src="003-chapter003.xhtml#id-003.013"/>
 </navPoint>
-<navPoint id="navPoint-37" playOrder="37">
+<navPoint id="navPoint-36" playOrder="36">
 <navLabel><text>Hanuman meets Ravana</text></navLabel><content src="003-chapter003.xhtml#id-003.014"/>
 </navPoint>
-<navPoint id="navPoint-38" playOrder="38">
+<navPoint id="navPoint-37" playOrder="37">
 <navLabel><text>Hanuman sets Lanka ablaze</text></navLabel><content src="003-chapter003.xhtml#id-003.015"/>
 </navPoint>
-<navPoint id="navPoint-39" playOrder="39">
+<navPoint id="navPoint-38" playOrder="38">
 <navLabel><text>Hanuman rescues Shani Dev imprisoned by Ravana</text></navLabel><content src="003-chapter003.xhtml#id-003.016"/>
 </navPoint>
-<navPoint id="navPoint-40" playOrder="40">
+<navPoint id="navPoint-39" playOrder="39">
 <navLabel><text>Hanuman rues his impulsive act</text></navLabel><content src="003-chapter003.xhtml#id-003.017"/>
 </navPoint>
-<navPoint id="navPoint-41" playOrder="41">
+<navPoint id="navPoint-40" playOrder="40">
 <navLabel><text>Hanuman’s son Makara Dhwaja is conceived</text></navLabel><content src="003-chapter003.xhtml#id-003.018"/>
 </navPoint>
-<navPoint id="navPoint-42" playOrder="42">
+<navPoint id="navPoint-41" playOrder="41">
 <navLabel><text>Hanuman lands on Mount Mahendra to a thunderous welcome</text></navLabel><content src="003-chapter003.xhtml#id-003.019"/>
 </navPoint>
-<navPoint id="navPoint-43" playOrder="43">
+<navPoint id="navPoint-42" playOrder="42">
 <navLabel><text>Hanuman overwhelms Rama with news of Sita</text></navLabel><content src="003-chapter003.xhtml#id-003.020"/>
 </navPoint>
-<navPoint id="navPoint-44" playOrder="44">
+<navPoint id="navPoint-43" playOrder="43">
 <navLabel><text>Vibhishana seeks Rama’s protection</text></navLabel><content src="003-chapter003.xhtml#id-003.021"/>
 </navPoint>
-<navPoint id="navPoint-45" playOrder="45">
+<navPoint id="navPoint-44" playOrder="44">
 <navLabel><text>The War between the Vanara Force and Demons Begin</text></navLabel><content src="003-chapter003.xhtml#id-003.022"/>
 </navPoint>
-<navPoint id="navPoint-46" playOrder="46">
+<navPoint id="navPoint-45" playOrder="45">
 <navLabel><text>Garuda to the rescue of Rama and Lakshmana</text></navLabel><content src="003-chapter003.xhtml#id-003.023"/>
 </navPoint>
-<navPoint id="navPoint-47" playOrder="47">
+<navPoint id="navPoint-46" playOrder="46">
 <navLabel><text>Ravana arrives on the battlefield</text></navLabel><content src="003-chapter003.xhtml#id-003.024"/>
 </navPoint>
-<navPoint id="navPoint-48" playOrder="48">
+<navPoint id="navPoint-47" playOrder="47">
 <navLabel><text>Hanuman and the vanaras kill Ravana’s key warriors</text></navLabel><content src="003-chapter003.xhtml#id-003.025"/>
 </navPoint>
-<navPoint id="navPoint-49" playOrder="49">
+<navPoint id="navPoint-48" playOrder="48">
 <navLabel><text>Indrajit renders Rama and Lakshmana unconscious with the Brahmastra</text></navLabel><content src="003-chapter003.xhtml#id-003.026"/>
 </navPoint>
-<navPoint id="navPoint-50" playOrder="50">
+<navPoint id="navPoint-49" playOrder="49">
 <navLabel><text>Hanuman procures herbs from the Himalayas to revive Rama and Lakshmana</text></navLabel><content src="003-chapter003.xhtml#id-003.027"/>
 </navPoint>
-<navPoint id="navPoint-51" playOrder="51">
+<navPoint id="navPoint-50" playOrder="50">
 <navLabel><text>Indrajit is slayed</text></navLabel><content src="003-chapter003.xhtml#id-003.028"/>
 </navPoint>
-<navPoint id="navPoint-52" playOrder="52">
+<navPoint id="navPoint-51" playOrder="51">
 <navLabel><text>Panchamukha Hanuman defeats Ahiravana </text></navLabel><content src="003-chapter003.xhtml#id-003.029"/>
 </navPoint>
-<navPoint id="navPoint-53" playOrder="53">
+<navPoint id="navPoint-52" playOrder="52">
 <navLabel><text>Hanuman once again fetches herbs to revive Lakshmana</text></navLabel><content src="003-chapter003.xhtml#id-003.030"/>
 </navPoint>
-<navPoint id="navPoint-54" playOrder="54">
+<navPoint id="navPoint-53" playOrder="53">
 <navLabel><text>Bharata wounds Hanuman with an arrow</text></navLabel><content src="003-chapter003.xhtml#id-003.031"/>
 </navPoint>
-<navPoint id="navPoint-55" playOrder="55">
+<navPoint id="navPoint-54" playOrder="54">
 <navLabel><text>Battle resumes, Hanuman conveys news of Rama’s victory to Sita</text></navLabel><content src="003-chapter003.xhtml#id-003.032"/>
 </navPoint>
-<navPoint id="navPoint-56" playOrder="56">
+<navPoint id="navPoint-55" playOrder="55">
 <navLabel><text>Hanuman informs Bharata of Rama’s return to Ayodhya</text></navLabel><content src="003-chapter003.xhtml#id-003.033"/>
 </navPoint>
-<navPoint id="navPoint-57" playOrder="57">
+<navPoint id="navPoint-56" playOrder="56">
 <navLabel><text>Hanuman rejects Sita’s gift</text></navLabel><content src="003-chapter003.xhtml#id-003.034"/>
 </navPoint>
-<navPoint id="navPoint-58" playOrder="58">
+<navPoint id="navPoint-57" playOrder="57">
 <navLabel><text>Why is Hanuman called Bajrang Bali?</text></navLabel><content src="003-chapter003.xhtml#id-003.035"/>
 </navPoint>
-<navPoint id="navPoint-59" playOrder="59">
+<navPoint id="navPoint-58" playOrder="58">
 <navLabel><text>Snapping for the yawn or yawning for the snaps</text></navLabel><content src="003-chapter003.xhtml#id-003.036"/>
 </navPoint>
-<navPoint id="navPoint-60" playOrder="60">
+<navPoint id="navPoint-59" playOrder="59">
 <navLabel><text>Hanuman – the Lord’s unsurpassable devotee</text></navLabel><content src="003-chapter003.xhtml#id-003.037"/>
 </navPoint>
-<navPoint id="navPoint-61" playOrder="61">
+<navPoint id="navPoint-60" playOrder="60">
 <navLabel><text>When Rama issued death sentence to Hanuman</text></navLabel><content src="003-chapter003.xhtml#id-003.038"/>
 </navPoint>
-<navPoint id="navPoint-62" playOrder="62">
+<navPoint id="navPoint-61" playOrder="61">
 <navLabel><text>When Hanuman fought with Rama and became Veera Hanuman</text></navLabel><content src="003-chapter003.xhtml#id-003.039"/>
 </navPoint>
-<navPoint id="navPoint-63" playOrder="63">
+<navPoint id="navPoint-62" playOrder="62">
 <navLabel><text>Chiranjeevi Hanuman’s promise as Rama avatar concludes</text></navLabel><content src="003-chapter003.xhtml#id-003.040"/>
 </navPoint>
-<navPoint id="navPoint-64" playOrder="64">
+<navPoint id="navPoint-63" playOrder="63">
 <navLabel><text>Hanuman and the Mahabharata</text></navLabel><content src="003-chapter003.xhtml#id-003.041"/>
 </navPoint>
-<navPoint id="navPoint-65" playOrder="65">
+<navPoint id="navPoint-64" playOrder="64">
 <navLabel><text>Hanuman and Garuda</text></navLabel><content src="003-chapter003.xhtml#id-003.042"/>
 </navPoint>
-<navPoint id="navPoint-66" playOrder="66">
+<navPoint id="navPoint-65" playOrder="65">
 <navLabel><text>Hanuman and Bhima are Brothers</text></navLabel><content src="003-chapter003.xhtml#id-003.043"/>
 </navPoint>
-<navPoint id="navPoint-67" playOrder="67">
+<navPoint id="navPoint-66" playOrder="66">
 <navLabel><text>Hanuman keeps his words and dwells on Arjuna’s flag</text></navLabel><content src="003-chapter003.xhtml#id-003.044"/>
 </navPoint>
-<navPoint id="navPoint-68" playOrder="68">
+<navPoint id="navPoint-67" playOrder="67">
 <navLabel><text>Hanuman, the Eternal!</text></navLabel><content src="003-chapter003.xhtml#id-003.045"/>
 </navPoint>
 </navPoint>
