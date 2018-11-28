@@ -3,14 +3,14 @@
     version="2005-1" xml:lang="en">
 
    <head>
-      <meta name="dtb:uid" content="urn:isbn:9789388478137"/>
+      <meta name="dtb:uid" content="urn:isbn:9789388478045"/>
       <meta name="dtb:depth" content="1"/>
       <meta name="dtb:totalPageCount" content="0"/>
       <meta name="dtb:maxPageNumber" content="0"/>
    </head>
 
    <docTitle>
-      <text>Bagavadgeetha</text>
+      <text>SHOONYA - AN ABYSS OF ABSOLUTE TIMELESSNESS</text>
    </docTitle>
 
    <navMap>
@@ -22,85 +22,175 @@
 <navLabel><text>Copyright Page</text></navLabel><content src="000b-copyright.xhtml#id-000b"/>
 </navPoint>
 <navPoint id="navPoint-3" playOrder="3">
-<navLabel><text>Publisher’s Note</text></navLabel><content src="000c-Introduction.xhtml#id-000b.1"/>
-</navPoint>
-<navPoint id="navPoint-4" playOrder="4">
-<navLabel><text>Acknowledgements</text></navLabel><content src="000c-Introduction.xhtml#id-000b.2"/>
-</navPoint>
-<navPoint id="navPoint-5" playOrder="5">
 <navLabel><text>preface</text></navLabel><content src="000d-preface.xhtml#id-000d.1"/>
 </navPoint>
-<navPoint id="navPoint-6" playOrder="6">
+<navPoint id="navPoint-4" playOrder="4">
 <navLabel><text>Foreword</text></navLabel><content src="000d-preface.xhtml#id-000d.2"/>
 </navPoint>
+<navPoint id="navPoint-5" playOrder="5">
+<navLabel><text>Introduction</text></navLabel><content src="000e-Introduction.xhtml#id-000d.1"/>
+</navPoint>
+<navPoint id="navPoint-6" playOrder="6">
+<navLabel><text>Existence is omnipresent for an awakened being</text></navLabel><content src="001-chapter001.xhtml#id-001"/>
+</navPoint>
 <navPoint id="navPoint-7" playOrder="7">
-<navLabel><text>The Theme in the Vedic Perspective</text></navLabel><content src="000d-preface.xhtml#id-000d.3"/>
+<navLabel><text>Witnessing distraction is the key for meditation</text></navLabel><content src="001-chapter001.xhtml#id-002"/>
 </navPoint>
 <navPoint id="navPoint-8" playOrder="8">
-<navLabel><text>A Few Words</text></navLabel><content src="000d-preface.xhtml#id-000d.4"/>
+<navLabel><text>Faith manifests from Intuition</text></navLabel><content src="001-chapter001.xhtml#id-003"/>
 </navPoint>
 <navPoint id="navPoint-9" playOrder="9">
-<navLabel><text>1 ‘Cosmic Consolidation’ – The Theme In Perspective</text></navLabel><content src="001-chapter001.xhtml#id-001"/>
+<navLabel><text>Destiny &amp; Freewill are complimentary</text></navLabel><content src="001-chapter001.xhtml#id-004"/>
 </navPoint>
 <navPoint id="navPoint-10" playOrder="10">
-<navLabel><text>2 ‘Loka-Saṃgraha’  – The Key Term</text></navLabel><content src="002-chapter002.xhtml#id-002"/>
+<navLabel><text>Death is only another form of Birth</text></navLabel><content src="001-chapter001.xhtml#id-005"/>
 </navPoint>
 <navPoint id="navPoint-11" playOrder="11">
-<navLabel><text>3 An Academic Quibble</text></navLabel><content src="003-chapter003.xhtml#id-003"/>
+<navLabel><text>Polar energies are complimentary and the same</text></navLabel><content src="001-chapter001.xhtml#id-006"/>
 </navPoint>
 <navPoint id="navPoint-12" playOrder="12">
-<navLabel><text>4 The Dialectics Of The Infinite</text></navLabel><content src="004-chapter004.xhtml#id-004"/>
+<navLabel><text>World is as real as it’s unreal</text></navLabel><content src="001-chapter001.xhtml#id-007"/>
 </navPoint>
 <navPoint id="navPoint-13" playOrder="13">
-<navLabel><text>5 Other Readings</text></navLabel><content src="005-chapter005.xhtml#id-005"/>
+<navLabel><text>Consciousness and Godliness are inter-related</text></navLabel><content src="001-chapter001.xhtml#id-008"/>
 </navPoint>
 <navPoint id="navPoint-14" playOrder="14">
-<navLabel><text>6 Cosmic Dynamics  – Its Meaning</text></navLabel><content src="006-chapter006.xhtml#id-006"/>
+<navLabel><text>Purposelessness is the language of life</text></navLabel><content src="001-chapter001.xhtml#id-009"/>
 </navPoint>
 <navPoint id="navPoint-15" playOrder="15">
-<navLabel><text>7 The Creative Act</text></navLabel><content src="007-chapter007.xhtml#id-007"/>
+<navLabel><text>Meditation is NOT the last resort of the spiritual journey</text></navLabel><content src="001-chapter001.xhtml#id-010"/>
 </navPoint>
 <navPoint id="navPoint-16" playOrder="16">
-<navLabel><text>8  The ‘Ways’ – What They Mean</text></navLabel><content src="008-chapter008.xhtml#id-008"/>
+<navLabel><text>Life is an echo-system of your attitude</text></navLabel><content src="001-chapter001.xhtml#id-011"/>
 </navPoint>
 <navPoint id="navPoint-17" playOrder="17">
-<navLabel><text>9 The Lord’s Dictum – “Nothing Less Than My Yoga”</text></navLabel><content src="009-chapter009.xhtml#id-009"/>
+<navLabel><text>Children are the closest reflection of Godhood</text></navLabel><content src="001-chapter001.xhtml#id-012"/>
 </navPoint>
 <navPoint id="navPoint-18" playOrder="18">
-<navLabel><text>10 Liberation – Freedom  In Participation</text></navLabel><content src="010-chapter010.xhtml#id-010"/>
+<navLabel><text>Neutrality is the Centre of Gravity for Happiness</text></navLabel><content src="001-chapter001.xhtml#id-013"/>
 </navPoint>
 <navPoint id="navPoint-19" playOrder="19">
-<navLabel><text>11 The Human Example</text></navLabel><content src="011-chapter011.xhtml#id-011"/>
+<navLabel><text>All actions and thoughts are aligned concentric to the Ego</text></navLabel><content src="001-chapter001.xhtml#id-014"/>
 </navPoint>
 <navPoint id="navPoint-20" playOrder="20">
-<navLabel><text>12 The Infinite Being  – Its Dynamics  And Freedom</text></navLabel><content src="012-chapter012.xhtml#id-012"/>
+<navLabel><text>Totality is the metamorphosis to Divinity</text></navLabel><content src="001-chapter001.xhtml#id-015"/>
 </navPoint>
 <navPoint id="navPoint-21" playOrder="21">
-<navLabel><text>13 The Infinite Theme In Application</text></navLabel><content src="013-chapter013.xhtml#id-013"/>
+<navLabel><text>Silence is an absolute symbol of the Divine</text></navLabel><content src="001-chapter001.xhtml#id-016"/>
 </navPoint>
 <navPoint id="navPoint-22" playOrder="22">
-<navLabel><text>14 The Individual – Cosmic Illumination And Energy Localised</text></navLabel><content src="014-chapter014.xhtml#id-014"/>
+<navLabel><text>The abode of Godliness is hidden in sheer subtlety</text></navLabel><content src="001-chapter001.xhtml#id-017"/>
 </navPoint>
 <navPoint id="navPoint-23" playOrder="23">
-<navLabel><text>15 Yoga-Māyā  And The Spectra of Bliss</text></navLabel><content src="015-chapter015.xhtml#id-015"/>
+<navLabel><text>So-called Securities are superficial</text></navLabel><content src="001-chapter001.xhtml#id-018"/>
 </navPoint>
 <navPoint id="navPoint-24" playOrder="24">
-<navLabel><text>16 “Do You See As I See?”</text></navLabel><content src="016-chapter016.xhtml#id-016"/>
+<navLabel><text>Black Magic &amp; White Magic stem from the same energy</text></navLabel><content src="001-chapter001.xhtml#id-019"/>
 </navPoint>
 <navPoint id="navPoint-25" playOrder="25">
-<navLabel><text>The Scheme Of The Translation And Its Perspective</text></navLabel><content src="017-chapter017.xhtml#id-017"/>
+<navLabel><text>Your Joy is self-contained through others’ Joy</text></navLabel><content src="001-chapter001.xhtml#id-020"/>
 </navPoint>
 <navPoint id="navPoint-26" playOrder="26">
-<navLabel><text>I.  – The Super-knowledge of Self-being</text></navLabel><content src="018-chapter018.xhtml#id-018"/>
+<navLabel><text>Desires act as a gateway to the ultimate</text></navLabel><content src="001-chapter001.xhtml#id-021"/>
 </navPoint>
 <navPoint id="navPoint-27" playOrder="27">
-<navLabel><text>II. – On The Enlightened Attunement</text></navLabel><content src="019-chapter019.xhtml#id-019"/>
+<navLabel><text>Thirst for Realization is beyond Desire energy</text></navLabel><content src="001-chapter001.xhtml#id-022"/>
 </navPoint>
 <navPoint id="navPoint-28" playOrder="28">
-<navLabel><text>III.  – On The Dimensions And Dialectics Of The Infinite</text></navLabel><content src="020-chapter020.xhtml#id-020"/>
+<navLabel><text>The language of success thrives only in the moment</text></navLabel><content src="001-chapter001.xhtml#id-023"/>
 </navPoint>
 <navPoint id="navPoint-29" playOrder="29">
-<navLabel><text>IV.  – On The Dynamics Of Recoilless Action</text></navLabel><content src="021-chapter021.xhtml#id-021"/>
+<navLabel><text>Transcendence of Belonging is an Awakening</text></navLabel><content src="001-chapter001.xhtml#id-024"/>
+</navPoint>
+<navPoint id="navPoint-30" playOrder="30">
+<navLabel><text>‘Security’ is the most disillusioned amongst all Desires</text></navLabel><content src="001-chapter001.xhtml#id-025"/>
+</navPoint>
+<navPoint id="navPoint-31" playOrder="31">
+<navLabel><text>Failure is only as real as your acceptance</text></navLabel><content src="001-chapter001.xhtml#id-026"/>
+</navPoint>
+<navPoint id="navPoint-32" playOrder="32">
+<navLabel><text>The need for Ego is dialectically paradoxical</text></navLabel><content src="001-chapter001.xhtml#id-027"/>
+</navPoint>
+<navPoint id="navPoint-33" playOrder="33">
+<navLabel><text>Birth and Death are merely complimentary states</text></navLabel><content src="001-chapter001.xhtml#id-028"/>
+</navPoint>
+<navPoint id="navPoint-34" playOrder="34">
+<navLabel><text>Happiness is an equation of Simplicity and Balance</text></navLabel><content src="001-chapter001.xhtml#id-029"/>
+</navPoint>
+<navPoint id="navPoint-35" playOrder="35">
+<navLabel><text>Existence thrives in opposite polarities</text></navLabel><content src="001-chapter001.xhtml#id-030"/>
+</navPoint>
+<navPoint id="navPoint-36" playOrder="36">
+<navLabel><text>Choice breeds Greed</text></navLabel><content src="001-chapter001.xhtml#id-031"/>
+</navPoint>
+<navPoint id="navPoint-37" playOrder="37">
+<navLabel><text>There need not be a reason for every happening</text></navLabel><content src="001-chapter001.xhtml#id-032"/>
+</navPoint>
+<navPoint id="navPoint-38" playOrder="38">
+<navLabel><text>Women &amp; Existence mirror each other</text></navLabel><content src="001-chapter001.xhtml#id-033"/>
+</navPoint>
+<navPoint id="navPoint-39" playOrder="39">
+<navLabel><text>The no-reasoning mind is a mirror of true wisdom</text></navLabel><content src="001-chapter001.xhtml#id-034"/>
+</navPoint>
+<navPoint id="navPoint-40" playOrder="40">
+<navLabel><text>Love is an unconditional Prayer</text></navLabel><content src="001-chapter001.xhtml#id-035"/>
+</navPoint>
+<navPoint id="navPoint-41" playOrder="41">
+<navLabel><text>Learning to Unlearn is the toughest learning</text></navLabel><content src="001-chapter001.xhtml#id-036"/>
+</navPoint>
+<navPoint id="navPoint-42" playOrder="42">
+<navLabel><text>Identity respect takes the last place</text></navLabel><content src="001-chapter001.xhtml#id-037"/>
+</navPoint>
+<navPoint id="navPoint-43" playOrder="43">
+<navLabel><text>Language of the Divine is most subtle, yet most vivid</text></navLabel><content src="001-chapter001.xhtml#id-038"/>
+</navPoint>
+<navPoint id="navPoint-44" playOrder="44">
+<navLabel><text>Enlightenment is a Lateral Awakening</text></navLabel><content src="001-chapter001.xhtml#id-039"/>
+</navPoint>
+<navPoint id="navPoint-45" playOrder="45">
+<navLabel><text>Statelessness &amp; Godliness are complimentary</text></navLabel><content src="001-chapter001.xhtml#id-040"/>
+</navPoint>
+<navPoint id="navPoint-46" playOrder="46">
+<navLabel><text>Material &amp; Dream Worlds are two faces of the same coin</text></navLabel><content src="001-chapter001.xhtml#id-041"/>
+</navPoint>
+<navPoint id="navPoint-47" playOrder="47">
+<navLabel><text>Meditation is a flowering of the no-mind</text></navLabel><content src="001-chapter001.xhtml#id-042"/>
+</navPoint>
+<navPoint id="navPoint-48" playOrder="48">
+<navLabel><text>Knowledge is only a toy in the hands of Wisdom</text></navLabel><content src="001-chapter001.xhtml#id-043"/>
+</navPoint>
+<navPoint id="navPoint-49" playOrder="49">
+<navLabel><text>Dancing is the most cathartic form of relaxation</text></navLabel><content src="001-chapter001.xhtml#id-044"/>
+</navPoint>
+<navPoint id="navPoint-50" playOrder="50">
+<navLabel><text>Humanity never connects to Intellectuality</text></navLabel><content src="001-chapter001.xhtml#id-045"/>
+</navPoint>
+<navPoint id="navPoint-51" playOrder="51">
+<navLabel><text>A true intellectual is unaware he is one</text></navLabel><content src="001-chapter001.xhtml#id-046"/>
+</navPoint>
+<navPoint id="navPoint-52" playOrder="52">
+<navLabel><text>Jealousy stems from Insecurity</text></navLabel><content src="001-chapter001.xhtml#id-047"/>
+</navPoint>
+<navPoint id="navPoint-53" playOrder="53">
+<navLabel><text>The subtle difference between Hope and Expectation is in its Attitude</text></navLabel><content src="001-chapter001.xhtml#id-048"/>
+</navPoint>
+<navPoint id="navPoint-54" playOrder="54">
+<navLabel><text>Regret is the most dominant form of negative energy</text></navLabel><content src="001-chapter001.xhtml#id-049"/>
+</navPoint>
+<navPoint id="navPoint-55" playOrder="55">
+<navLabel><text>Dreaming is better (and beyond) Achieving</text></navLabel><content src="001-chapter001.xhtml#id-050"/>
+</navPoint>
+<navPoint id="navPoint-56" playOrder="56">
+<navLabel><text>Faith need not be consistent always</text></navLabel><content src="001-chapter001.xhtml#id-051"/>
+</navPoint>
+<navPoint id="navPoint-57" playOrder="57">
+<navLabel><text>Being childlike is the greatest human trait</text></navLabel><content src="001-chapter001.xhtml#id-052"/>
+</navPoint>
+<navPoint id="navPoint-58" playOrder="58">
+<navLabel><text>Humility is a great catalyst for a meditative-mind</text></navLabel><content src="001-chapter001.xhtml#id-053"/>
+</navPoint>
+<navPoint id="navPoint-59" playOrder="59">
+<navLabel><text>Mind is a stoned hypothesized framework</text></navLabel><content src="001-chapter001.xhtml#id-054"/>
 </navPoint>
    </navMap>
 </ncx>
