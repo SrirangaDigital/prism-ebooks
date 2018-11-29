@@ -125,6 +125,10 @@ body {
 	margin-top: 4em;
 	text-align: center;
 }
+.maintext .big-letter{
+	font-size: 2em;
+	font-style: bold;
+}
 .maintext span.quote-author,
 .maintext p.quote-author,
 .maintext span.verse-num,
