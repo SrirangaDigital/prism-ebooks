@@ -28,55 +28,55 @@
 <navLabel><text>Preface</text></navLabel><content src="000d-preface.xhtml#id-000d.1"/>
 </navPoint>
 <navPoint id="navPoint-5" playOrder="5">
-<navLabel><text>Preface</text></navLabel><content src="000d-preface.xhtml#id-000d.2"/>
+<navLabel><text>Dedicated</text></navLabel><content src="000d-preface.xhtml#id-000d.2"/>
 </navPoint>
 <navPoint id="navPoint-6" playOrder="6">
-<navLabel><text>1 </text></navLabel><content src="001-chapter001.xhtml#id-001"/>
+<navLabel><text>1 </text></navLabel><content src="001-016chapter001-016.xhtml#id-001"/>
 </navPoint>
 <navPoint id="navPoint-7" playOrder="7">
-<navLabel><text>2 </text></navLabel><content src="001-chapter001.xhtml#id-002"/>
+<navLabel><text>2 </text></navLabel><content src="001-016chapter001-016.xhtml#id-002"/>
 </navPoint>
 <navPoint id="navPoint-8" playOrder="8">
-<navLabel><text>3 </text></navLabel><content src="001-chapter001.xhtml#id-003"/>
+<navLabel><text>3 </text></navLabel><content src="001-016chapter001-016.xhtml#id-003"/>
 </navPoint>
 <navPoint id="navPoint-9" playOrder="9">
-<navLabel><text>4 </text></navLabel><content src="001-chapter001.xhtml#id-004"/>
+<navLabel><text>4 </text></navLabel><content src="001-016chapter001-016.xhtml#id-004"/>
 </navPoint>
 <navPoint id="navPoint-10" playOrder="10">
-<navLabel><text>5 </text></navLabel><content src="001-chapter001.xhtml#id-005"/>
+<navLabel><text>5 </text></navLabel><content src="001-016chapter001-016.xhtml#id-005"/>
 </navPoint>
 <navPoint id="navPoint-11" playOrder="11">
-<navLabel><text>6 </text></navLabel><content src="001-chapter001.xhtml#id-006"/>
+<navLabel><text>6 </text></navLabel><content src="001-016chapter001-016.xhtml#id-006"/>
 </navPoint>
 <navPoint id="navPoint-12" playOrder="12">
-<navLabel><text>7 </text></navLabel><content src="001-chapter001.xhtml#id-007"/>
+<navLabel><text>7 </text></navLabel><content src="001-016chapter001-016.xhtml#id-007"/>
 </navPoint>
 <navPoint id="navPoint-13" playOrder="13">
-<navLabel><text>8 </text></navLabel><content src="001-chapter001.xhtml#id-008"/>
+<navLabel><text>8 </text></navLabel><content src="001-016chapter001-016.xhtml#id-008"/>
 </navPoint>
 <navPoint id="navPoint-14" playOrder="14">
-<navLabel><text>9 </text></navLabel><content src="001-chapter001.xhtml#id-009"/>
+<navLabel><text>9 </text></navLabel><content src="001-016chapter001-016.xhtml#id-009"/>
 </navPoint>
 <navPoint id="navPoint-15" playOrder="15">
-<navLabel><text>10 </text></navLabel><content src="001-chapter001.xhtml#id-010"/>
+<navLabel><text>10 </text></navLabel><content src="001-016chapter001-016.xhtml#id-010"/>
 </navPoint>
 <navPoint id="navPoint-16" playOrder="16">
-<navLabel><text>11 </text></navLabel><content src="001-chapter001.xhtml#id-011"/>
+<navLabel><text>11 </text></navLabel><content src="001-016chapter001-016.xhtml#id-011"/>
 </navPoint>
 <navPoint id="navPoint-17" playOrder="17">
-<navLabel><text>12 </text></navLabel><content src="001-chapter001.xhtml#id-012"/>
+<navLabel><text>12 </text></navLabel><content src="001-016chapter001-016.xhtml#id-012"/>
 </navPoint>
 <navPoint id="navPoint-18" playOrder="18">
-<navLabel><text>13 </text></navLabel><content src="001-chapter001.xhtml#id-013"/>
+<navLabel><text>13 </text></navLabel><content src="001-016chapter001-016.xhtml#id-013"/>
 </navPoint>
 <navPoint id="navPoint-19" playOrder="19">
-<navLabel><text>14 </text></navLabel><content src="001-chapter001.xhtml#id-014"/>
+<navLabel><text>14 </text></navLabel><content src="001-016chapter001-016.xhtml#id-014"/>
 </navPoint>
 <navPoint id="navPoint-20" playOrder="20">
-<navLabel><text>15 </text></navLabel><content src="001-chapter001.xhtml#id-015"/>
+<navLabel><text>15 </text></navLabel><content src="001-016chapter001-016.xhtml#id-015"/>
 </navPoint>
 <navPoint id="navPoint-21" playOrder="21">
-<navLabel><text>16 </text></navLabel><content src="001-chapter001.xhtml#id-016"/>
+<navLabel><text>16 </text></navLabel><content src="001-016chapter001-016.xhtml#id-016"/>
 </navPoint>
    </navMap>
 </ncx>
