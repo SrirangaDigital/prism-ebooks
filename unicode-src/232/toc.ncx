@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns:ncx="http://www.daisy.org/z3986/2005/ncx/" xmlns="http://www.daisy.org/z3986/2005/ncx/"
+    version="2005-1" xml:lang="en">
+
+   <head>
+      <meta name="dtb:uid" content="urn:isbn:9789386506924"/>
+      <meta name="dtb:depth" content="1"/>
+      <meta name="dtb:totalPageCount" content="0"/>
+      <meta name="dtb:maxPageNumber" content="0"/>
+   </head>
+
+   <docTitle>
+      <text>Isaac Newton</text>
+   </docTitle>
+
+   <navMap>
+		
+<navPoint id="navPoint-1" playOrder="1">
+<navLabel><text>Title Page</text></navLabel><content src="000a-title.xhtml#id-000a"/>
+</navPoint>
+<navPoint id="navPoint-2" playOrder="2">
+<navLabel><text>Copyright Page</text></navLabel><content src="000b-copyright.xhtml#id-000b"/>
+</navPoint>
+<navPoint id="navPoint-3" playOrder="3">
+<navLabel><text>Foreword</text></navLabel><content src="000c-Foreword.xhtml#id-000c"/>
+</navPoint>
+<navPoint id="navPoint-4" playOrder="4">
+<navLabel><text>Preface</text></navLabel><content src="000d-Preface.xhtml#id-000d"/>
+</navPoint>
+<navPoint id="navPoint-5" playOrder="5">
+<navLabel><text>About the Author</text></navLabel><content src="000e-Author.xhtml#id-000e"/>
+</navPoint>
+<navPoint id="navPoint-6" playOrder="6">
+<navLabel><text>The Glory of Isaac Newton</text></navLabel><content src="001-chapter001.xhtml#id-001"/>
+</navPoint>
+<navPoint id="navPoint-7" playOrder="7">
+<navLabel><text>Childhood</text></navLabel><content src="002-chapter002.xhtml#id-002"/>
+<navPoint id="navPoint-8" playOrder="8">
+<navLabel><text>Hannah Remarries</text></navLabel><content src="002-chapter002.xhtml#id-002.01"/>
+</navPoint>
+<navPoint id="navPoint-9" playOrder="9">
+<navLabel><text>At Kings School in Grantham</text></navLabel><content src="002-chapter002.xhtml#id-002.02"/>
+</navPoint>
+<navPoint id="navPoint-10" playOrder="10">
+<navLabel><text>Making Gadgets</text></navLabel><content src="002-chapter002.xhtml#id-002.03"/>
+</navPoint>
+<navPoint id="navPoint-11" playOrder="11">
+<navLabel><text>Back to the Farm</text></navLabel><content src="002-chapter002.xhtml#id-002.04"/>
+</navPoint>
+<navPoint id="navPoint-12" playOrder="12">
+<navLabel><text>Back at School</text></navLabel><content src="002-chapter002.xhtml#id-002.05"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-13" playOrder="13">
+<navLabel><text>At Cambridge</text></navLabel><content src="003-chapter003.xhtml#id-003"/>
+<navPoint id="navPoint-14" playOrder="14">
+<navLabel><text>Isaac - a Subsizar</text></navLabel><content src="003-chapter003.xhtml#id-003.01"/>
+</navPoint>
+<navPoint id="navPoint-15" playOrder="15">
+<navLabel><text>Intellectual Separation</text></navLabel><content src="003-chapter003.xhtml#id-003.02"/>
+</navPoint>
+<navPoint id="navPoint-16" playOrder="16">
+<navLabel><text>A Tutor</text></navLabel><content src="003-chapter003.xhtml#id-003.03"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-17" playOrder="17">
+<navLabel><text>Masters of Science before Newton</text></navLabel><content src="004-chapter004.xhtml#id-004"/>
+<navPoint id="navPoint-18" playOrder="18">
+<navLabel><text>Aristotle (384 – 322 BC) and Scholasticism</text></navLabel><content src="004-chapter004.xhtml#id-004.01"/>
+</navPoint>
+<navPoint id="navPoint-19" playOrder="19">
+<navLabel><text>Claudius Ptolemy (90 AD to 168 AD)</text></navLabel><content src="004-chapter004.xhtml#id-004.02"/>
+</navPoint>
+<navPoint id="navPoint-20" playOrder="20">
+<navLabel><text>Nicolaus Copernicus (1473 – 1543)</text></navLabel><content src="004-chapter004.xhtml#id-004.03"/>
+</navPoint>
+<navPoint id="navPoint-21" playOrder="21">
+<navLabel><text>Johannes Kepler (1571 – 1630)</text></navLabel><content src="004-chapter004.xhtml#id-004.04"/>
+</navPoint>
+<navPoint id="navPoint-22" playOrder="22">
+<navLabel><text>Galileo Galilei (1564 – 1642)</text></navLabel><content src="004-chapter004.xhtml#id-004.05"/>
+</navPoint>
+<navPoint id="navPoint-23" playOrder="23">
+<navLabel><text>René Descartes (1596 – 1650)</text></navLabel><content src="004-chapter004.xhtml#id-004.06"/>
+</navPoint>
+<navPoint id="navPoint-24" playOrder="24">
+<navLabel><text>Sir Francis Bacon (1561 – 1626) </text></navLabel><content src="004-chapter004.xhtml#id-004.07"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-25" playOrder="25">
+<navLabel><text>Newton Swings into Action</text></navLabel><content src="005-chapter005.xhtml#id-005"/>
+<navPoint id="navPoint-26" playOrder="26">
+<navLabel><text>Scientific Method</text></navLabel><content src="005-chapter005.xhtml#id-005.01"/>
+</navPoint>
+<navPoint id="navPoint-27" playOrder="27">
+<navLabel><text>Early Experiments with Light</text></navLabel><content src="005-chapter005.xhtml#id-005.02"/>
+</navPoint>
+<navPoint id="navPoint-28" playOrder="28">
+<navLabel><text>Mathematics</text></navLabel><content src="005-chapter005.xhtml#id-005.03"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-29" playOrder="29">
+<navLabel><text>Anni Mirabiles (Wonderful Year)</text></navLabel><content src="006-chapter006.xhtml#id-006"/>
+<navPoint id="navPoint-30" playOrder="30">
+<navLabel><text>Explorations</text></navLabel><content src="006-chapter006.xhtml#id-006.01"/>
+<navPoint id="navPoint-31" playOrder="31">
+<navLabel><text>Year of Mathematics, 1664</text></navLabel><content src="006-chapter006.xhtml#id-006.01.01"/>
+</navPoint>
+<navPoint id="navPoint-32" playOrder="32">
+<navLabel><text>Birth of Calculus</text></navLabel><content src="006-chapter006.xhtml#id-006.01.02"/>
+</navPoint>
+<navPoint id="navPoint-33" playOrder="33">
+<navLabel><text>Gravity</text></navLabel><content src="006-chapter006.xhtml#id-006.01.03"/>
+</navPoint>
+<navPoint id="navPoint-34" playOrder="34">
+<navLabel><text>Light and Colour</text></navLabel><content src="006-chapter006.xhtml#id-006.01.04"/>
+</navPoint>
+<navPoint id="navPoint-35" playOrder="35">
+<navLabel><text>Mind and Body</text></navLabel><content src="006-chapter006.xhtml#id-006.01.05"/>
+</navPoint>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-36" playOrder="36">
+<navLabel><text>Lucasian Professor</text></navLabel><content src="007-chapter007.xhtml#id-007"/>
+<navPoint id="navPoint-37" playOrder="37">
+<navLabel><text>Newton Becomes a Professor</text></navLabel><content src="007-chapter007.xhtml#id-007.01"/>
+</navPoint>
+<navPoint id="navPoint-38" playOrder="38">
+<navLabel><text>Further Studies in Mathematics </text></navLabel><content src="007-chapter007.xhtml#id-007.02"/>
+<navPoint id="navPoint-39" playOrder="39">
+<navLabel><text>Telescope</text></navLabel><content src="007-chapter007.xhtml#id-007.02.01"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-40" playOrder="40">
+<navLabel><text>Newton vs Hooke</text></navLabel><content src="007-chapter007.xhtml#id-007.03"/>
+<navPoint id="navPoint-41" playOrder="41">
+<navLabel><text>Robert Hooke (1635 – 1703)</text></navLabel><content src="007-chapter007.xhtml#id-007.03.01"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-42" playOrder="42">
+<navLabel><text>Corpuscular and Wave theory of light</text></navLabel><content src="007-chapter007.xhtml#id-007.04"/>
+</navPoint>
+<navPoint id="navPoint-43" playOrder="43">
+<navLabel><text>Newton’s Paper Presented</text></navLabel><content src="007-chapter007.xhtml#id-007.05"/>
+<navPoint id="navPoint-44" playOrder="44">
+<navLabel><text>To take orders or not</text></navLabel><content src="007-chapter007.xhtml#id-007.05.01"/>
+</navPoint>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-45" playOrder="45">
+<navLabel><text>Absent Minded Professor</text></navLabel><content src="008-chapter008.xhtml#id-008"/>
+</navPoint>
+<navPoint id="navPoint-46" playOrder="46">
+<navLabel><text>An Alchemist in Search of Truth</text></navLabel><content src="009-chapter009.xhtml#id-009"/>
+<navPoint id="navPoint-47" playOrder="47">
+<navLabel><text>Alchemy, the Predecessor of Chemistry</text></navLabel><content src="009-chapter009.xhtml#id-009.01"/>
+</navPoint>
+<navPoint id="navPoint-48" playOrder="48">
+<navLabel><text>Newton, an Alchemist</text></navLabel><content src="009-chapter009.xhtml#id-009.02"/>
+</navPoint>
+<navPoint id="navPoint-49" playOrder="49">
+<navLabel><text>In search of Regulus</text></navLabel><content src="009-chapter009.xhtml#id-009.03"/>
+</navPoint>
+<navPoint id="navPoint-50" playOrder="50">
+<navLabel><text>Universal Spirit</text></navLabel><content src="009-chapter009.xhtml#id-009.04"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-51" playOrder="51">
+<navLabel><text>Philosophiæ Naturalis Principia Mathematica</text></navLabel><content src="010-chapter010.xhtml#id-010"/>
+<navPoint id="navPoint-52" playOrder="52">
+<navLabel><text>Hooke Throws a Challenge</text></navLabel><content src="010-chapter010.xhtml#id-010.01"/>
+</navPoint>
+<navPoint id="navPoint-53" playOrder="53">
+<navLabel><text>Call of the Comet</text></navLabel><content src="010-chapter010.xhtml#id-010.02"/>
+</navPoint>
+<navPoint id="navPoint-54" playOrder="54">
+<navLabel><text>De Motu Corporum in Gyrum</text></navLabel><content src="010-chapter010.xhtml#id-010.03"/>
+</navPoint>
+<navPoint id="navPoint-55" playOrder="55">
+<navLabel><text>Emergence of Principia</text></navLabel><content src="010-chapter010.xhtml#id-010.04"/>
+</navPoint>
+<navPoint id="navPoint-56" playOrder="56">
+<navLabel><text>Inside Principia</text></navLabel><content src="010-chapter010.xhtml#id-010.05"/>
+</navPoint>
+<navPoint id="navPoint-57" playOrder="57">
+<navLabel><text>The Fame of Principia</text></navLabel><content src="010-chapter010.xhtml#id-010.06"/>
+</navPoint>
+<navPoint id="navPoint-58" playOrder="58">
+<navLabel><text>Revision of Principia</text></navLabel><content src="010-chapter010.xhtml#id-010.07"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-59" playOrder="59">
+<navLabel><text>Newton Becomes a Member of Parliament</text></navLabel><content src="011-chapter011.xhtml#id-011"/>
+<navPoint id="navPoint-60" playOrder="60">
+<navLabel><text>Nicolas Fatio de Duillier</text></navLabel><content src="011-chapter011.xhtml#id-011.01"/>
+</navPoint>
+<navPoint id="navPoint-61" playOrder="61">
+<navLabel><text>Breakdown</text></navLabel><content src="011-chapter011.xhtml#id-011.02"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-62" playOrder="62">
+<navLabel><text>The Controller of the Royal Mint</text></navLabel><content src="012-chapter012.xhtml#id-012"/>
+<navPoint id="navPoint-63" playOrder="63">
+<navLabel><text>Newton Knighted</text></navLabel><content src="012-chapter012.xhtml#id-012.01"/>
+</navPoint>
+<navPoint id="navPoint-64" playOrder="64">
+<navLabel><text>Life of the Mint Master in London</text></navLabel><content src="012-chapter012.xhtml#id-012.02"/>
+</navPoint>
+<navPoint id="navPoint-65" playOrder="65">
+<navLabel><text>Intellectual Work Continues</text></navLabel><content src="012-chapter012.xhtml#id-012.03"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-66" playOrder="66">
+<navLabel><text>Royal Society</text></navLabel><content src="013-chapter013.xhtml#id-013"/>
+</navPoint>
+<navPoint id="navPoint-67" playOrder="67">
+<navLabel><text>Fight with Leibniz</text></navLabel><content src="014-chapter014.xhtml#id-014"/>
+<navPoint id="navPoint-68" playOrder="68">
+<navLabel><text>Catherine Conduitt</text></navLabel><content src="014-chapter014.xhtml#id-014.01"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-69" playOrder="69">
+<navLabel><text>Opticks </text></navLabel><content src="015-chapter015.xhtml#id-015"/>
+</navPoint>
+<navPoint id="navPoint-70" playOrder="70">
+<navLabel><text>Newton and Theology</text></navLabel><content src="016-chapter016.xhtml#id-016"/>
+</navPoint>
+<navPoint id="navPoint-71" playOrder="71">
+<navLabel><text>Decline and Death</text></navLabel><content src="017-chapter017.xhtml#id-017"/>
+</navPoint>
+<navPoint id="navPoint-72" playOrder="72">
+<navLabel><text>FURTHER READING </text></navLabel><content src="018-chapter018.xhtml#id-018-"/>
+</navPoint>
+<navPoint id="navPoint-73" playOrder="73">
+<navLabel><text>APPENDIX</text></navLabel><content src="019-chapter019.xhtml#id-019"/>
+<navPoint id="navPoint-74" playOrder="74">
+<navLabel><text>A: Newton - Chronology</text></navLabel><content src="019-chapter019.xhtml#id-019.01"/>
+</navPoint>
+<navPoint id="navPoint-75" playOrder="75">
+<navLabel><text>B - List of Sins Committed by Isaac Newton</text></navLabel><content src="019-chapter019.xhtml#id-019.02"/>
+<navPoint id="navPoint-76" playOrder="76">
+<navLabel><text>Before Whitsunday, 1662</text></navLabel><content src="019-chapter019.xhtml#id-019.02.01"/>
+</navPoint>
+<navPoint id="navPoint-77" playOrder="77">
+<navLabel><text>Since Whitsunday, 1662</text></navLabel><content src="019-chapter019.xhtml#id-019.02.02"/>
+</navPoint>
+<navPoint id="navPoint-78" playOrder="78">
+<navLabel><text>C: List of Lucasian Professors</text></navLabel><content src="019-chapter019.xhtml#id-019.02.03"/>
+</navPoint>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-79" playOrder="79">
+<navLabel><text>PART 2 Scientific Contributions of Isaac Newton</text></navLabel><content src="020-chapter020.xhtml#id-020"/>
+<navPoint id="navPoint-80" playOrder="80">
+<navLabel><text>1. Mechanics</text></navLabel><content src="020-chapter020.xhtml#id-020.01"/>
+<navPoint id="navPoint-81" playOrder="81">
+<navLabel><text>Definitions of Terms</text></navLabel><content src="020-chapter020.xhtml#id-020.01.01"/>
+</navPoint>
+<navPoint id="navPoint-82" playOrder="82">
+<navLabel><text>Space and Time</text></navLabel><content src="020-chapter020.xhtml#id-020.01.02"/>
+</navPoint>
+<navPoint id="navPoint-83" playOrder="83">
+<navLabel><text>Newton’s Laws of Motion</text></navLabel><content src="020-chapter020.xhtml#id-020.01.03"/>
+</navPoint>
+<navPoint id="navPoint-84" playOrder="84">
+<navLabel><text>Newton’s Law of Gravitation </text></navLabel><content src="020-chapter020.xhtml#id-020.01.04"/>
+</navPoint>
+<navPoint id="navPoint-85" playOrder="85">
+<navLabel><text>Newton’s Law of Universal Gravitation</text></navLabel><content src="020-chapter020.xhtml#id-020.01.05"/>
+</navPoint>
+<navPoint id="navPoint-86" playOrder="86">
+<navLabel><text>Consequences of Newton’s Law of Gravitation</text></navLabel><content src="020-chapter020.xhtml#id-020.01.06"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-87" playOrder="87">
+<navLabel><text>2. Mathematics</text></navLabel><content src="020-chapter020.xhtml#id-020.02"/>
+<navPoint id="navPoint-88" playOrder="88">
+<navLabel><text>Calculus</text></navLabel><content src="020-chapter020.xhtml#id-020.02.01"/>
+</navPoint>
+<navPoint id="navPoint-89" playOrder="89">
+<navLabel><text>Differential Calculus</text></navLabel><content src="020-chapter020.xhtml#id-020.02.02"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-90" playOrder="90">
+<navLabel><text>3. Other Contributions</text></navLabel><content src="020-chapter020.xhtml#id-020.03"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-91" playOrder="91">
+<navLabel><text>Albert Einstein</text></navLabel><content src="021-chapter021.xhtml#id-021"/>
+</navPoint>
+<navPoint id="navPoint-92" playOrder="92">
+<navLabel><text>Srinivasa Ramanujan </text></navLabel><content src="022-chapter022.xhtml#id-022"/>
+<navPoint id="navPoint-93" playOrder="93">
+<navLabel><text>SELECTED COMMENTS ON THE BOOK</text></navLabel><content src="023-chapter023.xhtml#id-023"/>
+</navPoint>
+</navPoint>
+   </navMap>
+</ncx>
