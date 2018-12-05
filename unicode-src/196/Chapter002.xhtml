@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:epub="http://www.idpf.org/2007/ops">
+<head>
+	<title>The Friend’s Quest</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css" />
+</head>
+<body class="maintext">
+	<section class="level1 numbered" epub:type="chapter" role="doc-chapter" id="id-p2">
+		<h1 class="level1-title" epub:type="title">Part 2<br />Mathematics of Ramanujan</h1>
+		<p class="text-center"><strong>Michael D. Hirschhorn</strong></p>
+	</section>
+	<section class="level1 numbered" epub:type="chapter" role="doc-chapter" id="id-p2.001">
+		<h1 class="level1-title" epub:type="title"><span class="num">1.</span>Introduction</h1>
+		<p>In this part Hirschhorn considers five examples of Ramanujan&#39;s work. It is emphasised that these examples are amongst the simplest things he did! It is felt that the material and the logic should be understood by a student who has studied some mathematics in any university. However, the High school students may be able to appreciate some of the portions.</p>
+	</section>
+	<section class="level1 numbered" epub:type="chapter" role="doc-chapter" id="id-p2.002">
+		<h1 class="level1-title" epub:type="title"><span class="num">2.</span>The taxicab number</h1>
+		<p>An anecdote told of Ramanujan, meant to show how "numbers were his best friends" concerns an occasion when Hardy came by taxicab to visit Ramanujan in a nursing home. Hardy reported that he came in cab number 1729, which he thought was a fairly dull number. Ramanujan said "No, Hardy, no, it is a very interesting number. It is the smallest number which is the sum of two cubes in two different ways."</p>
+		<p class="text-center">1729=10<sup>3</sup>+9<sup>3</sup>=12<sup>3</sup>+1.</p>
+		<p>In the last year of his life, when he had returned to India, Ramanujan continued to be very busy with mathematics. All we have left of his last year&#39;s work is 138 pages, called his "Lost Notebook". On one page of that notebook, Ramanujan wrote down a way of finding infinitely many sets of three numbers, a, b and c such that</p>
+		<p class="text-center">a<sup>3</sup>+b<sup>3</sup>=c<sup>3</sup>±1.</p>
+		<p>One example is a = 9, b =10, c =12.</p>
+		<p>The significance of this is that it had been known for about 100 years that you cannot have three numbers (by which I mean positive whole numbers, no two of which are equal) such that</p>
+		<p class="text-center">a<sup>3</sup>+b<sup>3</sup>=c<sup>3</sup>.</p>
+		<p>So the closest the sum of two cubes can be to a cube is 1 off, in either direction, and what Ramanujan showed is that this happens infinitely often!</p>
+		<p>This is what Ramanujan did, I believe. I discovered the steps he took by "working backwards". It was not easy.</p>
+		<p>Ramanujan started with an identity he discovered. We do not know, yet, the steps that led him to this identity, but it certainly depends on the fact, which you can easily check, that</p>
+		<p class="text-center">3<sup>3</sup>+4<sup>3</sup>+5<sup>3</sup>=6<sup>3</sup>.</p>
+		<p>The identity which we will start with is</p>
+		<p class="text-center">(3<i>a</i><sup>2</sup>+5<i>ab </i>-5<i>b</i><sup>2</sup> )<sup>3</sup>+(4<i>a</i><sup>2</sup>-4<i>ab </i>+6<i>b</i><sup>2</sup> )<sup>3</sup>+(5<i>a</i><sup>2</sup>-5<i>ab </i>-3<i>b</i><sup>2</sup> )<sup>3</sup>.</p>
+		<p class="text-center">=(6<i>a</i><sup>2</sup>-4<i>ab </i>+4<i>b</i><sup>2</sup>)<sup>3</sup>.</p>
+		<p>It is quite tedious to check this by hand! Both sides come out to be</p>
+		<p class="text-center">216<i>a</i><sup>6</sup>-432<i>a</i><sup>5</sup><i>b </i>+729<i>a</i><sup>4</sup><i>b</i><sup>2</sup>-640<i>a</i><sup>3</sup><i>b</i><sup>3</sup>+480<i>a</i><sup>2</sup><i>b</i><sup>4</sup> -192<i>ab</i><sup>5</sup>+64<i>b</i><sup>6</sup>.</p>
+		<p>I must emphasise that Ramanujan would not have discovered his identity this way. He would have had a procedure which led him to it. But all of this is lost, because he did all his working on a slate, and rubbed it all out before writing the identity in his notebook, which was meant for his eyes only.</p>
+		<p>So, anyway, what he probably did next (though we cannot be sure) is make the substitution</p>
+		<p class="text-center"><em>a=u+v,  b=u-2v</em></p>
+		<p>When you do this, this is what you get.</p>
+		<p class="text-center">3<i>a</i><sup>2</sup> + 5<i>ab </i>- 5<i>b</i><sup>2</sup> = 3<i>u </i><sup>2</sup> +21<i>uv </i>- 27<i>v</i><sup>2</sup><br /> 4<i>a</i><sup>2</sup> - 4<i>ab </i>+6<i>b</i><sup>2</sup> = 6<i>u</i><sup>2</sup> -12<i>uv </i>+36<i>v</i><sup>2</sup><br />5<i>a</i><sup>2</sup> - 5<i>ab </i>- 3<i>b</i><sup>2</sup> = -3<i>u </i><sup>2</sup> +27<i>uv </i>+3<i>v</i><sup>2</sup> , <i><br />and </i>6<i>a</i><sup>2</sup> - 4<i>ab </i>+4<i>b</i><sup>2</sup> = 6<i>u </i><sup>2</sup> +30<i>v</i><sup>2</sup></p>
+		<p>and so</p>
+		<p class="text-center">(3<i>u</i><sup>2</sup> + 21<i>uv </i>-27<i>v</i><sup>2</sup> )<sup>3</sup> + (6<i>u</i><sup>2</sup> -12<i>uv </i>+ 36<i>v</i><sup>2</sup> )<sup>3</sup> + (-3<i>u</i><sup>2</sup> + 27<i>uv </i>+ 3<i>v</i><sup>2</sup> )<sup>3</sup>
+			<br />=(6<i>u</i><sup>2</sup> + 30<i>v</i><sup>2</sup> )<sup>3</sup>.</p>
+			<p>Now, each term here is divisible by 3<sup>3</sup>, and if we divide by this, we find</p>
+			<p>(<i>u</i><sup>2</sup> + 7<i>uv </i>- 9<i>v</i><sup>2</sup> )<sup>3</sup>+ (2<i>u</i><sup>2</sup> - 4<i>uv </i>+12<i>v</i><sup>2</sup> )<sup>3</sup>=(2<i>u</i><sup>2</sup> +10<i>v</i><sup>2</sup> )<sup>3</sup>+ (<i>u</i><sup>2</sup> - 9<i>uv </i>- <i>v</i><sup>2</sup> )3,</p>
+			<p>where I have transposed a term to the right side.</p>
+			<p>All right, so now we take a deep breath, and look at a topic you may have heard of, and that is Fibonacci numbers. The Fibonacci numbers are usually defined as follows</p>
+			<p class="text-center"><i>F<sub>0</sub> =0, F<sub>1</sub> =1,F1 =1 and for n ≥ 2, F<sub>n</sub> =F<sub>n-1</sub> + F<sub>n-2</sub>.</i></p>
+			<p>In other words, the first two Fibonacci numbers are 0 and 1, and each subsequent Fibonacci number is the sum of the previous two. So we find that the sequence is</p>
+			<p class="text-center">0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233,⋯ .</p>
+			<p>Now, it is well--known that if you take three consecutive Fibonacci numbers,<em>F<sub>n-1</sub>,F<sub>n</sub></em> and <em>F<sub>n+1</sub>,</em> multiply the outer two and subtract the square of the central one, you get ±1. For example, if you choose 3,5 and 8, you find that 3×8-5<sup>2</sup>=-1, while if you choose 89, 144 and 233 you find that (check this!) 89 × 233 -144<sup>2</sup> = 1.</p>
+			<p>In general,</p>
+			<p class="text-center"><i>F</i><sub>n-1</sub><i>F</i><sub>n+1</sub> - <i>F </i><sub>n</sub><sup>2</sup> =(-1)<i><sup>n</sup></i>.</p>
+			<p>This fact can be proved by a method called "mathematical induction", or simply "induction", using the fact that</p>
+
+		</section>
+	</body>
+	</html>
