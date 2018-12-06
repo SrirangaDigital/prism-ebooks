@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns:ncx="http://www.daisy.org/z3986/2005/ncx/" xmlns="http://www.daisy.org/z3986/2005/ncx/"
+    version="2005-1" xml:lang="en">
+
+   <head>
+      <meta name="dtb:uid" content="urn:isbn:9789388478083"/>
+      <meta name="dtb:depth" content="1"/>
+      <meta name="dtb:totalPageCount" content="0"/>
+      <meta name="dtb:maxPageNumber" content="0"/>
+   </head>
+
+   <docTitle>
+      <text>Opening to Trust</text>
+   </docTitle>
+
+   <navMap>
+		
+<navPoint id="navPoint-1" playOrder="1">
+<navLabel><text>Title Page</text></navLabel><content src="000a-title.xhtml#id-000a"/>
+</navPoint>
+<navPoint id="navPoint-2" playOrder="2">
+<navLabel><text>Copyright Page</text></navLabel><content src="000b-copyright.xhtml#id-000b"/>
+</navPoint>
+<navPoint id="navPoint-3" playOrder="3">
+<navLabel><text>Acknowledgements</text></navLabel><content src="000d-Acknowledgements.xhtml#id-000d"/>
+</navPoint>
+<navPoint id="navPoint-4" playOrder="4">
+<navLabel><text>Foreword</text></navLabel><content src="000e-Foreword.xhtml#id-000e"/>
+</navPoint>
+<navPoint id="navPoint-5" playOrder="5">
+<navLabel><text>Introduction</text></navLabel><content src="000f-introduction.xhtml#id-000f"/>
+</navPoint>
+<navPoint id="navPoint-6" playOrder="6">
+<navLabel><text>The story of Athma Shakti Vidyalaya </text></navLabel><content src="001-chapter001.xhtml#id-001"/>
+</navPoint>
+<navPoint id="navPoint-7" playOrder="7">
+<navLabel><text>Mental Illness – an understanding </text></navLabel><content src="002-chapter002.xhtml#id-002"/>
+<navPoint id="navPoint-8" playOrder="8">
+<navLabel><text>The Shadowy World of Mental Illness </text></navLabel><content src="002-chapter002.xhtml#id-002.01"/>
+</navPoint>
+<navPoint id="navPoint-9" playOrder="9">
+<navLabel><text>Misery Opens to Joy </text></navLabel><content src="002-chapter002.xhtml#id-002.02"/>
+</navPoint>
+<navPoint id="navPoint-10" playOrder="10">
+<navLabel><text>Schizophrenia – a Social Illness in which we all share </text></navLabel><content src="002-chapter002.xhtml#id-002.03"/>
+</navPoint>
+<navPoint id="navPoint-11" playOrder="11">
+<navLabel><text>From a letter to a young lady wanting to understand schizophrenia </text></navLabel><content src="002-chapter002.xhtml#id-002.04"/>
+</navPoint>
+<navPoint id="navPoint-12" playOrder="12">
+<navLabel><text>Questions Looking for Answers </text></navLabel><content src="002-chapter002.xhtml#id-002.05"/>
+</navPoint>
+<navPoint id="navPoint-13" playOrder="13">
+<navLabel><text>Mental Health - a concern </text></navLabel><content src="002-chapter002.xhtml#id-002.06"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-14" playOrder="14">
+<navLabel><text>Part-III  – Process</text></navLabel><content src="003-chapter003.xhtml#id-003"/>
+<navPoint id="navPoint-15" playOrder="15">
+<navLabel><text>a. On Concepts in Therapy</text></navLabel><content src="003-chapter003.xhtml#id-003.01"/>
+<navPoint id="navPoint-16" playOrder="16">
+<navLabel><text>Treatment process at ASV paper presented at the 20th year celebrations.</text></navLabel><content src="003-chapter003.xhtml#id-003.01.1"/>
+</navPoint>
+<navPoint id="navPoint-17" playOrder="17">
+<navLabel><text>Language of TA -Transactional Analysis </text></navLabel><content src="003-chapter003.xhtml#id-003.01.2"/>
+</navPoint>
+<navPoint id="navPoint-18" playOrder="18">
+<navLabel><text>Paper on Somatopsychic Approaches for the Rehabilitation of Schizophrenics </text></navLabel><content src="003-chapter003.xhtml#id-003.01.3"/>
+</navPoint>
+<navPoint id="navPoint-19" playOrder="19">
+<navLabel><text>Shifting…Differentiation.... Awareness… Consciousness…. </text></navLabel><content src="003-chapter003.xhtml#id-003.01.4"/>
+</navPoint>
+<navPoint id="navPoint-20" playOrder="20">
+<navLabel><text>Blocks to Thinking </text></navLabel><content src="003-chapter003.xhtml#id-003.01.5"/>
+</navPoint>
+<navPoint id="navPoint-21" playOrder="21">
+<navLabel><text>Ego Consciousness </text></navLabel><content src="003-chapter003.xhtml#id-003.01.6"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-22" playOrder="22">
+<navLabel><text>b. Communities</text></navLabel><content src="003-chapter003.xhtml#id-003.02"/>
+<navPoint id="navPoint-23" playOrder="23">
+<navLabel><text>Healing Communities</text></navLabel><content src="003-chapter003.xhtml#id-003.02.1"/>
+</navPoint>
+<navPoint id="navPoint-24" playOrder="24">
+<navLabel><text>Personal Attachments in Communities </text></navLabel><content src="003-chapter003.xhtml#id-003.02.2"/>
+</navPoint>
+<navPoint id="navPoint-25" playOrder="25">
+<navLabel><text>Learning to live an appreciable and appreciated life in this Therapeutic Community </text></navLabel><content src="003-chapter003.xhtml#id-003.02.3"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-26" playOrder="26">
+<navLabel><text>c. Reflections</text></navLabel><content src="003-chapter003.xhtml#id-003.03"/>
+<navPoint id="navPoint-27" playOrder="27">
+<navLabel><text>Starting from various words </text></navLabel><content src="003-chapter003.xhtml#id-003.03.1"/>
+</navPoint>
+<navPoint id="navPoint-28" playOrder="28">
+<navLabel><text>Thoughts on Training </text></navLabel><content src="003-chapter003.xhtml#id-003.03.2"/>
+</navPoint>
+<navPoint id="navPoint-29" playOrder="29">
+<navLabel><text>Questions to keep me looking at possibilities or for possibilities </text></navLabel><content src="003-chapter003.xhtml#id-003.03.3"/>
+</navPoint>
+<navPoint id="navPoint-30" playOrder="30">
+<navLabel><text>Points that need to be considered </text></navLabel><content src="003-chapter003.xhtml#id-003.03.4"/>
+</navPoint>
+<navPoint id="navPoint-31" playOrder="31">
+<navLabel><text>A set of Questions </text></navLabel><content src="003-chapter003.xhtml#id-003.03.5"/>
+</navPoint>
+<navPoint id="navPoint-32" playOrder="32">
+<navLabel><text>Complexities in the Human Personality </text></navLabel><content src="003-chapter003.xhtml#id-003.03.6"/>
+</navPoint>
+<navPoint id="navPoint-33" playOrder="33">
+<navLabel><text>Notes – 28.09.08 </text></navLabel><content src="003-chapter003.xhtml#id-003.03.7"/>
+</navPoint>
+<navPoint id="navPoint-34" playOrder="34">
+<navLabel><text>What I see as special in ASV </text></navLabel><content src="003-chapter003.xhtml#id-003.03.8"/>
+</navPoint>
+<navPoint id="navPoint-35" playOrder="35">
+<navLabel><text>Some process of spreading Responsibility </text></navLabel><content src="003-chapter003.xhtml#id-003.03.9"/>
+</navPoint>
+<navPoint id="navPoint-36" playOrder="36">
+<navLabel><text>Reflecting on self and others </text></navLabel><content src="003-chapter003.xhtml#id-003.03.10"/>
+</navPoint>
+<navPoint id="navPoint-37" playOrder="37">
+<navLabel><text>The Spiritual Dimensions of Rehabilitation </text></navLabel><content src="003-chapter003.xhtml#id-003.03.11"/>
+</navPoint>
+<navPoint id="navPoint-38" playOrder="38">
+<navLabel><text>Authenticity </text></navLabel><content src="003-chapter003.xhtml#id-003.03.12"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-39" playOrder="39">
+<navLabel><text>d. Talks from Training Programs Frame of Reference </text></navLabel><content src="003-chapter003.xhtml#id-003.04"/>
+<navPoint id="navPoint-40" playOrder="40">
+<navLabel><text>Discounting </text></navLabel><content src="003-chapter003.xhtml#id-003.04.1"/>
+</navPoint>
+<navPoint id="navPoint-41" playOrder="41">
+<navLabel><text>Training Program – Voice recording 001 date : Nov 8, 2003 </text></navLabel><content src="003-chapter003.xhtml#id-003.04.2"/>
+</navPoint>
+<navPoint id="navPoint-42" playOrder="42">
+<navLabel><text>Training Program - Voice recording 007 </text></navLabel><content src="003-chapter003.xhtml#id-003.04.3"/>
+</navPoint>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-43" playOrder="43">
+<navLabel><text>Part - IV Letters to Parents </text></navLabel><content src="004-chapter004.xhtml#id-004"/>
+</navPoint>
+<navPoint id="navPoint-44" playOrder="44">
+<navLabel><text>Part - V Kids Maria Sundar Mangala Fr.George</text></navLabel><content src="005-chapter005.xhtml#id-005"/>
+<navPoint id="navPoint-45" playOrder="45">
+<navLabel><text>Directive therapy sessions I have had with kids </text></navLabel><content src="005-chapter005.xhtml#id-005.01"/>
+</navPoint>
+<navPoint id="navPoint-46" playOrder="46">
+<navLabel><text>Sundar</text></navLabel><content src="005-chapter005.xhtml#id-005.02"/>
+</navPoint>
+<navPoint id="navPoint-47" playOrder="47">
+<navLabel><text>Mangala</text></navLabel><content src="005-chapter005.xhtml#id-005.03"/>
+</navPoint>
+<navPoint id="navPoint-48" playOrder="48">
+<navLabel><text>Fr. George</text></navLabel><content src="005-chapter005.xhtml#id-005.04"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-49" playOrder="49">
+<navLabel><text>Part - VI Hope for the Future</text></navLabel><content src="006-chapter006.xhtml#id-006"/>
+<navPoint id="navPoint-50" playOrder="50">
+<navLabel><text>Summary</text></navLabel><content src="006-chapter006.xhtml#id-006.01"/>
+</navPoint>
+<navPoint id="navPoint-51" playOrder="51">
+<navLabel><text>We Came</text></navLabel><content src="006-chapter006.xhtml#id-006.02"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-52" playOrder="52">
+<navLabel><text>Bibliography</text></navLabel><content src="007-chapter007.xhtml#id-007"/>
+</navPoint>
+   </navMap>
+</ncx>

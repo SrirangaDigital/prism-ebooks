@@ -19,7 +19,7 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilitySummary">The publication is missing alternative text for complex diagrams.</meta>
 		<meta property="schema:accessibilityAPI">ARIA</meta>
-		<meta property="dcterms:modified">2018-12-04T12:49:03Z</meta>
+		<meta property="dcterms:modified">2018-12-03T16:48:19Z</meta>
 	</metadata>
 	<manifest>
 		<item id="id-000a-title_xhtml" href="000a-title.xhtml" media-type="application/xhtml+xml" />
