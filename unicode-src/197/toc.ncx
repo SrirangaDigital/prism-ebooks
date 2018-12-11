@@ -31,10 +31,10 @@
 <navLabel><text>Introduction</text></navLabel><content src="000f-introduction.xhtml#id-000f"/>
 </navPoint>
 <navPoint id="navPoint-6" playOrder="6">
-<navLabel><text>The story of Athma Shakti Vidyalaya </text></navLabel><content src="001-chapter001.xhtml#id-001"/>
+<navLabel><text>Part-I  – The story of Athma Shakti Vidyalaya </text></navLabel><content src="001-chapter001.xhtml#id-001"/>
 </navPoint>
 <navPoint id="navPoint-7" playOrder="7">
-<navLabel><text>Mental Illness – an understanding </text></navLabel><content src="002-chapter002.xhtml#id-002"/>
+<navLabel><text>Part-II  –  Mental Illness – an understanding </text></navLabel><content src="002-chapter002.xhtml#id-002"/>
 <navPoint id="navPoint-8" playOrder="8">
 <navLabel><text>The Shadowy World of Mental Illness </text></navLabel><content src="002-chapter002.xhtml#id-002.01"/>
 </navPoint>
@@ -129,46 +129,49 @@
 </navPoint>
 </navPoint>
 <navPoint id="navPoint-39" playOrder="39">
-<navLabel><text>d. Talks from Training Programs Frame of Reference </text></navLabel><content src="003-chapter003.xhtml#id-003.04"/>
+<navLabel><text>d. Talks from Training Programs </text></navLabel><content src="003-chapter003.xhtml#id-003.04"/>
 <navPoint id="navPoint-40" playOrder="40">
-<navLabel><text>Discounting </text></navLabel><content src="003-chapter003.xhtml#id-003.04.1"/>
+<navLabel><text>Frame of Reference</text></navLabel><content src="003-chapter003.xhtml#id-003.04.1"/>
 </navPoint>
 <navPoint id="navPoint-41" playOrder="41">
-<navLabel><text>Training Program – Voice recording 001 date : Nov 8, 2003 </text></navLabel><content src="003-chapter003.xhtml#id-003.04.2"/>
+<navLabel><text>Discounting </text></navLabel><content src="003-chapter003.xhtml#id-003.04.2"/>
 </navPoint>
 <navPoint id="navPoint-42" playOrder="42">
-<navLabel><text>Training Program - Voice recording 007 </text></navLabel><content src="003-chapter003.xhtml#id-003.04.3"/>
-</navPoint>
-</navPoint>
+<navLabel><text>Training Program – Voice recording 001 date : Nov 8, 2003 </text></navLabel><content src="003-chapter003.xhtml#id-003.04.3"/>
 </navPoint>
 <navPoint id="navPoint-43" playOrder="43">
-<navLabel><text>Part - IV Letters to Parents </text></navLabel><content src="004-chapter004.xhtml#id-004"/>
+<navLabel><text>Training Program - Voice recording 007 </text></navLabel><content src="003-chapter003.xhtml#id-003.04.4"/>
+</navPoint>
+</navPoint>
 </navPoint>
 <navPoint id="navPoint-44" playOrder="44">
-<navLabel><text>Part - V Kids Maria Sundar Mangala Fr.George</text></navLabel><content src="005-chapter005.xhtml#id-005"/>
+<navLabel><text>Part - IV  – Letters to Parents </text></navLabel><content src="004-chapter004.xhtml#id-004"/>
+</navPoint>
 <navPoint id="navPoint-45" playOrder="45">
+<navLabel><text>Part - V –  Kids</text></navLabel><content src="005-chapter005.xhtml#id-005"/>
+<navPoint id="navPoint-46" playOrder="46">
 <navLabel><text>Directive therapy sessions I have had with kids </text></navLabel><content src="005-chapter005.xhtml#id-005.01"/>
 </navPoint>
-<navPoint id="navPoint-46" playOrder="46">
+<navPoint id="navPoint-47" playOrder="47">
 <navLabel><text>Sundar</text></navLabel><content src="005-chapter005.xhtml#id-005.02"/>
 </navPoint>
-<navPoint id="navPoint-47" playOrder="47">
+<navPoint id="navPoint-48" playOrder="48">
 <navLabel><text>Mangala</text></navLabel><content src="005-chapter005.xhtml#id-005.03"/>
 </navPoint>
-<navPoint id="navPoint-48" playOrder="48">
+<navPoint id="navPoint-49" playOrder="49">
 <navLabel><text>Fr. George</text></navLabel><content src="005-chapter005.xhtml#id-005.04"/>
 </navPoint>
 </navPoint>
-<navPoint id="navPoint-49" playOrder="49">
-<navLabel><text>Part - VI Hope for the Future</text></navLabel><content src="006-chapter006.xhtml#id-006"/>
 <navPoint id="navPoint-50" playOrder="50">
+<navLabel><text>Part - VI –  Hope for the Future</text></navLabel><content src="006-chapter006.xhtml#id-006"/>
+<navPoint id="navPoint-51" playOrder="51">
 <navLabel><text>Summary</text></navLabel><content src="006-chapter006.xhtml#id-006.01"/>
 </navPoint>
-<navPoint id="navPoint-51" playOrder="51">
+<navPoint id="navPoint-52" playOrder="52">
 <navLabel><text>We Came</text></navLabel><content src="006-chapter006.xhtml#id-006.02"/>
 </navPoint>
 </navPoint>
-<navPoint id="navPoint-52" playOrder="52">
+<navPoint id="navPoint-53" playOrder="53">
 <navLabel><text>Bibliography</text></navLabel><content src="007-chapter007.xhtml#id-007"/>
 </navPoint>
    </navMap>
