@@ -1,29 +1,61 @@
 @font-face {
-  font-family: 'AdobeDevanagari';
-  font-style: normal;
-  src: url('AdobeDevanagari-Regular.otf');
+	font-family:"Adobe Garamond Pro";
+	font-style:normal;
+	font-weight:normal;
+	src : url("AGaramondPro-Regular.otf");
 }
 @font-face {
-  font-family: 'AdobeDevanagari';
-  font-style: italic;
-  src: url('AdobeDevanagari-Italic.otf');
+	font-family:Georgia;
+	font-style:normal;
+	font-weight:normal;
+	src : url("Georgia.ttf");
 }
 @font-face {
-  font-family: 'AdobeDevanagari';
-  font-style: normal;
-  font-weight: bold;
-  src: url('AdobeDevanagari-Bold.otf');
+	font-family:Georgia;
+	font-style:normal;
+	font-weight:bold;
+	src : url("Georgia-Bold.ttf");
 }
 @font-face {
-  font-family: 'AdobeDevanagari';
-  font-style: italic;
-  font-weight: bold;
-  src: url('AdobeDevanagari-BoldItalic.otf');
+	font-family:Georgia;
+	font-style:italic;
+	font-weight:normal;
+	src : url("Georgia-Italic.ttf");
+}
+@font-face {
+	font-family:Georgia;
+	font-style:oblique;
+	font-weight:normal;
+	src : url("Georgia-Italic.ttf");
+}
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
+	margin:0;
+	padding:0;
+	border-width:0;
+}
+td, th {
+	border-style:none;
+	border-width:1px;
+}
+table {
+	border-collapse:none;
+}
+li {
+	display:block;
 }
 body {
-	font-family: "AdobeDevanagari", sans-serif; 	
-	font-size: 1em;
-	box-sizing: border-box;
+	-epub-hyphens:auto;
+	-webkit-hyphens:auto;
+}
+@page {
+	margin : 0px 0px 0px 0px;
+}
+table.Basic-Table {
+	border-color:#000000;
+	border-style:none;
+	border-width:1px;
+	margin-bottom:-4px;
+	margin-top:4px;
 }
 .maintext section {
 	margin-bottom: 2em;
@@ -32,15 +64,40 @@ body {
 	page-break-before: always;
 }
 .maintext h1.level1-title {
-	font-size: 2em;
-	color: #0277BD;
-	font-weight: normal;
-	line-height: 1.2em;
+	break-before:page;
+	color:#000000;
+	font-family:Georgia, serif;
+	font-size:1.667em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.2;
+	margin-bottom:25px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:7%;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0px;
 }
 .maintext h2.level2-title {
-	font-size: 1.5em;
-	font-weight: normal;
-	margin-bottom: 0;
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:Georgia, serif;
+	font-size:1.167em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.2;
+	margin-bottom:4px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:18px;
+	margin-bottom:8px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
 }
 .maintext h2.article-author {
 	font-size: 1.5em;
@@ -65,6 +122,32 @@ body {
 .maintext h5.para-title {
 	font-size: 1em;
 	margin-bottom: 0;
+}
+.maintext p {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:Georgia, serif;
+	font-size:0.917em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:4px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:0px;
+	margin-bottom:5px;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:10px;
+	orphans:2;
+	widows:2;
+}
+.maintext p .no-indent{
+	text-indent:0px !important;
+	orphans:2;
+	widows:2;
 }
 .maintext h5.para-title+p {
 	margin-top: 0;
@@ -231,6 +314,9 @@ body {
 }
 .maintext table.custom-striped tr td:nth-child(even){
 	background: #F0F0F0;
+}
+table {
+	border-collapse:none;
 }
 .maintext small, .titlepage small {
 	font-size: 0.65em;
