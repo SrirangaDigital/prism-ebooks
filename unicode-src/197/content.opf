@@ -19,7 +19,7 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilitySummary">The publication is missing alternative text for complex diagrams.</meta>
 		<meta property="schema:accessibilityAPI">ARIA</meta>
-		<meta property="dcterms:modified">2018-12-11T13:19:08Z</meta>
+		<meta property="dcterms:modified">2019-01-12T18:26:13Z</meta>
 	</metadata>
 	<manifest>
 		<item id="id-000a-title_xhtml" href="000a-title.xhtml" media-type="application/xhtml+xml" />
@@ -35,10 +35,20 @@
 		<item id="id-005-chapter005_xhtml" href="005-chapter005.xhtml" media-type="application/xhtml+xml" />
 		<item id="id-006-chapter006_xhtml" href="006-chapter006.xhtml" media-type="application/xhtml+xml" />
 		<item id="id-007-chapter007_xhtml" href="007-chapter007.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-css_AGaramondPro-Regular_otf" href="css/AGaramondPro-Regular.otf" media-type="application/vnd.ms-opentype" />
 		<item id="id-css_AdobeDevanagari-Bold_otf" href="css/AdobeDevanagari-Bold.otf" media-type="application/vnd.ms-opentype" />
 		<item id="id-css_AdobeDevanagari-BoldItalic_otf" href="css/AdobeDevanagari-BoldItalic.otf" media-type="application/vnd.ms-opentype" />
 		<item id="id-css_AdobeDevanagari-Italic_otf" href="css/AdobeDevanagari-Italic.otf" media-type="application/vnd.ms-opentype" />
 		<item id="id-css_AdobeDevanagari-Regular_otf" href="css/AdobeDevanagari-Regular.otf" media-type="application/vnd.ms-opentype" />
+		<item id="id-css_BookAntiqua_ttf" href="css/BookAntiqua.ttf" media-type="application/vnd.ms-opentype" />
+		<item id="id-css_Georgia-Bold_ttf" href="css/Georgia-Bold.ttf" media-type="application/vnd.ms-opentype" />
+		<item id="id-css_Georgia-Italic_ttf" href="css/Georgia-Italic.ttf" media-type="application/vnd.ms-opentype" />
+		<item id="id-css_Georgia_ttf" href="css/Georgia.ttf" media-type="application/vnd.ms-opentype" />
+		<item id="id-css_IndianRupee-Regular_ttf" href="css/IndianRupee-Regular.ttf" media-type="application/vnd.ms-opentype" />
+		<item id="id-css_MinionPro-It_otf" href="css/MinionPro-It.otf" media-type="application/vnd.ms-opentype" />
+		<item id="id-css_MinionPro-Regular_otf" href="css/MinionPro-Regular.otf" media-type="application/vnd.ms-opentype" />
+		<item id="id-css_PalatinoLinotype-Bold_ttf" href="css/PalatinoLinotype-Bold.ttf" media-type="application/vnd.ms-opentype" />
+		<item id="id-css_PalatinoLinotype-Roman_ttf" href="css/PalatinoLinotype-Roman.ttf" media-type="application/vnd.ms-opentype" />
 		<item id="id-css_style_css" href="css/style.css" media-type="text/css" />
 		<item id="id-images_0001_jpg" href="images/0001.jpg" media-type="image/jpeg" />
 		<item id="id-images_0002_jpg" href="images/0002.jpg" media-type="image/jpeg" />
