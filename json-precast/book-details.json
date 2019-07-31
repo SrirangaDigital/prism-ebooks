@@ -4175,6 +4175,18 @@
             "publisher": "Prism Books Pvt. Ltd.",
             "page": "168",
             "description": ""
+        },
+        "351": {
+            "language": "English",
+            "identifier": "prism-ebooks/351",
+            "isbn": "9388478290",
+            "title": "Powerful Dialogues",
+            "creators": {
+                "author": "Shobha Managoli"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "128",
+            "description": ""
         }
     }
 }
