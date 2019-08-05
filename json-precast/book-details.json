@@ -4187,6 +4187,18 @@
             "publisher": "Prism Books Pvt. Ltd.",
             "page": "128",
             "description": ""
+         },
+        "352": {
+            "language": "English",
+            "identifier": "prism-ebooks/352",
+            "isbn": "",
+            "title": "Poorna",
+            "creators": {
+                "author": "Aparna Thota"
+            },
+            "publisher": "Prism Books Pvt. Ltd.",
+            "page": "216",
+            "description": ""
         }
     }
 }
