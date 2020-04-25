@@ -4,6 +4,7 @@
 		<dc:title>Surya Namaskara with Pranayama, Mudras &#38; Bandha and Accupressure</dc:title>
 		<dc:language>English</dc:language>
 		<dc:identifier id="isbn">urn:isbn:9789386506894</dc:identifier>
+		<dc:description>Surya Namaskara is undoubtedly a complete solution for one's psychosomatic - body and mind well-being. It de-stresses the mind and strengthens the circulatory, respiratory, digestive, excretory, reproductive, nervous and endocrine systems.</dc:description>
 		
 		<dc:creator id="author1">Rajendra Damodara Yenkannamoole</dc:creator>
 		<meta refines="#author1" property="role" scheme="marc:relators">aut</meta>    
@@ -19,7 +20,7 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilitySummary">The publication is missing alternative text for complex diagrams.</meta>
 		<meta property="schema:accessibilityAPI">ARIA</meta>
-		<meta property="dcterms:modified">2020-04-22T10:19:28Z</meta>
+		<meta property="dcterms:modified">2020-04-25T16:43:54Z</meta>
 	</metadata>
 	<manifest>
 		<item id="id-000a-title_xhtml" href="000a-title.xhtml" media-type="application/xhtml+xml" />
@@ -49,10 +50,6 @@
 		<item id="id-images_002_jpg" href="images/002.jpg" media-type="image/jpeg" />
 		<item id="id-images_003_jpg" href="images/003.jpg" media-type="image/jpeg" />
 		<item id="id-images_004_jpg" href="images/004.jpg" media-type="image/jpeg" />
-		<item id="id-images_005_jpg" href="images/005.jpg" media-type="image/jpeg" />
-		<item id="id-images_006_jpg" href="images/006.jpg" media-type="image/jpeg" />
-		<item id="id-images_007_jpg" href="images/007.jpg" media-type="image/jpeg" />
-		<item id="id-images_008_jpg" href="images/008.jpg" media-type="image/jpeg" />
 		<item id="id-images_009_jpg" href="images/009.jpg" media-type="image/jpeg" />
 		<item id="id-images_010_jpg" href="images/010.jpg" media-type="image/jpeg" />
 		<item id="id-images_011_jpg" href="images/011.jpg" media-type="image/jpeg" />
@@ -72,7 +69,6 @@
 		<item id="id-images_025_jpg" href="images/025.jpg" media-type="image/jpeg" />
 		<item id="id-images_026_jpg" href="images/026.jpg" media-type="image/jpeg" />
 		<item id="id-images_027_jpg" href="images/027.jpg" media-type="image/jpeg" />
-		<item id="id-images_028_jpg" href="images/028.jpg" media-type="image/jpeg" />
 		<item id="id-images_029_jpg" href="images/029.jpg" media-type="image/jpeg" />
 		<item id="id-images_030_jpg" href="images/030.jpg" media-type="image/jpeg" />
 		<item id="id-images_031_jpg" href="images/031.jpg" media-type="image/jpeg" />
@@ -89,17 +85,8 @@
 		<item id="id-images_042_jpg" href="images/042.jpg" media-type="image/jpeg" />
 		<item id="id-images_043_jpg" href="images/043.jpg" media-type="image/jpeg" />
 		<item id="id-images_044_jpg" href="images/044.jpg" media-type="image/jpeg" />
-		<item id="id-images_045_jpg" href="images/045.jpg" media-type="image/jpeg" />
-		<item id="id-images_046_jpg" href="images/046.jpg" media-type="image/jpeg" />
-		<item id="id-images_047_jpg" href="images/047.jpg" media-type="image/jpeg" />
-		<item id="id-images_048_jpg" href="images/048.jpg" media-type="image/jpeg" />
 		<item id="id-images_049_jpg" href="images/049.jpg" media-type="image/jpeg" />
 		<item id="id-images_050_jpg" href="images/050.jpg" media-type="image/jpeg" />
-		<item id="id-images_051_jpg" href="images/051.jpg" media-type="image/jpeg" />
-		<item id="id-images_052_jpg" href="images/052.jpg" media-type="image/jpeg" />
-		<item id="id-images_053_jpg" href="images/053.jpg" media-type="image/jpeg" />
-		<item id="id-images_054_jpg" href="images/054.jpg" media-type="image/jpeg" />
-		<item id="id-images_055_jpg" href="images/055.jpg" media-type="image/jpeg" />
 		<item id="id-images_056_jpg" href="images/056.jpg" media-type="image/jpeg" />
 		<item id="id-images_057_jpg" href="images/057.jpg" media-type="image/jpeg" />
 		<item id="id-images_058_jpg" href="images/058.jpg" media-type="image/jpeg" />
@@ -148,10 +135,8 @@
 		<item id="id-images_101_jpg" href="images/101.jpg" media-type="image/jpeg" />
 		<item id="id-images_102_jpg" href="images/102.jpg" media-type="image/jpeg" />
 		<item id="id-images_103_jpg" href="images/103.jpg" media-type="image/jpeg" />
-		<item id="id-images_104_jpg" href="images/104.jpg" media-type="image/jpeg" />
 		<item id="id-images_105_jpg" href="images/105.jpg" media-type="image/jpeg" />
 		<item id="id-images_106_jpg" href="images/106.jpg" media-type="image/jpeg" />
-		<item id="id-images_107_jpg" href="images/107.jpg" media-type="image/jpeg" />
 		<item id="id-images_108_jpg" href="images/108.jpg" media-type="image/jpeg" />
 		<item id="id-images_108a_jpg" href="images/108a.jpg" media-type="image/jpeg" />
 		<item id="id-images_109_jpg" href="images/109.jpg" media-type="image/jpeg" />
@@ -171,7 +156,77 @@
 		<item id="id-images_122_jpg" href="images/122.jpg" media-type="image/jpeg" />
 		<item id="id-images_123_jpg" href="images/123.jpg" media-type="image/jpeg" />
 		<item id="id-images_124_jpg" href="images/124.jpg" media-type="image/jpeg" />
+		<item id="id-images_chap1-prefig_jpg" href="images/chap1-prefig.jpg" media-type="image/jpeg" />
+		<item id="id-images_chap2-prefig_jpg" href="images/chap2-prefig.jpg" media-type="image/jpeg" />
+		<item id="id-images_chap3-prefig_jpg" href="images/chap3-prefig.jpg" media-type="image/jpeg" />
+		<item id="id-images_chap4-prefig_jpg" href="images/chap4-prefig.jpg" media-type="image/jpeg" />
 		<item properties="cover-image" id="id-images_cover_jpg" href="images/cover.jpg" media-type="image/jpeg" />
+		<item id="id-images_prefig1_jpg" href="images/prefig1.jpg" media-type="image/jpeg" />
+		<item id="id-images_prefig2_jpg" href="images/prefig2.jpg" media-type="image/jpeg" />
+		<item id="id-images_qr1_jpg" href="images/qr1.jpg" media-type="image/jpeg" />
+		<item id="id-images_qr10_jpg" href="images/qr10.jpg" media-type="image/jpeg" />
+		<item id="id-images_qr11_jpg" href="images/qr11.jpg" media-type="image/jpeg" />
+		<item id="id-images_qr12_jpg" href="images/qr12.jpg" media-type="image/jpeg" />
+		<item id="id-images_qr13_jpg" href="images/qr13.jpg" media-type="image/jpeg" />
+		<item id="id-images_qr14_jpg" href="images/qr14.jpg" media-type="image/jpeg" />
+		<item id="id-images_qr15_jpg" href="images/qr15.jpg" media-type="image/jpeg" />
+		<item id="id-images_qr16_jpg" href="images/qr16.jpg" media-type="image/jpeg" />
+		<item id="id-images_qr17_jpg" href="images/qr17.jpg" media-type="image/jpeg" />
+		<item id="id-images_qr18_jpg" href="images/qr18.jpg" media-type="image/jpeg" />
+		<item id="id-images_qr19_jpg" href="images/qr19.jpg" media-type="image/jpeg" />
+		<item id="id-images_qr2_jpg" href="images/qr2.jpg" media-type="image/jpeg" />
+		<item id="id-images_qr20_jpg" href="images/qr20.jpg" media-type="image/jpeg" />
+		<item id="id-images_qr21_jpg" href="images/qr21.jpg" media-type="image/jpeg" />
+		<item id="id-images_qr22_jpg" href="images/qr22.jpg" media-type="image/jpeg" />
+		<item id="id-images_qr23_jpg" href="images/qr23.jpg" media-type="image/jpeg" />
+		<item id="id-images_qr24_jpg" href="images/qr24.jpg" media-type="image/jpeg" />
+		<item id="id-images_qr25_jpg" href="images/qr25.jpg" media-type="image/jpeg" />
+		<item id="id-images_qr26_jpg" href="images/qr26.jpg" media-type="image/jpeg" />
+		<item id="id-images_qr27_jpg" href="images/qr27.jpg" media-type="image/jpeg" />
+		<item id="id-images_qr28_jpg" href="images/qr28.jpg" media-type="image/jpeg" />
+		<item id="id-images_qr29_jpg" href="images/qr29.jpg" media-type="image/jpeg" />
+		<item id="id-images_qr3_jpg" href="images/qr3.jpg" media-type="image/jpeg" />
+		<item id="id-images_qr30_jpg" href="images/qr30.jpg" media-type="image/jpeg" />
+		<item id="id-images_qr31_jpg" href="images/qr31.jpg" media-type="image/jpeg" />
+		<item id="id-images_qr32_jpg" href="images/qr32.jpg" media-type="image/jpeg" />
+		<item id="id-images_qr33_jpg" href="images/qr33.jpg" media-type="image/jpeg" />
+		<item id="id-images_qr34_jpg" href="images/qr34.jpg" media-type="image/jpeg" />
+		<item id="id-images_qr35_jpg" href="images/qr35.jpg" media-type="image/jpeg" />
+		<item id="id-images_qr36_jpg" href="images/qr36.jpg" media-type="image/jpeg" />
+		<item id="id-images_qr37_jpg" href="images/qr37.jpg" media-type="image/jpeg" />
+		<item id="id-images_qr38_jpg" href="images/qr38.jpg" media-type="image/jpeg" />
+		<item id="id-images_qr39_jpg" href="images/qr39.jpg" media-type="image/jpeg" />
+		<item id="id-images_qr4_jpg" href="images/qr4.jpg" media-type="image/jpeg" />
+		<item id="id-images_qr40_jpg" href="images/qr40.jpg" media-type="image/jpeg" />
+		<item id="id-images_qr41_jpg" href="images/qr41.jpg" media-type="image/jpeg" />
+		<item id="id-images_qr42_jpg" href="images/qr42.jpg" media-type="image/jpeg" />
+		<item id="id-images_qr43_jpg" href="images/qr43.jpg" media-type="image/jpeg" />
+		<item id="id-images_qr44_jpg" href="images/qr44.jpg" media-type="image/jpeg" />
+		<item id="id-images_qr45_jpg" href="images/qr45.jpg" media-type="image/jpeg" />
+		<item id="id-images_qr46_jpg" href="images/qr46.jpg" media-type="image/jpeg" />
+		<item id="id-images_qr47_jpg" href="images/qr47.jpg" media-type="image/jpeg" />
+		<item id="id-images_qr48_jpg" href="images/qr48.jpg" media-type="image/jpeg" />
+		<item id="id-images_qr49_jpg" href="images/qr49.jpg" media-type="image/jpeg" />
+		<item id="id-images_qr5_jpg" href="images/qr5.jpg" media-type="image/jpeg" />
+		<item id="id-images_qr50_jpg" href="images/qr50.jpg" media-type="image/jpeg" />
+		<item id="id-images_qr51_jpg" href="images/qr51.jpg" media-type="image/jpeg" />
+		<item id="id-images_qr52_jpg" href="images/qr52.jpg" media-type="image/jpeg" />
+		<item id="id-images_qr53_jpg" href="images/qr53.jpg" media-type="image/jpeg" />
+		<item id="id-images_qr54_jpg" href="images/qr54.jpg" media-type="image/jpeg" />
+		<item id="id-images_qr55_jpg" href="images/qr55.jpg" media-type="image/jpeg" />
+		<item id="id-images_qr56_jpg" href="images/qr56.jpg" media-type="image/jpeg" />
+		<item id="id-images_qr57_jpg" href="images/qr57.jpg" media-type="image/jpeg" />
+		<item id="id-images_qr58_jpg" href="images/qr58.jpg" media-type="image/jpeg" />
+		<item id="id-images_qr59_jpg" href="images/qr59.jpg" media-type="image/jpeg" />
+		<item id="id-images_qr6_jpg" href="images/qr6.jpg" media-type="image/jpeg" />
+		<item id="id-images_qr60_jpg" href="images/qr60.jpg" media-type="image/jpeg" />
+		<item id="id-images_qr61_jpg" href="images/qr61.jpg" media-type="image/jpeg" />
+		<item id="id-images_qr62_jpg" href="images/qr62.jpg" media-type="image/jpeg" />
+		<item id="id-images_qr63_jpg" href="images/qr63.jpg" media-type="image/jpeg" />
+		<item id="id-images_qr64_jpg" href="images/qr64.jpg" media-type="image/jpeg" />
+		<item id="id-images_qr7_jpg" href="images/qr7.jpg" media-type="image/jpeg" />
+		<item id="id-images_qr8_jpg" href="images/qr8.jpg" media-type="image/jpeg" />
+		<item id="id-images_qr9_jpg" href="images/qr9.jpg" media-type="image/jpeg" />
 		<item id="id-toc_ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
 		<item properties="nav" id="id-toc_xhtml" href="toc.xhtml" media-type="application/xhtml+xml" />
 
