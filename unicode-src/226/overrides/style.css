@@ -173,22 +173,6 @@ table.Basic-Table {
 .maintext section.level5 p:first-of-type{
 	margin-top: 0;
 } 
-.maintext ol,
-.maintext ul {
-	padding-left: 1.75em;
-}
-.maintext ol.upper-alpha {
-	list-style-type: upper-alpha;
-}
-.maintext ol.lower-alpha {
-	list-style-type: lower-alpha;
-}
-.maintext ul.bullet {
-	list-style-type: disc;
-}
-.maintext ol.num {
-		list-style-type: upper-greek;
-}
 .maintext .myquote, .maintext .verse {
 	margin: 0.5em 0 0.5em 1.5em;
 }
@@ -229,7 +213,6 @@ table.Basic-Table {
 	page-break-before: avoid;
 }
 .maintext ul.hangindent {
-	list-style-type: none;
 	margin-left: 1.25em;
 	padding-left: 0.75em;
 	text-indent: -1.25em;
@@ -335,4 +318,8 @@ table {
 	color: #0277BD;
 	font-weight: normal;
 	line-height: 1.2em;
+}
+.maintext ol,
+.maintext ul {
+	padding-left: 1.75em;
 }
