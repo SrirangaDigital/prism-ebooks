@@ -20,7 +20,7 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilitySummary">The publication is missing alternative text for complex diagrams.</meta>
 		<meta property="schema:accessibilityAPI">ARIA</meta>
-		<meta property="dcterms:modified">2020-04-27T12:39:01Z</meta>
+		<meta property="dcterms:modified">2020-04-27T15:24:12Z</meta>
 	</metadata>
 	<manifest>
 		<item id="id-000a-title_xhtml" href="000a-title.xhtml" media-type="application/xhtml+xml" />
@@ -227,20 +227,6 @@
 		<item id="id-images_qr7_jpg" href="images/qr7.jpg" media-type="image/jpeg" />
 		<item id="id-images_qr8_jpg" href="images/qr8.jpg" media-type="image/jpeg" />
 		<item id="id-images_qr9_jpg" href="images/qr9.jpg" media-type="image/jpeg" />
-		<item id="id-overrides_AGaramondPro-Regular_otf" href="overrides/AGaramondPro-Regular.otf" media-type="application/vnd.ms-opentype" />
-		<item id="id-overrides_AdobeDevanagari-Bold_otf" href="overrides/AdobeDevanagari-Bold.otf" media-type="application/vnd.ms-opentype" />
-		<item id="id-overrides_AdobeDevanagari-BoldItalic_otf" href="overrides/AdobeDevanagari-BoldItalic.otf" media-type="application/vnd.ms-opentype" />
-		<item id="id-overrides_AdobeDevanagari-Italic_otf" href="overrides/AdobeDevanagari-Italic.otf" media-type="application/vnd.ms-opentype" />
-		<item id="id-overrides_AdobeDevanagari-Regular_otf" href="overrides/AdobeDevanagari-Regular.otf" media-type="application/vnd.ms-opentype" />
-		<item id="id-overrides_BookAntiqua_ttf" href="overrides/BookAntiqua.ttf" media-type="application/vnd.ms-opentype" />
-		<item id="id-overrides_Georgia-Bold_ttf" href="overrides/Georgia-Bold.ttf" media-type="application/vnd.ms-opentype" />
-		<item id="id-overrides_Georgia-Italic_ttf" href="overrides/Georgia-Italic.ttf" media-type="application/vnd.ms-opentype" />
-		<item id="id-overrides_Georgia_ttf" href="overrides/Georgia.ttf" media-type="application/vnd.ms-opentype" />
-		<item id="id-overrides_IndianRupee-Regular_ttf" href="overrides/IndianRupee-Regular.ttf" media-type="application/vnd.ms-opentype" />
-		<item id="id-overrides_MinionPro-It_otf" href="overrides/MinionPro-It.otf" media-type="application/vnd.ms-opentype" />
-		<item id="id-overrides_MinionPro-Regular_otf" href="overrides/MinionPro-Regular.otf" media-type="application/vnd.ms-opentype" />
-		<item id="id-overrides_PalatinoLinotype-Bold_ttf" href="overrides/PalatinoLinotype-Bold.ttf" media-type="application/vnd.ms-opentype" />
-		<item id="id-overrides_PalatinoLinotype-Roman_ttf" href="overrides/PalatinoLinotype-Roman.ttf" media-type="application/vnd.ms-opentype" />
 		<item id="id-overrides_style_css" href="overrides/style.css" media-type="text/css" />
 		<item id="id-toc_ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
 		<item properties="nav" id="id-toc_xhtml" href="toc.xhtml" media-type="application/xhtml+xml" />

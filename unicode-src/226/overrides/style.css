@@ -4,3 +4,6 @@
 .maintext ul.bulleted{
 	list-style-type: disc;
 }
+.maintext table, th, td {
+  border: 1px solid black;
+}
