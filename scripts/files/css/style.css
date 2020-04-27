@@ -41,7 +41,7 @@ table {
 	border-collapse:none;
 }
 li {
-	display:block;
+	display:default;
 }
 body {
 	-epub-hyphens:auto;
