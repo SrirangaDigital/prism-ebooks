@@ -4,7 +4,6 @@
 		<dc:title>Surya Namaskara with Pranayama, Mudras &#38; Bandha and Accupressure</dc:title>
 		<dc:language>English</dc:language>
 		<dc:identifier id="isbn">urn:isbn:9789386506894</dc:identifier>
-		<dc:description>Surya Namaskara is undoubtedly a complete solution for one's psychosomatic - body and mind well-being. It de-stresses the mind and strengthens the circulatory, respiratory, digestive, excretory, reproductive, nervous and endocrine systems.</dc:description>
 		
 		<dc:creator id="author1">Rajendra Damodara Yenkannamoole</dc:creator>
 		<meta refines="#author1" property="role" scheme="marc:relators">aut</meta>    
@@ -20,7 +19,7 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilitySummary">The publication is missing alternative text for complex diagrams.</meta>
 		<meta property="schema:accessibilityAPI">ARIA</meta>
-		<meta property="dcterms:modified">2020-04-27T15:24:12Z</meta>
+		<meta property="dcterms:modified">2020-04-28T14:53:30Z</meta>
 	</metadata>
 	<manifest>
 		<item id="id-000a-title_xhtml" href="000a-title.xhtml" media-type="application/xhtml+xml" />

@@ -252,13 +252,13 @@
 <navLabel><text>3.  Adi Mudra</text></navLabel><content src="003-chapter003.xhtml#id-003.06"/>
 </navPoint>
 <navPoint id="navPoint-80" playOrder="80">
-<navLabel><text>4. Jnana Mudra</text></navLabel><content src="003-chapter003.xhtml#id-003.07"/>
+<navLabel><text>4.  Jnana Mudra</text></navLabel><content src="003-chapter003.xhtml#id-003.07"/>
 <navPoint id="navPoint-81" playOrder="81">
 <navLabel><text>Video:</text></navLabel><content src="003-chapter003.xhtml#id-003.07.01"/>
 </navPoint>
 </navPoint>
 <navPoint id="navPoint-82" playOrder="82">
-<navLabel><text>5. Akasha Mudra</text></navLabel><content src="003-chapter003.xhtml#id-003.08"/>
+<navLabel><text>5.  Akasha Mudra</text></navLabel><content src="003-chapter003.xhtml#id-003.08"/>
 </navPoint>
 <navPoint id="navPoint-83" playOrder="83">
 <navLabel><text>6.  Pritvi Mudra</text></navLabel><content src="003-chapter003.xhtml#id-003.09"/>
@@ -431,7 +431,7 @@
 <navLabel><text>Video:</text></navLabel><content src="003-chapter003.xhtml#id-003.30.19"/>
 </navPoint>
 <navPoint id="navPoint-140" playOrder="140">
-<navLabel><text>13  Maha Vedha</text></navLabel><content src="003-chapter003.xhtml#id-003.30.20"/>
+<navLabel><text>13.  Maha Vedha</text></navLabel><content src="003-chapter003.xhtml#id-003.30.20"/>
 </navPoint>
 </navPoint>
 <navPoint id="navPoint-141" playOrder="141">
@@ -447,25 +447,7 @@
 <navPoint id="navPoint-144" playOrder="144">
 <navLabel><text>Appendix:</text></navLabel><content src="005-chapter005.xhtml#id-005"/>
 <navPoint id="navPoint-145" playOrder="145">
-<navLabel><text>Surya Namaskara</text></navLabel><content src="005-chapter005.xhtml#id-005.01"/>
-</navPoint>
-<navPoint id="navPoint-146" playOrder="146">
-<navLabel><text>Pranayama</text></navLabel><content src="005-chapter005.xhtml#id-005.02"/>
-</navPoint>
-<navPoint id="navPoint-147" playOrder="147">
-<navLabel><text>Mudra and Bandha</text></navLabel><content src="005-chapter005.xhtml#id-005.03"/>
-</navPoint>
-<navPoint id="navPoint-148" playOrder="148">
-<navLabel><text>Puja Mudras</text></navLabel><content src="005-chapter005.xhtml#id-005.04"/>
-</navPoint>
-<navPoint id="navPoint-149" playOrder="149">
-<navLabel><text>Kaya Mudras</text></navLabel><content src="005-chapter005.xhtml#id-005.05"/>
-</navPoint>
-<navPoint id="navPoint-150" playOrder="150">
-<navLabel><text>Accupressure</text></navLabel><content src="005-chapter005.xhtml#id-005.06"/>
-</navPoint>
-<navPoint id="navPoint-151" playOrder="151">
-<navLabel><text>Class Prayer</text></navLabel><content src="005-chapter005.xhtml#id-005.07"/>
+<navLabel><text>Class Prayer</text></navLabel><content src="005-chapter005.xhtml#id-005.01"/>
 </navPoint>
 </navPoint>
    </navMap>
