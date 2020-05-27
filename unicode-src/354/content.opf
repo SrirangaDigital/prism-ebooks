@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" xml:lang="en" unique-identifier="isbn">
+	<metadata  xmlns:dc="http://purl.org/dc/elements/1.1/">
+		<meta property="schema:accessMode">textual</meta>
+		<meta property="schema:accessMode">visual</meta>
+		<meta property="schema:accessModeSufficient">textual,visual</meta>		
+		<meta property="schema:accessibilityHazard">none</meta>
+		<meta property="schema:accessibilityFeature">tableOfContents</meta>
+		<meta property="schema:accessibilitySummary">The publication is missing alternative text for complex diagrams.</meta>
+		<meta property="schema:accessibilityAPI">ARIA</meta>
+		<meta property="dcterms:modified">2020-05-27T17:19:07Z</meta>
+	</metadata>
+	<manifest>
+		<item id="id-000a-title_xhtml" href="000a-title.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-000b-copyright_xhtml" href="000b-copyright.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-000c-preface_xhtml" href="000c-preface.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-000d-preface_xhtml" href="000d-preface.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-000e-preface_xhtml" href="000e-preface.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-000f-preface_xhtml" href="000f-preface.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-001-chapter001_xhtml" href="001-chapter001.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-002-chapter002_xhtml" href="002-chapter002.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-003-chapter003_xhtml" href="003-chapter003.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-004-chapter004_xhtml" href="004-chapter004.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-005-chapter005_xhtml" href="005-chapter005.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-006-chapter006_xhtml" href="006-chapter006.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-007-chapter007_xhtml" href="007-chapter007.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-008-chapter008_xhtml" href="008-chapter008.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-009-chapter009_xhtml" href="009-chapter009.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-010-chapter010_xhtml" href="010-chapter010.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-011-chapter011_xhtml" href="011-chapter011.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-012-chapter012_xhtml" href="012-chapter012.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-013-chapter013_xhtml" href="013-chapter013.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-014-chapter014_xhtml" href="014-chapter014.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-015-chapter015_xhtml" href="015-chapter015.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-css_AGaramondPro-Regular_otf" href="css/AGaramondPro-Regular.otf" media-type="application/vnd.ms-opentype" />
+		<item id="id-css_AdobeDevanagari-Bold_otf" href="css/AdobeDevanagari-Bold.otf" media-type="application/vnd.ms-opentype" />
+		<item id="id-css_AdobeDevanagari-BoldItalic_otf" href="css/AdobeDevanagari-BoldItalic.otf" media-type="application/vnd.ms-opentype" />
+		<item id="id-css_AdobeDevanagari-Italic_otf" href="css/AdobeDevanagari-Italic.otf" media-type="application/vnd.ms-opentype" />
+		<item id="id-css_AdobeDevanagari-Regular_otf" href="css/AdobeDevanagari-Regular.otf" media-type="application/vnd.ms-opentype" />
+		<item id="id-css_BookAntiqua_ttf" href="css/BookAntiqua.ttf" media-type="application/vnd.ms-opentype" />
+		<item id="id-css_Georgia-Bold_ttf" href="css/Georgia-Bold.ttf" media-type="application/vnd.ms-opentype" />
+		<item id="id-css_Georgia-Italic_ttf" href="css/Georgia-Italic.ttf" media-type="application/vnd.ms-opentype" />
+		<item id="id-css_Georgia_ttf" href="css/Georgia.ttf" media-type="application/vnd.ms-opentype" />
+		<item id="id-css_IndianRupee-Regular_ttf" href="css/IndianRupee-Regular.ttf" media-type="application/vnd.ms-opentype" />
+		<item id="id-css_MinionPro-It_otf" href="css/MinionPro-It.otf" media-type="application/vnd.ms-opentype" />
+		<item id="id-css_MinionPro-Regular_otf" href="css/MinionPro-Regular.otf" media-type="application/vnd.ms-opentype" />
+		<item id="id-css_PalatinoLinotype-Bold_ttf" href="css/PalatinoLinotype-Bold.ttf" media-type="application/vnd.ms-opentype" />
+		<item id="id-css_PalatinoLinotype-Roman_ttf" href="css/PalatinoLinotype-Roman.ttf" media-type="application/vnd.ms-opentype" />
+		<item id="id-css_style_css" href="css/style.css" media-type="text/css" />
+		<item id="id-images_chapter02_logo_jpg" href="images/chapter02/logo.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter03_001_jpg" href="images/chapter03/001.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter03_logo_jpg" href="images/chapter03/logo.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter04_pic001_jgp" href="images/chapter04/pic001.jgp" media-type="" />
+		<item id="id-images_chapter04_pic001_jpg" href="images/chapter04/pic001.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter05_001_jpg" href="images/chapter05/001.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter05_pic01_jpg" href="images/chapter05/pic01.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter05_pic02_jpg" href="images/chapter05/pic02.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter05_pic03_jpg" href="images/chapter05/pic03.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter05_pic04_jpg" href="images/chapter05/pic04.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter05_pic05_jpg" href="images/chapter05/pic05.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter05_pic06_jpg" href="images/chapter05/pic06.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter05_pic07_jpg" href="images/chapter05/pic07.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter05_pic08_jpg" href="images/chapter05/pic08.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter05_pic09_jpg" href="images/chapter05/pic09.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter05_pic10_jpg" href="images/chapter05/pic10.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter05_pic11_jpg" href="images/chapter05/pic11.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter05_pic12_jpg" href="images/chapter05/pic12.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter05_pic13_jpg" href="images/chapter05/pic13.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter05_pic14_jpg" href="images/chapter05/pic14.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter05_pic15_jpg" href="images/chapter05/pic15.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter05_pic16_jpg" href="images/chapter05/pic16.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter05_pic17_jpg" href="images/chapter05/pic17.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter05_pic18_jpg" href="images/chapter05/pic18.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter05_pic19_jpg" href="images/chapter05/pic19.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter05_pic20_jpg" href="images/chapter05/pic20.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter05_pic21_jpg" href="images/chapter05/pic21.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter05_pic22_jpg" href="images/chapter05/pic22.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter05_pic23_jpg" href="images/chapter05/pic23.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter06_001_jpg" href="images/chapter06/001.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter06_logo_jpg" href="images/chapter06/logo.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter06_pic24_jpg" href="images/chapter06/pic24.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter06_pic24_png" href="images/chapter06/pic24.png" media-type="image/png" />
+		<item id="id-images_chapter06_pic25_jpg" href="images/chapter06/pic25.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter06_pic25_png" href="images/chapter06/pic25.png" media-type="image/png" />
+		<item id="id-images_chapter06_pic26_jpg" href="images/chapter06/pic26.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter06_pic26_png" href="images/chapter06/pic26.png" media-type="image/png" />
+		<item id="id-images_chapter06_pic26a_jpg" href="images/chapter06/pic26a.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter06_pic26a_png" href="images/chapter06/pic26a.png" media-type="image/png" />
+		<item id="id-images_chapter06_pic27_jpg" href="images/chapter06/pic27.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter06_pic27_png" href="images/chapter06/pic27.png" media-type="image/png" />
+		<item id="id-images_chapter06_pic28_jpg" href="images/chapter06/pic28.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter06_pic28_png" href="images/chapter06/pic28.png" media-type="image/png" />
+		<item id="id-images_chapter06_pic29_jpg" href="images/chapter06/pic29.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter06_pic29_png" href="images/chapter06/pic29.png" media-type="image/png" />
+		<item id="id-images_chapter06_pic30_jpg" href="images/chapter06/pic30.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter06_pic30_png" href="images/chapter06/pic30.png" media-type="image/png" />
+		<item id="id-images_chapter06_pic31_jpg" href="images/chapter06/pic31.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter06_pic31_png" href="images/chapter06/pic31.png" media-type="image/png" />
+		<item id="id-images_chapter06_pic32_jpg" href="images/chapter06/pic32.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter06_pic32_png" href="images/chapter06/pic32.png" media-type="image/png" />
+		<item id="id-images_chapter06_pic33_jpg" href="images/chapter06/pic33.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter06_pic33_png" href="images/chapter06/pic33.png" media-type="image/png" />
+		<item id="id-images_chapter06_pic34_jpg" href="images/chapter06/pic34.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter06_pic34_png" href="images/chapter06/pic34.png" media-type="image/png" />
+		<item id="id-images_chapter06_pic35_jpg" href="images/chapter06/pic35.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter06_pic35_png" href="images/chapter06/pic35.png" media-type="image/png" />
+		<item id="id-images_chapter06_pic36_jpg" href="images/chapter06/pic36.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter06_pic36_png" href="images/chapter06/pic36.png" media-type="image/png" />
+		<item id="id-images_chapter06_pic37_jpg" href="images/chapter06/pic37.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter06_pic37_png" href="images/chapter06/pic37.png" media-type="image/png" />
+		<item id="id-images_chapter06_pic38_jpg" href="images/chapter06/pic38.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter06_pic38_png" href="images/chapter06/pic38.png" media-type="image/png" />
+		<item id="id-images_chapter06_pic39_jpg" href="images/chapter06/pic39.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter06_pic39_png" href="images/chapter06/pic39.png" media-type="image/png" />
+		<item id="id-images_chapter06_pic40_jpg" href="images/chapter06/pic40.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter06_pic40_png" href="images/chapter06/pic40.png" media-type="image/png" />
+		<item id="id-images_chapter06_pic41_jpg" href="images/chapter06/pic41.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter06_pic41_png" href="images/chapter06/pic41.png" media-type="image/png" />
+		<item id="id-images_chapter07_001_jpg" href="images/chapter07/001.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter07_logo_jpg" href="images/chapter07/logo.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter07_pic42_jpg" href="images/chapter07/pic42.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter07_pic43_jpg" href="images/chapter07/pic43.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter07_pic44_jpg" href="images/chapter07/pic44.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter07_pic45_jpg" href="images/chapter07/pic45.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter07_pic46_jpg" href="images/chapter07/pic46.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter07_pic47_jpg" href="images/chapter07/pic47.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter07_pic48_jpg" href="images/chapter07/pic48.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter07_pic49_jpg" href="images/chapter07/pic49.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter07_pic50_jpg" href="images/chapter07/pic50.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter07_pic51_jpg" href="images/chapter07/pic51.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter07_pic52_jpg" href="images/chapter07/pic52.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter07_pic53_jpg" href="images/chapter07/pic53.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter07_pic54_jpg" href="images/chapter07/pic54.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter07_pic55_jpg" href="images/chapter07/pic55.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter07_pic56_jpg" href="images/chapter07/pic56.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter07_pic57_jpg" href="images/chapter07/pic57.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter07_pic58_jpg" href="images/chapter07/pic58.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter07_pic59_jpg" href="images/chapter07/pic59.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter07_pic60_jpg" href="images/chapter07/pic60.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter07_pic61_jpg" href="images/chapter07/pic61.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter07_pic62_jpg" href="images/chapter07/pic62.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter07_pic63_jpg" href="images/chapter07/pic63.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter07_pic64_jpg" href="images/chapter07/pic64.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter07_pic65_jpg" href="images/chapter07/pic65.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter07_pic66_jpg" href="images/chapter07/pic66.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter07_pic67_jpg" href="images/chapter07/pic67.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter07_pic68_jpg" href="images/chapter07/pic68.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter07_pic69_jpg" href="images/chapter07/pic69.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter07_pic70_jpg" href="images/chapter07/pic70.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter07_pic71_jpg" href="images/chapter07/pic71.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter08_001_jpg" href="images/chapter08/001.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter08_pic100_jpg" href="images/chapter08/pic100.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter08_pic101_jpg" href="images/chapter08/pic101.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter08_pic102_jpg" href="images/chapter08/pic102.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter08_pic103a_jpg" href="images/chapter08/pic103a.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter08_pic103b_jpg" href="images/chapter08/pic103b.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter08_pic104_jpg" href="images/chapter08/pic104.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter08_pic105_jpg" href="images/chapter08/pic105.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter08_pic106_jpg" href="images/chapter08/pic106.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter08_pic107_jpg" href="images/chapter08/pic107.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter08_pic108_jpg" href="images/chapter08/pic108.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter08_pic109_jpg" href="images/chapter08/pic109.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter08_pic110_jpg" href="images/chapter08/pic110.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter08_pic111_jpg" href="images/chapter08/pic111.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter08_pic112_jpg" href="images/chapter08/pic112.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter08_pic113_jpg" href="images/chapter08/pic113.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter08_pic114_jpg" href="images/chapter08/pic114.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter08_pic115_jpg" href="images/chapter08/pic115.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter08_pic116_jpg" href="images/chapter08/pic116.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter08_pic117_jpg" href="images/chapter08/pic117.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter08_pic118_jpg" href="images/chapter08/pic118.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter08_pic119_jpg" href="images/chapter08/pic119.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter08_pic120_jpg" href="images/chapter08/pic120.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter08_pic121_jpg" href="images/chapter08/pic121.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter08_pic72_jpg" href="images/chapter08/pic72.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter08_pic73_jpg" href="images/chapter08/pic73.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter08_pic74_jpg" href="images/chapter08/pic74.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter08_pic75_jpg" href="images/chapter08/pic75.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter08_pic76_jpg" href="images/chapter08/pic76.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter08_pic77a_jpg" href="images/chapter08/pic77a.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter08_pic77b_jpg" href="images/chapter08/pic77b.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter08_pic78_jpg" href="images/chapter08/pic78.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter08_pic79_jpg" href="images/chapter08/pic79.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter08_pic80_jpg" href="images/chapter08/pic80.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter08_pic81_jpg" href="images/chapter08/pic81.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter08_pic82_jpg" href="images/chapter08/pic82.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter08_pic83_jpg" href="images/chapter08/pic83.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter08_pic84_jpg" href="images/chapter08/pic84.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter08_pic85_jpg" href="images/chapter08/pic85.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter08_pic86_jpg" href="images/chapter08/pic86.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter08_pic87_jpg" href="images/chapter08/pic87.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter08_pic88a_jpg" href="images/chapter08/pic88a.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter08_pic88b_jpg" href="images/chapter08/pic88b.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter08_pic89_jpg" href="images/chapter08/pic89.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter08_pic90_jpg" href="images/chapter08/pic90.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter08_pic91_jpg" href="images/chapter08/pic91.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter08_pic92_jpg" href="images/chapter08/pic92.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter08_pic93_jpg" href="images/chapter08/pic93.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter08_pic94_jpg" href="images/chapter08/pic94.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter08_pic95_jpg" href="images/chapter08/pic95.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter08_pic96_jpg" href="images/chapter08/pic96.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter08_pic97_jpg" href="images/chapter08/pic97.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter08_pic98_jpg" href="images/chapter08/pic98.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter08_pic99_jpg" href="images/chapter08/pic99.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter09_001_jpg" href="images/chapter09/001.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter09_pic122_jpg" href="images/chapter09/pic122.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter09_pic123_jpg" href="images/chapter09/pic123.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter09_pic124_jpg" href="images/chapter09/pic124.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter09_pic125_jpg" href="images/chapter09/pic125.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter09_pic126_jpg" href="images/chapter09/pic126.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter09_pic127_jpg" href="images/chapter09/pic127.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter09_pic128_jpg" href="images/chapter09/pic128.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter09_pic129_jpg" href="images/chapter09/pic129.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter09_pic130_jpg" href="images/chapter09/pic130.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter09_pic131_jpg" href="images/chapter09/pic131.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter09_pic132_jpg" href="images/chapter09/pic132.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter09_pic133_jpg" href="images/chapter09/pic133.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter09_pic134_jpg" href="images/chapter09/pic134.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter09_pic135_jpg" href="images/chapter09/pic135.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter09_pic136_jpg" href="images/chapter09/pic136.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter09_pic137_jpg" href="images/chapter09/pic137.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter09_pic138_jpg" href="images/chapter09/pic138.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter09_pic139_jpg" href="images/chapter09/pic139.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter09_pic140_jpg" href="images/chapter09/pic140.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter09_pic141_jpg" href="images/chapter09/pic141.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter09_pic142_jpg" href="images/chapter09/pic142.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter09_pic143_jpg" href="images/chapter09/pic143.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter09_pic144_jpg" href="images/chapter09/pic144.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter09_pic145_jpg" href="images/chapter09/pic145.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter09_pic146_jpg" href="images/chapter09/pic146.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter09_pic147_jpg" href="images/chapter09/pic147.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter09_pic148_jpg" href="images/chapter09/pic148.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter09_pic149_jpg" href="images/chapter09/pic149.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter09_pic150_jpg" href="images/chapter09/pic150.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter09_pic151_jpg" href="images/chapter09/pic151.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter09_pic152_jpg" href="images/chapter09/pic152.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter09_pic153_jpg" href="images/chapter09/pic153.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter09_pic154_jpg" href="images/chapter09/pic154.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter09_pic155_jpg" href="images/chapter09/pic155.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter09_pic156_jpg" href="images/chapter09/pic156.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter09_pic157_jpg" href="images/chapter09/pic157.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter10_001_jpg" href="images/chapter10/001.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter10_logo_jpg" href="images/chapter10/logo.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter10_pic158_jpg" href="images/chapter10/pic158.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter11_001_jpg" href="images/chapter11/001.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter11_logo_jpg" href="images/chapter11/logo.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter11_pic159_jpg" href="images/chapter11/pic159.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter11_pic160_jpg" href="images/chapter11/pic160.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter11_pic161_jpg" href="images/chapter11/pic161.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter11_pic162_jpg" href="images/chapter11/pic162.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter11_pic162a_jpg" href="images/chapter11/pic162a.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter11_pic163_jpg" href="images/chapter11/pic163.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter11_pic164_jpg" href="images/chapter11/pic164.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter11_pic165_jpg" href="images/chapter11/pic165.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter11_pic166_jpg" href="images/chapter11/pic166.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter11_pic167_jpg" href="images/chapter11/pic167.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter11_pic168_jpg" href="images/chapter11/pic168.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter11_pic169_jpg" href="images/chapter11/pic169.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter12_001_jpg" href="images/chapter12/001.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter12_logo_jpg" href="images/chapter12/logo.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter12_pic170_jpg" href="images/chapter12/pic170.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter12_pic171_jpg" href="images/chapter12/pic171.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter12_pic172_jpg" href="images/chapter12/pic172.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter12_pic173_jpg" href="images/chapter12/pic173.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter12_pic174_jpg" href="images/chapter12/pic174.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter12_pic175_jpg" href="images/chapter12/pic175.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter12_pic176_jpg" href="images/chapter12/pic176.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter12_pic177_jpg" href="images/chapter12/pic177.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter12_pic178_jpg" href="images/chapter12/pic178.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter12_pic179_jpg" href="images/chapter12/pic179.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter12_pic180_jpg" href="images/chapter12/pic180.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter12_pic181_jpg" href="images/chapter12/pic181.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter12_pic182_jpg" href="images/chapter12/pic182.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter12_pic183_jpg" href="images/chapter12/pic183.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter12_pic184_jpg" href="images/chapter12/pic184.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter12_pic185_jpg" href="images/chapter12/pic185.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter12_pic186_jpg" href="images/chapter12/pic186.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter12_pic187_jpg" href="images/chapter12/pic187.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter12_pic188_jpg" href="images/chapter12/pic188.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter12_pic189_jpg" href="images/chapter12/pic189.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter12_pic190_jpg" href="images/chapter12/pic190.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter12_pic191_jpg" href="images/chapter12/pic191.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter12_pic192_jpg" href="images/chapter12/pic192.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter12_pic193_jpg" href="images/chapter12/pic193.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter12_pic194_jpg" href="images/chapter12/pic194.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter12_pic195_jpg" href="images/chapter12/pic195.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter12_pic196_jpg" href="images/chapter12/pic196.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter12_pic197_jpg" href="images/chapter12/pic197.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter12_pic198_jpg" href="images/chapter12/pic198.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter12_pic199_jpg" href="images/chapter12/pic199.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter12_pic200_jpg" href="images/chapter12/pic200.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter12_pic201_jpg" href="images/chapter12/pic201.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter12_pic202_jpg" href="images/chapter12/pic202.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter12_pic203_jpg" href="images/chapter12/pic203.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter12_pic204_jpg" href="images/chapter12/pic204.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter12_pic205_jpg" href="images/chapter12/pic205.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter12_pic206_jpg" href="images/chapter12/pic206.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter12_pic207_jpg" href="images/chapter12/pic207.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter12_pic208_jpg" href="images/chapter12/pic208.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter12_pic209_jpg" href="images/chapter12/pic209.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter12_pic210_jpg" href="images/chapter12/pic210.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter12_pic211_jpg" href="images/chapter12/pic211.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter12_pic212_jpg" href="images/chapter12/pic212.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter12_pic213_jpg" href="images/chapter12/pic213.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter12_pic214_jpg" href="images/chapter12/pic214.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter12_pic215_jpg" href="images/chapter12/pic215.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter13_001_jpg" href="images/chapter13/001.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter13_logo_jpg" href="images/chapter13/logo.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter13_pic001_jpg" href="images/chapter13/pic001.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter13_pic002_jpg" href="images/chapter13/pic002.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter13_pic003_jpg" href="images/chapter13/pic003.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter13_pic004_jpg" href="images/chapter13/pic004.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter13_pic005_jpg" href="images/chapter13/pic005.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter13_pic006_jpg" href="images/chapter13/pic006.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter13_pic007_jpg" href="images/chapter13/pic007.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter13_pic008_jpg" href="images/chapter13/pic008.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter13_pic009_jpg" href="images/chapter13/pic009.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter14_001_jpg" href="images/chapter14/001.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter14_logo_jpg" href="images/chapter14/logo.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter15_001_jpg" href="images/chapter15/001.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter15_logo_jpg" href="images/chapter15/logo.jpg" media-type="image/jpeg" />
+		<item properties="cover-image" id="id-images_cover_jpg" href="images/cover.jpg" media-type="image/jpeg" />
+		<item id="id-images_pic001_jpg" href="images/pic001.jpg" media-type="image/jpeg" />
+		<item id="id-images_pic001_png" href="images/pic001.png" media-type="image/png" />
+		<item id="id-images_pic002_jpg" href="images/pic002.jpg" media-type="image/jpeg" />
+		<item id="id-images_pic002_png" href="images/pic002.png" media-type="image/png" />
+		<item id="id-toc_ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
+		<item properties="nav" id="id-toc_xhtml" href="toc.xhtml" media-type="application/xhtml+xml" />
+
+	</manifest>
+	<spine toc="id-toc_ncx">
+		<itemref idref="id-000a-title_xhtml" linear="yes" />
+		<itemref idref="id-000b-copyright_xhtml" linear="yes" />
+		<itemref idref="id-000c-preface_xhtml" linear="yes" />
+		<itemref idref="id-000d-preface_xhtml" linear="yes" />
+		<itemref idref="id-000e-preface_xhtml" linear="yes" />
+		<itemref idref="id-000f-preface_xhtml" linear="yes" />
+		<itemref idref="id-001-chapter001_xhtml" linear="yes" />
+		<itemref idref="id-002-chapter002_xhtml" linear="yes" />
+		<itemref idref="id-003-chapter003_xhtml" linear="yes" />
+		<itemref idref="id-004-chapter004_xhtml" linear="yes" />
+		<itemref idref="id-005-chapter005_xhtml" linear="yes" />
+		<itemref idref="id-006-chapter006_xhtml" linear="yes" />
+		<itemref idref="id-007-chapter007_xhtml" linear="yes" />
+		<itemref idref="id-008-chapter008_xhtml" linear="yes" />
+		<itemref idref="id-009-chapter009_xhtml" linear="yes" />
+		<itemref idref="id-010-chapter010_xhtml" linear="yes" />
+		<itemref idref="id-011-chapter011_xhtml" linear="yes" />
+		<itemref idref="id-012-chapter012_xhtml" linear="yes" />
+		<itemref idref="id-013-chapter013_xhtml" linear="yes" />
+		<itemref idref="id-014-chapter014_xhtml" linear="yes" />
+		<itemref idref="id-015-chapter015_xhtml" linear="yes" />
+
+	</spine>
+</package>
