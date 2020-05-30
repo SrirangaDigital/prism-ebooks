@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" version="3.0" xml:lang="en" unique-identifier="isbn">
 	<metadata  xmlns:dc="http://purl.org/dc/elements/1.1/">
+		<dc:title>Vasudeva Kriya Yoga</dc:title>
+		<dc:language>English</dc:language>
+		<dc:identifier id="isbn">urn:isbn:9789388478670</dc:identifier>
+		<dc:description>By the practise of yoga we improve our physical, mental, social and spiritual health. Yoga not only adds years to our life but also improves the quality of our life. Consciousness is the intelligence principle and yoga is a conscious process to accelerate our growth from gross to subtle layers of mind. The goal of yoga is to manifest divinity of consciousness and to unfold the total personality in all of us. This book covers multifold dimensions of yoga, which includes philosophy,yama, niyama, asana, pranayama, mudra, bandha, chakras, pratyahara, yoga nidra, dharana, dhyana, Vasudeva kriya and meditation techniques.This book is prepared with the intention of making this a reference book for all students of yoga. Yoga is divine. Discovering the divinity in yoga and making our life divine is the main purpose of this book.</dc:description>
+		
+		<dc:creator id="author1">Rajendra Yenkannamoole</dc:creator>
+		<meta refines="#author1" property="role" scheme="marc:relators">aut</meta>    
+				
+		<dc:creator id="bookDesigner1">Sriranga Digital Software Technologies Private Limited</dc:creator>
+		<meta refines="#bookDesigner1" property="role" scheme="marc:relators">bkd</meta>    
+				
+		<dc:publisher>Prism Books Pvt. Ltd.</dc:publisher>
 		<meta property="schema:accessMode">textual</meta>
 		<meta property="schema:accessMode">visual</meta>
 		<meta property="schema:accessModeSufficient">textual,visual</meta>		
@@ -8,7 +20,7 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilitySummary">The publication is missing alternative text for complex diagrams.</meta>
 		<meta property="schema:accessibilityAPI">ARIA</meta>
-		<meta property="dcterms:modified">2020-05-28T11:02:04Z</meta>
+		<meta property="dcterms:modified">2020-05-30T13:01:55Z</meta>
 	</metadata>
 	<manifest>
 		<item id="id-000a-title_xhtml" href="000a-title.xhtml" media-type="application/xhtml+xml" />
