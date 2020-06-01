@@ -80,58 +80,58 @@
 <navPoint id="navPoint-22" playOrder="22">
 <navLabel><text>Neti</text></navLabel><content src="005-chapter005.xhtml#id-005.01"/>
 <navPoint id="navPoint-23" playOrder="23">
-<navLabel><text> Jala Neti, Type 1</text></navLabel><content src="005-chapter005.xhtml#id-005.01.01"/>
+<navLabel><text>☸ Jala Neti, Type 1</text></navLabel><content src="005-chapter005.xhtml#id-005.01.01"/>
 </navPoint>
 <navPoint id="navPoint-24" playOrder="24">
-<navLabel><text> Sutra Neti, Type 2</text></navLabel><content src="005-chapter005.xhtml#id-005.01.02"/>
+<navLabel><text>☸  Sutra Neti, Type 2</text></navLabel><content src="005-chapter005.xhtml#id-005.01.02"/>
 </navPoint>
 <navPoint id="navPoint-25" playOrder="25">
-<navLabel><text> Kapalabhati</text></navLabel><content src="005-chapter005.xhtml#id-005.01.03"/>
+<navLabel><text>☸ Kapalabhati</text></navLabel><content src="005-chapter005.xhtml#id-005.01.03"/>
 </navPoint>
 </navPoint>
 <navPoint id="navPoint-26" playOrder="26">
 <navLabel><text>Douti</text></navLabel><content src="005-chapter005.xhtml#id-005.02"/>
 <navPoint id="navPoint-27" playOrder="27">
-<navLabel><text> Danta Douti</text></navLabel><content src="005-chapter005.xhtml#id-005.02.01"/>
+<navLabel><text>☸  Danta Douti</text></navLabel><content src="005-chapter005.xhtml#id-005.02.01"/>
 </navPoint>
 <navPoint id="navPoint-28" playOrder="28">
-<navLabel><text> Vaman Douti</text></navLabel><content src="005-chapter005.xhtml#id-005.02.02"/>
+<navLabel><text>☸  Vaman Douti</text></navLabel><content src="005-chapter005.xhtml#id-005.02.02"/>
 </navPoint>
 <navPoint id="navPoint-29" playOrder="29">
-<navLabel><text> Jihva Douti</text></navLabel><content src="005-chapter005.xhtml#id-005.02.03"/>
+<navLabel><text>☸  Jihva Douti</text></navLabel><content src="005-chapter005.xhtml#id-005.02.03"/>
 </navPoint>
 <navPoint id="navPoint-30" playOrder="30">
-<navLabel><text> Karna Douti</text></navLabel><content src="005-chapter005.xhtml#id-005.02.04"/>
+<navLabel><text>☸ Karna Douti</text></navLabel><content src="005-chapter005.xhtml#id-005.02.04"/>
 </navPoint>
 <navPoint id="navPoint-31" playOrder="31">
-<navLabel><text> Kapala Randhra Douti</text></navLabel><content src="005-chapter005.xhtml#id-005.02.05"/>
+<navLabel><text>☸  Kapala Randhra Douti</text></navLabel><content src="005-chapter005.xhtml#id-005.02.05"/>
 </navPoint>
 <navPoint id="navPoint-32" playOrder="32">
-<navLabel><text> Vastra Douti</text></navLabel><content src="005-chapter005.xhtml#id-005.02.06"/>
+<navLabel><text>☸  Vastra Douti</text></navLabel><content src="005-chapter005.xhtml#id-005.02.06"/>
 </navPoint>
 </navPoint>
 <navPoint id="navPoint-33" playOrder="33">
 <navLabel><text>Basti</text></navLabel><content src="005-chapter005.xhtml#id-005.03"/>
 <navPoint id="navPoint-34" playOrder="34">
-<navLabel><text> Jala Basti</text></navLabel><content src="005-chapter005.xhtml#id-005.03.01"/>
+<navLabel><text>☸  Jala Basti</text></navLabel><content src="005-chapter005.xhtml#id-005.03.01"/>
 </navPoint>
 <navPoint id="navPoint-35" playOrder="35">
-<navLabel><text> Shanka Prakshalana</text></navLabel><content src="005-chapter005.xhtml#id-005.03.02"/>
+<navLabel><text>☸  Shanka Prakshalana</text></navLabel><content src="005-chapter005.xhtml#id-005.03.02"/>
 </navPoint>
 </navPoint>
 <navPoint id="navPoint-36" playOrder="36">
 <navLabel><text>Nauli</text></navLabel><content src="005-chapter005.xhtml#id-005.04"/>
 <navPoint id="navPoint-37" playOrder="37">
-<navLabel><text>Agnisara Kriya</text></navLabel><content src="005-chapter005.xhtml#id-005.04.01"/>
+<navLabel><text>☸ Agnisara Kriya</text></navLabel><content src="005-chapter005.xhtml#id-005.04.01"/>
 </navPoint>
 <navPoint id="navPoint-38" playOrder="38">
-<navLabel><text>Nauli</text></navLabel><content src="005-chapter005.xhtml#id-005.04.02"/>
+<navLabel><text>☸ Nauli</text></navLabel><content src="005-chapter005.xhtml#id-005.04.02"/>
 </navPoint>
 <navPoint id="navPoint-39" playOrder="39">
-<navLabel><text>Tratak</text></navLabel><content src="005-chapter005.xhtml#id-005.04.03"/>
+<navLabel><text>☸ Tratak</text></navLabel><content src="005-chapter005.xhtml#id-005.04.03"/>
 </navPoint>
 <navPoint id="navPoint-40" playOrder="40">
-<navLabel><text>Eye Exercise</text></navLabel><content src="005-chapter005.xhtml#id-005.04.04"/>
+<navLabel><text>☸ Eye Exercise</text></navLabel><content src="005-chapter005.xhtml#id-005.04.04"/>
 </navPoint>
 </navPoint>
 </navPoint>
@@ -140,7 +140,7 @@
 <navPoint id="navPoint-42" playOrder="42">
 <navLabel><text>Things to Know Before the Practise of Yoga</text></navLabel><content src="006-chapter006.xhtml#id-006.01"/>
 <navPoint id="navPoint-43" playOrder="43">
-<navLabel><text> Abdominal Warm Up</text></navLabel><content src="006-chapter006.xhtml#id-006.01.01"/>
+<navLabel><text>Abdominal Warm Up</text></navLabel><content src="006-chapter006.xhtml#id-006.01.01"/>
 </navPoint>
 <navPoint id="navPoint-44" playOrder="44">
 <navLabel><text> Spine Warm Up</text></navLabel><content src="006-chapter006.xhtml#id-006.01.02"/>
@@ -174,85 +174,85 @@
 <navLabel><text>⚈ Anantasana</text></navLabel><content src="007-chapter007.xhtml#id-007.01"/>
 </navPoint>
 <navPoint id="navPoint-54" playOrder="54">
-<navLabel><text>Bekasana</text></navLabel><content src="007-chapter007.xhtml#id-007.02"/>
+<navLabel><text>⚈ Bekasana</text></navLabel><content src="007-chapter007.xhtml#id-007.02"/>
 </navPoint>
 <navPoint id="navPoint-55" playOrder="55">
-<navLabel><text>Bhujangasana, Type 1</text></navLabel><content src="007-chapter007.xhtml#id-007.03"/>
+<navLabel><text>⚈ Bhujangasana, Type 1</text></navLabel><content src="007-chapter007.xhtml#id-007.03"/>
 </navPoint>
 <navPoint id="navPoint-56" playOrder="56">
-<navLabel><text>Bhujangasana, Type 2</text></navLabel><content src="007-chapter007.xhtml#id-007.04"/>
+<navLabel><text>⚈ Bhujangasana, Type 2</text></navLabel><content src="007-chapter007.xhtml#id-007.04"/>
 </navPoint>
 <navPoint id="navPoint-57" playOrder="57">
-<navLabel><text>Dhanurasana</text></navLabel><content src="007-chapter007.xhtml#id-007.05"/>
+<navLabel><text>⚈ Dhanurasana</text></navLabel><content src="007-chapter007.xhtml#id-007.05"/>
 </navPoint>
 <navPoint id="navPoint-58" playOrder="58">
-<navLabel><text>Things to Know Before the Practise of Yoga</text></navLabel><content src="007-chapter007.xhtml#id-007.06"/>
+<navLabel><text>⚈ Dwi Padottanasana</text></navLabel><content src="007-chapter007.xhtml#id-007.06"/>
 </navPoint>
 <navPoint id="navPoint-59" playOrder="59">
-<navLabel><text>Ekapada Jatara Parivrittasana</text></navLabel><content src="007-chapter007.xhtml#id-007.07"/>
+<navLabel><text>⚈ Ekapada Jatara Parivrittasana</text></navLabel><content src="007-chapter007.xhtml#id-007.07"/>
 </navPoint>
 <navPoint id="navPoint-60" playOrder="60">
-<navLabel><text>Ekapada Shalabhasana</text></navLabel><content src="007-chapter007.xhtml#id-007.08"/>
+<navLabel><text>⚈ Ekapada Shalabhasana</text></navLabel><content src="007-chapter007.xhtml#id-007.08"/>
 </navPoint>
 <navPoint id="navPoint-61" playOrder="61">
-<navLabel><text>Ekapada Setubandha Ekapadottasana</text></navLabel><content src="007-chapter007.xhtml#id-007.09"/>
+<navLabel><text>⚈ Ekapada Setubandha Ekapadottasana</text></navLabel><content src="007-chapter007.xhtml#id-007.09"/>
 </navPoint>
 <navPoint id="navPoint-62" playOrder="62">
-<navLabel><text>Jatara Parivrittasana</text></navLabel><content src="007-chapter007.xhtml#id-007.10"/>
+<navLabel><text>⚈ Jatara Parivrittasana</text></navLabel><content src="007-chapter007.xhtml#id-007.10"/>
 </navPoint>
 <navPoint id="navPoint-63" playOrder="63">
-<navLabel><text>Garbhasana</text></navLabel><content src="007-chapter007.xhtml#id-007.11"/>
+<navLabel><text>⚈ Garbhasana</text></navLabel><content src="007-chapter007.xhtml#id-007.11"/>
 </navPoint>
 <navPoint id="navPoint-64" playOrder="64">
-<navLabel><text>Halasana</text></navLabel><content src="007-chapter007.xhtml#id-007.12"/>
+<navLabel><text>⚈ Halasana</text></navLabel><content src="007-chapter007.xhtml#id-007.12"/>
 </navPoint>
 <navPoint id="navPoint-65" playOrder="65">
-<navLabel><text>Karnapidasana</text></navLabel><content src="007-chapter007.xhtml#id-007.13"/>
+<navLabel><text>⚈ Karnapidasana</text></navLabel><content src="007-chapter007.xhtml#id-007.13"/>
 </navPoint>
 <navPoint id="navPoint-66" playOrder="66">
-<navLabel><text>Makarasana, Type 1</text></navLabel><content src="007-chapter007.xhtml#id-007.14"/>
+<navLabel><text>⚈ Makarasana, Type 1</text></navLabel><content src="007-chapter007.xhtml#id-007.14"/>
 </navPoint>
 <navPoint id="navPoint-67" playOrder="67">
-<navLabel><text>Makarasana, Type 2</text></navLabel><content src="007-chapter007.xhtml#id-007.15"/>
+<navLabel><text>⚈ Makarasana, Type 2</text></navLabel><content src="007-chapter007.xhtml#id-007.15"/>
 </navPoint>
 <navPoint id="navPoint-68" playOrder="68">
-<navLabel><text>Matsyasana</text></navLabel><content src="007-chapter007.xhtml#id-007.16"/>
+<navLabel><text>⚈ Matsyasana</text></navLabel><content src="007-chapter007.xhtml#id-007.16"/>
 </navPoint>
 <navPoint id="navPoint-69" playOrder="69">
-<navLabel><text>Navasana Type 1</text></navLabel><content src="007-chapter007.xhtml#id-007.17"/>
+<navLabel><text>⚈ Navasana Type 1</text></navLabel><content src="007-chapter007.xhtml#id-007.17"/>
 </navPoint>
 <navPoint id="navPoint-70" playOrder="70">
-<navLabel><text>Navasana Type 2</text></navLabel><content src="007-chapter007.xhtml#id-007.18"/>
+<navLabel><text>⚈ Navasana Type 2</text></navLabel><content src="007-chapter007.xhtml#id-007.18"/>
 </navPoint>
 <navPoint id="navPoint-71" playOrder="71">
-<navLabel><text>Padma Matsyasana</text></navLabel><content src="007-chapter007.xhtml#id-007.19"/>
+<navLabel><text>⚈ Padma Matsyasana</text></navLabel><content src="007-chapter007.xhtml#id-007.19"/>
 </navPoint>
 <navPoint id="navPoint-72" playOrder="72">
-<navLabel><text>Padma Shalabhasana</text></navLabel><content src="007-chapter007.xhtml#id-007.20"/>
+<navLabel><text>⚈ Padma Shalabhasana</text></navLabel><content src="007-chapter007.xhtml#id-007.20"/>
 </navPoint>
 <navPoint id="navPoint-73" playOrder="73">
-<navLabel><text>Sarvangasana</text></navLabel><content src="007-chapter007.xhtml#id-007.21"/>
+<navLabel><text>⚈ Sarvangasana</text></navLabel><content src="007-chapter007.xhtml#id-007.21"/>
 </navPoint>
 <navPoint id="navPoint-74" playOrder="74">
-<navLabel><text>Sarpasana</text></navLabel><content src="007-chapter007.xhtml#id-007.22"/>
+<navLabel><text>⚈ Sarpasana</text></navLabel><content src="007-chapter007.xhtml#id-007.22"/>
 </navPoint>
 <navPoint id="navPoint-75" playOrder="75">
-<navLabel><text>Setubandhasana, Type 1</text></navLabel><content src="007-chapter007.xhtml#id-007.23"/>
+<navLabel><text>⚈ Setubandhasana, Type 1</text></navLabel><content src="007-chapter007.xhtml#id-007.23"/>
 </navPoint>
 <navPoint id="navPoint-76" playOrder="76">
-<navLabel><text>Setubandhasana, Type 2</text></navLabel><content src="007-chapter007.xhtml#id-007.24"/>
+<navLabel><text>⚈ Setubandhasana, Type 2</text></navLabel><content src="007-chapter007.xhtml#id-007.24"/>
 </navPoint>
 <navPoint id="navPoint-77" playOrder="77">
-<navLabel><text>Shavasana</text></navLabel><content src="007-chapter007.xhtml#id-007.25"/>
+<navLabel><text>⚈ Shavasana</text></navLabel><content src="007-chapter007.xhtml#id-007.25"/>
 </navPoint>
 <navPoint id="navPoint-78" playOrder="78">
-<navLabel><text>Shalabhasana</text></navLabel><content src="007-chapter007.xhtml#id-007.26"/>
+<navLabel><text>⚈ Shalabhasana</text></navLabel><content src="007-chapter007.xhtml#id-007.26"/>
 </navPoint>
 <navPoint id="navPoint-79" playOrder="79">
-<navLabel><text>Supta Veerasana</text></navLabel><content src="007-chapter007.xhtml#id-007.27"/>
+<navLabel><text>⚈ Supta Veerasana</text></navLabel><content src="007-chapter007.xhtml#id-007.27"/>
 </navPoint>
 <navPoint id="navPoint-80" playOrder="80">
-<navLabel><text>Urdwa Makarasana</text></navLabel><content src="007-chapter007.xhtml#id-007.28"/>
+<navLabel><text>⚈ Urdwa Makarasana</text></navLabel><content src="007-chapter007.xhtml#id-007.28"/>
 </navPoint>
 </navPoint>
 <navPoint id="navPoint-81" playOrder="81">
@@ -300,7 +300,7 @@
 <navLabel><text>⚈ Janu Shirasasana, Type 1</text></navLabel><content src="008-chapter008.xhtml#id-008.14"/>
 </navPoint>
 <navPoint id="navPoint-96" playOrder="96">
-<navLabel><text>⚈ Janu Shirasasana, Type 1</text></navLabel><content src="008-chapter008.xhtml#id-008.15"/>
+<navLabel><text>⚈ Janu Shirasasana, Type 2</text></navLabel><content src="008-chapter008.xhtml#id-008.15"/>
 </navPoint>
 <navPoint id="navPoint-97" playOrder="97">
 <navLabel><text>⚈ Kukkutasana, Type 1</text></navLabel><content src="008-chapter008.xhtml#id-008.16"/>
@@ -374,397 +374,400 @@
 <navPoint id="navPoint-120" playOrder="120">
 <navLabel><text>⚈ Vrischikasana</text></navLabel><content src="008-chapter008.xhtml#id-008.39"/>
 </navPoint>
-</navPoint>
 <navPoint id="navPoint-121" playOrder="121">
-<navLabel><text>Uttishta Asana</text></navLabel><content src="009-chapter009.xhtml#id-009"/>
+<navLabel><text>⚈ Vyagrasana</text></navLabel><content src="008-chapter008.xhtml#id-008.40"/>
+</navPoint>
+</navPoint>
 <navPoint id="navPoint-122" playOrder="122">
+<navLabel><text>Uttishta Asana</text></navLabel><content src="009-chapter009.xhtml#id-009"/>
+<navPoint id="navPoint-123" playOrder="123">
 <navLabel><text>⚈ Ardha Chandrasana, Type 1</text></navLabel><content src="009-chapter009.xhtml#id-009.01"/>
 </navPoint>
-<navPoint id="navPoint-123" playOrder="123">
+<navPoint id="navPoint-124" playOrder="124">
 <navLabel><text>⚈ Ardha Chandrasana, Type 2</text></navLabel><content src="009-chapter009.xhtml#id-009.02"/>
 </navPoint>
-<navPoint id="navPoint-124" playOrder="124">
+<navPoint id="navPoint-125" playOrder="125">
 <navLabel><text>⚈ Ardha Kati Chakrasana, Type 1</text></navLabel><content src="009-chapter009.xhtml#id-009.03"/>
 </navPoint>
-<navPoint id="navPoint-125" playOrder="125">
+<navPoint id="navPoint-126" playOrder="126">
 <navLabel><text>⚈ Ardha Kati Chakrasana, Type 2</text></navLabel><content src="009-chapter009.xhtml#id-009.04"/>
 </navPoint>
-<navPoint id="navPoint-126" playOrder="126">
+<navPoint id="navPoint-127" playOrder="127">
 <navLabel><text>⚈ Chakrasana, Type 1</text></navLabel><content src="009-chapter009.xhtml#id-009.05"/>
 </navPoint>
-<navPoint id="navPoint-127" playOrder="127">
+<navPoint id="navPoint-128" playOrder="128">
 <navLabel><text>Chakrasana, Type 2</text></navLabel><content src="009-chapter009.xhtml#id-009.06"/>
 </navPoint>
-<navPoint id="navPoint-128" playOrder="128">
+<navPoint id="navPoint-129" playOrder="129">
 <navLabel><text>⚈ Ekapada Hastasana, Type 1</text></navLabel><content src="009-chapter009.xhtml#id-009.07"/>
 </navPoint>
-<navPoint id="navPoint-129" playOrder="129">
+<navPoint id="navPoint-130" playOrder="130">
 <navLabel><text>⚈ Ekapada Hastasana, Type 2</text></navLabel><content src="009-chapter009.xhtml#id-009.08"/>
 </navPoint>
-<navPoint id="navPoint-130" playOrder="130">
+<navPoint id="navPoint-131" playOrder="131">
 <navLabel><text>⚈ Garudasana</text></navLabel><content src="009-chapter009.xhtml#id-009.10"/>
 </navPoint>
-<navPoint id="navPoint-131" playOrder="131">
+<navPoint id="navPoint-132" playOrder="132">
 <navLabel><text>⚈ Natarajasana</text></navLabel><content src="009-chapter009.xhtml#id-009.11"/>
 </navPoint>
-<navPoint id="navPoint-132" playOrder="132">
+<navPoint id="navPoint-133" playOrder="133">
 <navLabel><text>⚈ Pada Hastasana</text></navLabel><content src="009-chapter009.xhtml#id-009.12"/>
 </navPoint>
-<navPoint id="navPoint-133" playOrder="133">
+<navPoint id="navPoint-134" playOrder="134">
 <navLabel><text>⚈ Parivritta Trikonasana, Type 1</text></navLabel><content src="009-chapter009.xhtml#id-009.13"/>
 </navPoint>
-<navPoint id="navPoint-134" playOrder="134">
+<navPoint id="navPoint-135" playOrder="135">
 <navLabel><text>⚈ Parivritta Trikonasana, Type 2</text></navLabel><content src="009-chapter009.xhtml#id-009.14"/>
 </navPoint>
-<navPoint id="navPoint-135" playOrder="135">
+<navPoint id="navPoint-136" playOrder="136">
 <navLabel><text>⚈ Parsva Konasana</text></navLabel><content src="009-chapter009.xhtml#id-009.15"/>
 </navPoint>
-<navPoint id="navPoint-136" playOrder="136">
+<navPoint id="navPoint-137" playOrder="137">
 <navLabel><text>⚈ Parsvottanasana</text></navLabel><content src="009-chapter009.xhtml#id-009.16"/>
 </navPoint>
-<navPoint id="navPoint-137" playOrder="137">
+<navPoint id="navPoint-138" playOrder="138">
 <navLabel><text>⚈ Prasarita Padottanasana</text></navLabel><content src="009-chapter009.xhtml#id-009.17"/>
 </navPoint>
-<navPoint id="navPoint-138" playOrder="138">
+<navPoint id="navPoint-139" playOrder="139">
 <navLabel><text>⚈ Tadasana</text></navLabel><content src="009-chapter009.xhtml#id-009.18"/>
 </navPoint>
-<navPoint id="navPoint-139" playOrder="139">
+<navPoint id="navPoint-140" playOrder="140">
 <navLabel><text>⚈ Trikonasana</text></navLabel><content src="009-chapter009.xhtml#id-009.19"/>
 </navPoint>
-<navPoint id="navPoint-140" playOrder="140">
+<navPoint id="navPoint-141" playOrder="141">
 <navLabel><text>⚈ Utkatasana</text></navLabel><content src="009-chapter009.xhtml#id-009.20"/>
 </navPoint>
-<navPoint id="navPoint-141" playOrder="141">
+<navPoint id="navPoint-142" playOrder="142">
 <navLabel><text>⚈ Veerabhadrasana, Type 1</text></navLabel><content src="009-chapter009.xhtml#id-009.21"/>
 </navPoint>
-<navPoint id="navPoint-142" playOrder="142">
+<navPoint id="navPoint-143" playOrder="143">
 <navLabel><text>⚈ Veerabhadrasana, Type 2</text></navLabel><content src="009-chapter009.xhtml#id-009.22"/>
 </navPoint>
-<navPoint id="navPoint-143" playOrder="143">
+<navPoint id="navPoint-144" playOrder="144">
 <navLabel><text>⚈ Veerabhadrasana Type 3</text></navLabel><content src="009-chapter009.xhtml#id-009.23"/>
 </navPoint>
-<navPoint id="navPoint-144" playOrder="144">
+<navPoint id="navPoint-145" playOrder="145">
 <navLabel><text>⚈ Veerabhadrasana Type 4</text></navLabel><content src="009-chapter009.xhtml#id-009.24"/>
 </navPoint>
-<navPoint id="navPoint-145" playOrder="145">
+<navPoint id="navPoint-146" playOrder="146">
 <navLabel><text>⚈ Veerabhadrasana Type 5</text></navLabel><content src="009-chapter009.xhtml#id-009.25"/>
 </navPoint>
-<navPoint id="navPoint-146" playOrder="146">
+<navPoint id="navPoint-147" playOrder="147">
 <navLabel><text>⚈ Viparita Trikonasana</text></navLabel><content src="009-chapter009.xhtml#id-009.26"/>
 </navPoint>
-<navPoint id="navPoint-147" playOrder="147">
+<navPoint id="navPoint-148" playOrder="148">
 <navLabel><text>⚈ Vrikshasana</text></navLabel><content src="009-chapter009.xhtml#id-009.27"/>
 </navPoint>
 </navPoint>
-<navPoint id="navPoint-148" playOrder="148">
-<navLabel><text>Surya Namaskara</text></navLabel><content src="010-chapter010.xhtml#id-010"/>
 <navPoint id="navPoint-149" playOrder="149">
+<navLabel><text>Surya Namaskara</text></navLabel><content src="010-chapter010.xhtml#id-010"/>
+<navPoint id="navPoint-150" playOrder="150">
 <navLabel><text>Surya Namaskara  Mantra in Katopanishad  / Mundakopanishad /  Shwetaswatara Upanishad</text></navLabel><content src="010-chapter010.xhtml#id-010.01"/>
 </navPoint>
-<navPoint id="navPoint-150" playOrder="150">
+<navPoint id="navPoint-151" playOrder="151">
 <navLabel><text>Surya Namaskara Mantra in Mundakopanishad</text></navLabel><content src="010-chapter010.xhtml#id-010.02"/>
 </navPoint>
-<navPoint id="navPoint-151" playOrder="151">
+<navPoint id="navPoint-152" playOrder="152">
 <navLabel><text>Surya Namaskara Mantra in Gayatri Dhyana Sloka</text></navLabel><content src="010-chapter010.xhtml#id-010.03"/>
 </navPoint>
-<navPoint id="navPoint-152" playOrder="152">
+<navPoint id="navPoint-153" playOrder="153">
 <navLabel><text>Surya Namaskara Mantra in Rig Veda</text></navLabel><content src="010-chapter010.xhtml#id-010.04"/>
 </navPoint>
-<navPoint id="navPoint-153" playOrder="153">
+<navPoint id="navPoint-154" playOrder="154">
 <navLabel><text>Surya Namaskara Mantra in Aitareya Upanishad</text></navLabel><content src="010-chapter010.xhtml#id-010.05"/>
 </navPoint>
-<navPoint id="navPoint-154" playOrder="154">
+<navPoint id="navPoint-155" playOrder="155">
 <navLabel><text>Surya Namaskara Mantra in Isavasya Upanishad</text></navLabel><content src="010-chapter010.xhtml#id-010.06"/>
 </navPoint>
-<navPoint id="navPoint-155" playOrder="155">
+<navPoint id="navPoint-156" playOrder="156">
 <navLabel><text>Surya Namaskara Mantra in Bhagawat Gita, Chapter 15</text></navLabel><content src="010-chapter010.xhtml#id-010.07"/>
 </navPoint>
-<navPoint id="navPoint-156" playOrder="156">
+<navPoint id="navPoint-157" playOrder="157">
 <navLabel><text>Surya Namaskara Mantra in Bhagawat Gita,  Chapter 13</text></navLabel><content src="010-chapter010.xhtml#id-010.08"/>
 </navPoint>
-<navPoint id="navPoint-157" playOrder="157">
+<navPoint id="navPoint-158" playOrder="158">
 <navLabel><text>Different Names of the Lord in Surya are below. Chant one mantra at a time and do the 16 steps of Surya Namaskara.</text></navLabel><content src="010-chapter010.xhtml#id-010.09"/>
 </navPoint>
 </navPoint>
-<navPoint id="navPoint-158" playOrder="158">
-<navLabel><text>Pranayama</text></navLabel><content src="011-chapter011.xhtml#id-011"/>
 <navPoint id="navPoint-159" playOrder="159">
+<navLabel><text>Pranayama</text></navLabel><content src="011-chapter011.xhtml#id-011"/>
+<navPoint id="navPoint-160" playOrder="160">
 <navLabel><text>Hata Yoga</text></navLabel><content src="011-chapter011.xhtml#id-011.01"/>
 </navPoint>
-<navPoint id="navPoint-160" playOrder="160">
+<navPoint id="navPoint-161" playOrder="161">
 <navLabel><text>Nadi Shodana Pranayama</text></navLabel><content src="011-chapter011.xhtml#id-011.02"/>
 </navPoint>
-<navPoint id="navPoint-161" playOrder="161">
+<navPoint id="navPoint-162" playOrder="162">
 <navLabel><text>Bhramari Pranayama: Type 1</text></navLabel><content src="011-chapter011.xhtml#id-011.03"/>
 </navPoint>
-<navPoint id="navPoint-162" playOrder="162">
+<navPoint id="navPoint-163" playOrder="163">
 <navLabel><text>Bhramari Pranayama Type 2</text></navLabel><content src="011-chapter011.xhtml#id-011.04"/>
 </navPoint>
-<navPoint id="navPoint-163" playOrder="163">
+<navPoint id="navPoint-164" playOrder="164">
 <navLabel><text>3.  Sheetali Pranayama</text></navLabel><content src="011-chapter011.xhtml#id-011.05"/>
 </navPoint>
-<navPoint id="navPoint-164" playOrder="164">
+<navPoint id="navPoint-165" playOrder="165">
 <navLabel><text>4  Sheetakari Pranayama</text></navLabel><content src="011-chapter011.xhtml#id-011.06"/>
 </navPoint>
-<navPoint id="navPoint-165" playOrder="165">
+<navPoint id="navPoint-166" playOrder="166">
 <navLabel><text>5.  Bastrika Pranayama Type 1</text></navLabel><content src="011-chapter011.xhtml#id-011.07"/>
 </navPoint>
-<navPoint id="navPoint-166" playOrder="166">
+<navPoint id="navPoint-167" playOrder="167">
 <navLabel><text>6.  Bastrika Pranayama Type 2</text></navLabel><content src="011-chapter011.xhtml#id-011.08"/>
 </navPoint>
-<navPoint id="navPoint-167" playOrder="167">
+<navPoint id="navPoint-168" playOrder="168">
 <navLabel><text>7.  Kapalabhati</text></navLabel><content src="011-chapter011.xhtml#id-011.09"/>
 </navPoint>
-<navPoint id="navPoint-168" playOrder="168">
+<navPoint id="navPoint-169" playOrder="169">
 <navLabel><text>8.  Ujjayi Pranayama</text></navLabel><content src="011-chapter011.xhtml#id-011.10"/>
 </navPoint>
 </navPoint>
-<navPoint id="navPoint-169" playOrder="169">
-<navLabel><text>Mudras and Bandha</text></navLabel><content src="012-chapter012.xhtml#id-012"/>
 <navPoint id="navPoint-170" playOrder="170">
+<navLabel><text>Mudras and Bandha</text></navLabel><content src="012-chapter012.xhtml#id-012"/>
+<navPoint id="navPoint-171" playOrder="171">
 <navLabel><text>Hasta Mudra (Hand mudra)</text></navLabel><content src="012-chapter012.xhtml#id-012.01"/>
 </navPoint>
-<navPoint id="navPoint-171" playOrder="171">
+<navPoint id="navPoint-172" playOrder="172">
 <navLabel><text>1.  Chin Mudra</text></navLabel><content src="012-chapter012.xhtml#id-012.02"/>
 </navPoint>
-<navPoint id="navPoint-172" playOrder="172">
+<navPoint id="navPoint-173" playOrder="173">
 <navLabel><text>2.  Chinmaya Mudra</text></navLabel><content src="012-chapter012.xhtml#id-012.03"/>
 </navPoint>
-<navPoint id="navPoint-173" playOrder="173">
+<navPoint id="navPoint-174" playOrder="174">
 <navLabel><text>3.  Adi Mudra</text></navLabel><content src="012-chapter012.xhtml#id-012.04"/>
 </navPoint>
-<navPoint id="navPoint-174" playOrder="174">
+<navPoint id="navPoint-175" playOrder="175">
 <navLabel><text>4.  Jnana Mudra</text></navLabel><content src="012-chapter012.xhtml#id-012.05"/>
 </navPoint>
-<navPoint id="navPoint-175" playOrder="175">
+<navPoint id="navPoint-176" playOrder="176">
 <navLabel><text>5.  Akasha Mudra</text></navLabel><content src="012-chapter012.xhtml#id-012.06"/>
 </navPoint>
-<navPoint id="navPoint-176" playOrder="176">
+<navPoint id="navPoint-177" playOrder="177">
 <navLabel><text>6.  Pritvi Mudra</text></navLabel><content src="012-chapter012.xhtml#id-012.07"/>
 </navPoint>
-<navPoint id="navPoint-177" playOrder="177">
+<navPoint id="navPoint-178" playOrder="178">
 <navLabel><text>7.  Varuna Mudra</text></navLabel><content src="012-chapter012.xhtml#id-012.08"/>
 </navPoint>
-<navPoint id="navPoint-178" playOrder="178">
+<navPoint id="navPoint-179" playOrder="179">
 <navLabel><text>8.  Vyana Mudra</text></navLabel><content src="012-chapter012.xhtml#id-012.09"/>
 </navPoint>
-<navPoint id="navPoint-179" playOrder="179">
+<navPoint id="navPoint-180" playOrder="180">
 <navLabel><text>9.  Apana Mudra</text></navLabel><content src="012-chapter012.xhtml#id-012.10"/>
 </navPoint>
-<navPoint id="navPoint-180" playOrder="180">
+<navPoint id="navPoint-181" playOrder="181">
 <navLabel><text>10.  Prana Mudra</text></navLabel><content src="012-chapter012.xhtml#id-012.11"/>
 </navPoint>
-<navPoint id="navPoint-181" playOrder="181">
+<navPoint id="navPoint-182" playOrder="182">
 <navLabel><text>11.  Vayu Mudra</text></navLabel><content src="012-chapter012.xhtml#id-012.12"/>
 </navPoint>
-<navPoint id="navPoint-182" playOrder="182">
+<navPoint id="navPoint-183" playOrder="183">
 <navLabel><text>11.  Shoonya Mudra</text></navLabel><content src="012-chapter012.xhtml#id-012.13"/>
 </navPoint>
-<navPoint id="navPoint-183" playOrder="183">
+<navPoint id="navPoint-184" playOrder="184">
 <navLabel><text>13.  Surya Mudra</text></navLabel><content src="012-chapter012.xhtml#id-012.14"/>
 </navPoint>
-<navPoint id="navPoint-184" playOrder="184">
+<navPoint id="navPoint-185" playOrder="185">
 <navLabel><text>14.  Jalodhara Nashaka Mudra</text></navLabel><content src="012-chapter012.xhtml#id-012.15"/>
 </navPoint>
-<navPoint id="navPoint-185" playOrder="185">
+<navPoint id="navPoint-186" playOrder="186">
 <navLabel><text>15.  Linga Mudra</text></navLabel><content src="012-chapter012.xhtml#id-012.16"/>
 </navPoint>
-<navPoint id="navPoint-186" playOrder="186">
+<navPoint id="navPoint-187" playOrder="187">
 <navLabel><text>16.  Shanka Mudra</text></navLabel><content src="012-chapter012.xhtml#id-012.17"/>
 </navPoint>
-<navPoint id="navPoint-187" playOrder="187">
+<navPoint id="navPoint-188" playOrder="188">
 <navLabel><text>17.  Sahaja Shanka Mudra</text></navLabel><content src="012-chapter012.xhtml#id-012.18"/>
 </navPoint>
-<navPoint id="navPoint-188" playOrder="188">
+<navPoint id="navPoint-189" playOrder="189">
 <navLabel><text>18.  Aditi Mudra</text></navLabel><content src="012-chapter012.xhtml#id-012.19"/>
 </navPoint>
-<navPoint id="navPoint-189" playOrder="189">
+<navPoint id="navPoint-190" playOrder="190">
 <navLabel><text>19.  Surabhi Mudra / Denu Mudra</text></navLabel><content src="012-chapter012.xhtml#id-012.20"/>
 </navPoint>
-<navPoint id="navPoint-190" playOrder="190">
+<navPoint id="navPoint-191" playOrder="191">
 <navLabel><text>20.  Hridaya Mudra</text></navLabel><content src="012-chapter012.xhtml#id-012.21"/>
 </navPoint>
-<navPoint id="navPoint-191" playOrder="191">
+<navPoint id="navPoint-192" playOrder="192">
 <navLabel><text>21.  Yoni Mudra</text></navLabel><content src="012-chapter012.xhtml#id-012.22"/>
 </navPoint>
-<navPoint id="navPoint-192" playOrder="192">
+<navPoint id="navPoint-193" playOrder="193">
 <navLabel><text>Do the following Mudras daily.</text></navLabel><content src="012-chapter012.xhtml#id-012.23"/>
 </navPoint>
-<navPoint id="navPoint-193" playOrder="193">
+<navPoint id="navPoint-194" playOrder="194">
 <navLabel><text>Important things to know about the Mudras:</text></navLabel><content src="012-chapter012.xhtml#id-012.24"/>
 </navPoint>
-<navPoint id="navPoint-194" playOrder="194">
+<navPoint id="navPoint-195" playOrder="195">
 <navLabel><text>Puja Mudras</text></navLabel><content src="012-chapter012.xhtml#id-012.25"/>
 </navPoint>
-<navPoint id="navPoint-195" playOrder="195">
+<navPoint id="navPoint-196" playOrder="196">
 <navLabel><text>Shanka (conch) Mudra</text></navLabel><content src="012-chapter012.xhtml#id-012.26"/>
 </navPoint>
-<navPoint id="navPoint-196" playOrder="196">
+<navPoint id="navPoint-197" playOrder="197">
 <navLabel><text>Sudarshana (chakra) Mudra</text></navLabel><content src="012-chapter012.xhtml#id-012.27"/>
 </navPoint>
-<navPoint id="navPoint-197" playOrder="197">
+<navPoint id="navPoint-198" playOrder="198">
 <navLabel><text>Gada (mace) Mudra</text></navLabel><content src="012-chapter012.xhtml#id-012.28"/>
 </navPoint>
-<navPoint id="navPoint-198" playOrder="198">
+<navPoint id="navPoint-199" playOrder="199">
 <navLabel><text>Padma (lotus) Mudra</text></navLabel><content src="012-chapter012.xhtml#id-012.29"/>
 </navPoint>
-<navPoint id="navPoint-199" playOrder="199">
+<navPoint id="navPoint-200" playOrder="200">
 <navLabel><text>Tarkshya Mudra</text></navLabel><content src="012-chapter012.xhtml#id-012.30"/>
 </navPoint>
-<navPoint id="navPoint-200" playOrder="200">
+<navPoint id="navPoint-201" playOrder="201">
 <navLabel><text>Avaahini Mudra</text></navLabel><content src="012-chapter012.xhtml#id-012.31"/>
 </navPoint>
-<navPoint id="navPoint-201" playOrder="201">
+<navPoint id="navPoint-202" playOrder="202">
 <navLabel><text>Stapini Mudra</text></navLabel><content src="012-chapter012.xhtml#id-012.32"/>
 </navPoint>
-<navPoint id="navPoint-202" playOrder="202">
+<navPoint id="navPoint-203" playOrder="203">
 <navLabel><text>Sannidhayini Mudra</text></navLabel><content src="012-chapter012.xhtml#id-012.33"/>
 </navPoint>
-<navPoint id="navPoint-203" playOrder="203">
+<navPoint id="navPoint-204" playOrder="204">
 <navLabel><text>Samrodhani Mudra</text></navLabel><content src="012-chapter012.xhtml#id-012.34"/>
 </navPoint>
-<navPoint id="navPoint-204" playOrder="204">
+<navPoint id="navPoint-205" playOrder="205">
 <navLabel><text>Sanmukha Mudra</text></navLabel><content src="012-chapter012.xhtml#id-012.35"/>
 </navPoint>
-<navPoint id="navPoint-205" playOrder="205">
+<navPoint id="navPoint-206" playOrder="206">
 <navLabel><text>Avaguntani Mudra</text></navLabel><content src="012-chapter012.xhtml#id-012.36"/>
 </navPoint>
-<navPoint id="navPoint-206" playOrder="206">
+<navPoint id="navPoint-207" playOrder="207">
 <navLabel><text>Prasada Mudra</text></navLabel><content src="012-chapter012.xhtml#id-012.37"/>
 </navPoint>
-<navPoint id="navPoint-207" playOrder="207">
+<navPoint id="navPoint-208" playOrder="208">
 <navLabel><text>Denu Mudra</text></navLabel><content src="012-chapter012.xhtml#id-012.38"/>
 </navPoint>
-<navPoint id="navPoint-208" playOrder="208">
+<navPoint id="navPoint-209" playOrder="209">
 <navLabel><text>Surya Darshana Mudra</text></navLabel><content src="012-chapter012.xhtml#id-012.39"/>
 </navPoint>
-<navPoint id="navPoint-209" playOrder="209">
+<navPoint id="navPoint-210" playOrder="210">
 <navLabel><text>Kaya Mudras: Mudras through Body</text></navLabel><content src="012-chapter012.xhtml#id-012.40"/>
 </navPoint>
-<navPoint id="navPoint-210" playOrder="210">
+<navPoint id="navPoint-211" playOrder="211">
 <navLabel><text>Ashwini Mudra</text></navLabel><content src="012-chapter012.xhtml#id-012.41"/>
 </navPoint>
-<navPoint id="navPoint-211" playOrder="211">
+<navPoint id="navPoint-212" playOrder="212">
 <navLabel><text>Maha Mudra</text></navLabel><content src="012-chapter012.xhtml#id-012.42"/>
 </navPoint>
-<navPoint id="navPoint-212" playOrder="212">
+<navPoint id="navPoint-213" playOrder="213">
 <navLabel><text>Viparitakarini Mudra</text></navLabel><content src="012-chapter012.xhtml#id-012.43"/>
 </navPoint>
-<navPoint id="navPoint-213" playOrder="213">
+<navPoint id="navPoint-214" playOrder="214">
 <navLabel><text>Khechari Mudra</text></navLabel><content src="012-chapter012.xhtml#id-012.44"/>
 </navPoint>
-<navPoint id="navPoint-214" playOrder="214">
+<navPoint id="navPoint-215" playOrder="215">
 <navLabel><text>Shakti Chalana Mudra</text></navLabel><content src="012-chapter012.xhtml#id-012.45"/>
 </navPoint>
-<navPoint id="navPoint-215" playOrder="215">
+<navPoint id="navPoint-216" playOrder="216">
 <navLabel><text>Shambhavi Mudra</text></navLabel><content src="012-chapter012.xhtml#id-012.46"/>
 </navPoint>
-<navPoint id="navPoint-216" playOrder="216">
+<navPoint id="navPoint-217" playOrder="217">
 <navLabel><text>Shanmukhi Mudra</text></navLabel><content src="012-chapter012.xhtml#id-012.47"/>
 </navPoint>
-<navPoint id="navPoint-217" playOrder="217">
+<navPoint id="navPoint-218" playOrder="218">
 <navLabel><text>Yoga Mudra</text></navLabel><content src="012-chapter012.xhtml#id-012.48"/>
 </navPoint>
-<navPoint id="navPoint-218" playOrder="218">
+<navPoint id="navPoint-219" playOrder="219">
 <navLabel><text>Moola Bandha</text></navLabel><content src="012-chapter012.xhtml#id-012.49"/>
 </navPoint>
-<navPoint id="navPoint-219" playOrder="219">
+<navPoint id="navPoint-220" playOrder="220">
 <navLabel><text>Jaalandhara Bandha</text></navLabel><content src="012-chapter012.xhtml#id-012.50"/>
 </navPoint>
-<navPoint id="navPoint-220" playOrder="220">
+<navPoint id="navPoint-221" playOrder="221">
 <navLabel><text>Uddayana Bandha</text></navLabel><content src="012-chapter012.xhtml#id-012.51"/>
 </navPoint>
-<navPoint id="navPoint-221" playOrder="221">
+<navPoint id="navPoint-222" playOrder="222">
 <navLabel><text>Maha Bandha</text></navLabel><content src="012-chapter012.xhtml#id-012.52"/>
 </navPoint>
-<navPoint id="navPoint-222" playOrder="222">
+<navPoint id="navPoint-223" playOrder="223">
 <navLabel><text>Maha Vedha</text></navLabel><content src="012-chapter012.xhtml#id-012.53"/>
 </navPoint>
 </navPoint>
-<navPoint id="navPoint-223" playOrder="223">
-<navLabel><text>Kundalini Yoga</text></navLabel><content src="013-chapter013.xhtml#id-013"/>
 <navPoint id="navPoint-224" playOrder="224">
+<navLabel><text>Kundalini Yoga</text></navLabel><content src="013-chapter013.xhtml#id-013"/>
+<navPoint id="navPoint-225" playOrder="225">
 <navLabel><text>Kundalini Shakti</text></navLabel><content src="013-chapter013.xhtml#id-013.01"/>
 </navPoint>
-<navPoint id="navPoint-225" playOrder="225">
+<navPoint id="navPoint-226" playOrder="226">
 <navLabel><text>The Mooladhara Chakra</text></navLabel><content src="013-chapter013.xhtml#id-013.02"/>
 </navPoint>
-<navPoint id="navPoint-226" playOrder="226">
+<navPoint id="navPoint-227" playOrder="227">
 <navLabel><text>The Swadistana Chakra</text></navLabel><content src="013-chapter013.xhtml#id-013.03"/>
 </navPoint>
-<navPoint id="navPoint-227" playOrder="227">
+<navPoint id="navPoint-228" playOrder="228">
 <navLabel><text>The Manipura Chakra</text></navLabel><content src="013-chapter013.xhtml#id-013.04"/>
 </navPoint>
-<navPoint id="navPoint-228" playOrder="228">
+<navPoint id="navPoint-229" playOrder="229">
 <navLabel><text>The Anahata Chakra</text></navLabel><content src="013-chapter013.xhtml#id-013.05"/>
 </navPoint>
-<navPoint id="navPoint-229" playOrder="229">
+<navPoint id="navPoint-230" playOrder="230">
 <navLabel><text>The Vishudda Chakra</text></navLabel><content src="013-chapter013.xhtml#id-013.06"/>
 </navPoint>
-<navPoint id="navPoint-230" playOrder="230">
+<navPoint id="navPoint-231" playOrder="231">
 <navLabel><text>The Ajna Chakra</text></navLabel><content src="013-chapter013.xhtml#id-013.07"/>
 </navPoint>
-<navPoint id="navPoint-231" playOrder="231">
+<navPoint id="navPoint-232" playOrder="232">
 <navLabel><text>The Sahasrara Chakra</text></navLabel><content src="013-chapter013.xhtml#id-013.08"/>
 </navPoint>
 </navPoint>
-<navPoint id="navPoint-232" playOrder="232">
-<navLabel><text>Pratyahara, Dharana, Dhyana and Samadhi</text></navLabel><content src="014-chapter014.xhtml#id-014"/>
 <navPoint id="navPoint-233" playOrder="233">
+<navLabel><text>Pratyahara, Dharana, Dhyana and Samadhi</text></navLabel><content src="014-chapter014.xhtml#id-014"/>
+<navPoint id="navPoint-234" playOrder="234">
 <navLabel><text>Pratyahara</text></navLabel><content src="014-chapter014.xhtml#id-014.01"/>
 </navPoint>
-<navPoint id="navPoint-234" playOrder="234">
+<navPoint id="navPoint-235" playOrder="235">
 <navLabel><text>Yoga Nidra</text></navLabel><content src="014-chapter014.xhtml#id-014.02"/>
 </navPoint>
-<navPoint id="navPoint-235" playOrder="235">
+<navPoint id="navPoint-236" playOrder="236">
 <navLabel><text>Dharana</text></navLabel><content src="014-chapter014.xhtml#id-014.03"/>
 </navPoint>
-<navPoint id="navPoint-236" playOrder="236">
+<navPoint id="navPoint-237" playOrder="237">
 <navLabel><text>Dhyana</text></navLabel><content src="014-chapter014.xhtml#id-014.04"/>
 </navPoint>
-<navPoint id="navPoint-237" playOrder="237">
+<navPoint id="navPoint-238" playOrder="238">
 <navLabel><text>Samadhi</text></navLabel><content src="014-chapter014.xhtml#id-014.05"/>
 </navPoint>
-<navPoint id="navPoint-238" playOrder="238">
+<navPoint id="navPoint-239" playOrder="239">
 <navLabel><text>Vasudeva Kriya</text></navLabel><content src="014-chapter014.xhtml#id-014.06"/>
 </navPoint>
 </navPoint>
-<navPoint id="navPoint-239" playOrder="239">
-<navLabel><text>DHYANA</text></navLabel><content src="015-chapter015.xhtml#id-015"/>
 <navPoint id="navPoint-240" playOrder="240">
+<navLabel><text>DHYANA</text></navLabel><content src="015-chapter015.xhtml#id-015"/>
+<navPoint id="navPoint-241" playOrder="241">
 <navLabel><text>Japa</text></navLabel><content src="015-chapter015.xhtml#id-015.01"/>
 </navPoint>
-<navPoint id="navPoint-241" playOrder="241">
+<navPoint id="navPoint-242" playOrder="242">
 <navLabel><text>Meditation 1: Mantra Japa</text></navLabel><content src="015-chapter015.xhtml#id-015.02"/>
 </navPoint>
-<navPoint id="navPoint-242" playOrder="242">
+<navPoint id="navPoint-243" playOrder="243">
 <navLabel><text>Meditation 2: Shodasha Puja Upasana:</text></navLabel><content src="015-chapter015.xhtml#id-015.03"/>
 </navPoint>
-<navPoint id="navPoint-243" playOrder="243">
+<navPoint id="navPoint-244" playOrder="244">
 <navLabel><text>Meditation 3: Meditation on the meaning of OM — Type 1</text></navLabel><content src="015-chapter015.xhtml#id-015.04"/>
 </navPoint>
-<navPoint id="navPoint-244" playOrder="244">
+<navPoint id="navPoint-245" playOrder="245">
 <navLabel><text>Meditation 4: Meditation on the meaning of OM — Type 2</text></navLabel><content src="015-chapter015.xhtml#id-015.05"/>
 </navPoint>
-<navPoint id="navPoint-245" playOrder="245">
+<navPoint id="navPoint-246" playOrder="246">
 <navLabel><text>Meditation 5: Meditation on the meaning of OM — Type 3</text></navLabel><content src="015-chapter015.xhtml#id-015.06"/>
 </navPoint>
-<navPoint id="navPoint-246" playOrder="246">
+<navPoint id="navPoint-247" playOrder="247">
 <navLabel><text>Meditation 6: Meditation on the meaning of OM — Type 4</text></navLabel><content src="015-chapter015.xhtml#id-015.07"/>
 </navPoint>
-<navPoint id="navPoint-247" playOrder="247">
+<navPoint id="navPoint-248" playOrder="248">
 <navLabel><text>Meditation 7: Meditation on the meaning of OM — Type 5</text></navLabel><content src="015-chapter015.xhtml#id-015.08"/>
 </navPoint>
-<navPoint id="navPoint-248" playOrder="248">
+<navPoint id="navPoint-249" playOrder="249">
 <navLabel><text>Meditation 8: Meditation on Gayatri Mantra</text></navLabel><content src="015-chapter015.xhtml#id-015.09"/>
 </navPoint>
-<navPoint id="navPoint-249" playOrder="249">
+<navPoint id="navPoint-250" playOrder="250">
 <navLabel><text>Meditation 9: Meditation on inner sound</text></navLabel><content src="015-chapter015.xhtml#id-015.10"/>
 </navPoint>
-<navPoint id="navPoint-250" playOrder="250">
+<navPoint id="navPoint-251" playOrder="251">
 <navLabel><text>Meditation 10: Vasudeva Kriya Yoga</text></navLabel><content src="015-chapter015.xhtml#id-015.11"/>
 </navPoint>
-<navPoint id="navPoint-251" playOrder="251">
+<navPoint id="navPoint-252" playOrder="252">
 <navLabel><text>Dhanvantari Mantra (Healing mantra)</text></navLabel><content src="015-chapter015.xhtml#id-015.12"/>
 </navPoint>
 </navPoint>
