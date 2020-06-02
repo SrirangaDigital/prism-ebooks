@@ -20,7 +20,7 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilitySummary">The publication is missing alternative text for complex diagrams.</meta>
 		<meta property="schema:accessibilityAPI">ARIA</meta>
-		<meta property="dcterms:modified">2020-06-01T17:34:34Z</meta>
+		<meta property="dcterms:modified">2020-06-02T15:54:23Z</meta>
 	</metadata>
 	<manifest>
 		<item id="id-000a-title_xhtml" href="000a-title.xhtml" media-type="application/xhtml+xml" />
@@ -258,6 +258,7 @@
 		<item id="id-images_chapter11_001_jpg" href="images/chapter11/001.jpg" media-type="image/jpeg" />
 		<item id="id-images_chapter11_logo_jpg" href="images/chapter11/logo.jpg" media-type="image/jpeg" />
 		<item id="id-images_chapter11_pic159_jpg" href="images/chapter11/pic159.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter11_pic159a_jpg" href="images/chapter11/pic159a.jpg" media-type="image/jpeg" />
 		<item id="id-images_chapter11_pic160_jpg" href="images/chapter11/pic160.jpg" media-type="image/jpeg" />
 		<item id="id-images_chapter11_pic161_jpg" href="images/chapter11/pic161.jpg" media-type="image/jpeg" />
 		<item id="id-images_chapter11_pic162_jpg" href="images/chapter11/pic162.jpg" media-type="image/jpeg" />
@@ -329,6 +330,9 @@
 		<item id="id-images_chapter13_pic008_jpg" href="images/chapter13/pic008.jpg" media-type="image/jpeg" />
 		<item id="id-images_chapter13_pic009_jpg" href="images/chapter13/pic009.jpg" media-type="image/jpeg" />
 		<item id="id-images_chapter14_001_jpg" href="images/chapter14/001.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter14_002_jpg" href="images/chapter14/002.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter14_002a_jpg" href="images/chapter14/002a.jpg" media-type="image/jpeg" />
+		<item id="id-images_chapter14_003_jpg" href="images/chapter14/003.jpg" media-type="image/jpeg" />
 		<item id="id-images_chapter14_logo_jpg" href="images/chapter14/logo.jpg" media-type="image/jpeg" />
 		<item id="id-images_chapter15_001_jpg" href="images/chapter15/001.jpg" media-type="image/jpeg" />
 		<item id="id-images_chapter15_logo_jpg" href="images/chapter15/logo.jpg" media-type="image/jpeg" />
