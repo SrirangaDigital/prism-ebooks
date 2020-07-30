@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" version="3.0" xml:lang="en" unique-identifier="isbn">
 	<metadata  xmlns:dc="http://purl.org/dc/elements/1.1/">
-		<dc:title>The Mantra for winning cancer battle</dc:title>
+		<dc:title>Srinivasa Ramanujan</dc:title>
 		<dc:language>English</dc:language>
-		<dc:identifier id="isbn">urn:isbn:9789388478151</dc:identifier>
+		<dc:identifier id="isbn">urn:isbn:9789386506832</dc:identifier>
 		
-		<dc:creator id="author1">H.S.Kulkarni</dc:creator>
+		<dc:creator id="author1">Sydney Srinivas</dc:creator>
 		<meta refines="#author1" property="role" scheme="marc:relators">aut</meta>    
 				
 		<dc:creator id="bookDesigner1">Sriranga Digital Software Technologies Private Limited</dc:creator>
@@ -19,17 +19,16 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilitySummary">The publication is missing alternative text for complex diagrams.</meta>
 		<meta property="schema:accessibilityAPI">ARIA</meta>
-		<meta property="dcterms:modified">2020-07-28T16:29:23Z</meta>
+		<meta property="dcterms:modified">2020-07-28T15:26:00Z</meta>
 	</metadata>
 	<manifest>
 		<item id="id-000a-title_xhtml" href="000a-title.xhtml" media-type="application/xhtml+xml" />
 		<item id="id-000b-copyright_xhtml" href="000b-copyright.xhtml" media-type="application/xhtml+xml" />
-		<item id="id-000d-preface_xhtml" href="000d-preface.xhtml" media-type="application/xhtml+xml" />
-		<item id="id-100-part1_xhtml" href="100-part1.xhtml" media-type="application/xhtml+xml" />
-		<item id="id-101-preface_xhtml" href="101-preface.xhtml" media-type="application/xhtml+xml" />
-		<item id="id-102-chapter001_xhtml" href="102-chapter001.xhtml" media-type="application/xhtml+xml" />
-		<item id="id-200-part2_xhtml" href="200-part2.xhtml" media-type="application/xhtml+xml" />
-		<item id="id-201-chapter_xhtml" href="201-chapter.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-000c-Preface_xhtml" href="000c-Preface.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-000d-Foreword_xhtml" href="000d-Foreword.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-Acknowledgement_xhtml" href="Acknowledgement.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-Chapter001_xhtml" href="Chapter001.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-Chapter002_xhtml" href="Chapter002.xhtml" media-type="application/xhtml+xml" />
 		<item id="id-css_AGaramondPro-Regular_otf" href="css/AGaramondPro-Regular.otf" media-type="application/vnd.ms-opentype" />
 		<item id="id-css_AdobeDevanagari-Bold_otf" href="css/AdobeDevanagari-Bold.otf" media-type="application/vnd.ms-opentype" />
 		<item id="id-css_AdobeDevanagari-BoldItalic_otf" href="css/AdobeDevanagari-BoldItalic.otf" media-type="application/vnd.ms-opentype" />
@@ -45,19 +44,7 @@
 		<item id="id-css_PalatinoLinotype-Bold_ttf" href="css/PalatinoLinotype-Bold.ttf" media-type="application/vnd.ms-opentype" />
 		<item id="id-css_PalatinoLinotype-Roman_ttf" href="css/PalatinoLinotype-Roman.ttf" media-type="application/vnd.ms-opentype" />
 		<item id="id-css_style_css" href="css/style.css" media-type="text/css" />
-		<item id="id-images_001_jpg" href="images/001.jpg" media-type="image/jpeg" />
-		<item id="id-images_002_jpg" href="images/002.jpg" media-type="image/jpeg" />
-		<item id="id-images_003_jpg" href="images/003.jpg" media-type="image/jpeg" />
-		<item id="id-images_004_jpg" href="images/004.jpg" media-type="image/jpeg" />
-		<item id="id-images_005_jpg" href="images/005.jpg" media-type="image/jpeg" />
-		<item id="id-images_006_jpg" href="images/006.jpg" media-type="image/jpeg" />
-		<item id="id-images_007_jpg" href="images/007.jpg" media-type="image/jpeg" />
-		<item id="id-images_008_jpg" href="images/008.jpg" media-type="image/jpeg" />
-		<item id="id-images_009_jpg" href="images/009.jpg" media-type="image/jpeg" />
-		<item id="id-images_1_png" href="images/1.png" media-type="image/png" />
-		<item id="id-images_2_png" href="images/2.png" media-type="image/png" />
 		<item properties="cover-image" id="id-images_cover_jpg" href="images/cover.jpg" media-type="image/jpeg" />
-		<item id="id-images_logo_png" href="images/logo.png" media-type="image/png" />
 		<item id="id-toc_ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
 		<item properties="nav" id="id-toc_xhtml" href="toc.xhtml" media-type="application/xhtml+xml" />
 
@@ -65,12 +52,8 @@
 	<spine toc="id-toc_ncx">
 		<itemref idref="id-000a-title_xhtml" linear="yes" />
 		<itemref idref="id-000b-copyright_xhtml" linear="yes" />
-		<itemref idref="id-000d-preface_xhtml" linear="yes" />
-		<itemref idref="id-100-part1_xhtml" linear="yes" />
-		<itemref idref="id-101-preface_xhtml" linear="yes" />
-		<itemref idref="id-102-chapter001_xhtml" linear="yes" />
-		<itemref idref="id-200-part2_xhtml" linear="yes" />
-		<itemref idref="id-201-chapter_xhtml" linear="yes" />
+		<itemref idref="id-000c-Preface_xhtml" linear="yes" />
+		<itemref idref="id-000d-Foreword_xhtml" linear="yes" />
 
 	</spine>
 </package>
